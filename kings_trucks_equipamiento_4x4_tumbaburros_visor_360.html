@@ -1,0 +1,3349 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KINGS TRUCKS® MÉXICO | Equipamiento 4x4 Calibre 11, Tumbaburros, Difusores & Lips</title>
+  <meta name="description" content="Tienda Oficial y Centro de Instalación Flagship KINGS TRUCKS México en Cuautitlán Izcalli. 725+ SKUs reales: Tumbaburros Calibre 11 (3.18mm), herrajes sin perforar, estribos, tapas retráctiles, difusores LED y lips deportivos." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700;800&family=Libre+Franklin:wght@700;800;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --kt-yellow: #FFC72C;
+      --kt-yellow-dark: #E0A800;
+      --kt-yellow-soft: rgba(255, 199, 44, 0.14);
+      --kt-black: #0B0F17;
+      --kt-carbon: #111827;
+      --kt-steel: #1E293B;
+      --kt-border: #E2E8F0;
+      --kt-border-dark: #273244;
+      --kt-bg: #F4F6F9;
+      --kt-white: #FFFFFF;
+      --kt-text: #0F172A;
+      --kt-muted: #64748B;
+      --kt-green: #059669;
+      --kt-green-bright: #10B981;
+      --kt-red: #DC2626;
+      --font-display: 'Libre Franklin', system-ui, -apple-system, sans-serif;
+      --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      --shadow-xs: 0 1px 3px rgba(11, 15, 23, 0.06);
+      --shadow-sm: 0 4px 14px rgba(11, 15, 23, 0.07);
+      --shadow-md: 0 12px 30px -8px rgba(11, 15, 23, 0.14);
+      --shadow-lg: 0 24px 50px -12px rgba(11, 15, 23, 0.28);
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      font-family: var(--font-sans);
+      color: var(--kt-text);
+      background: var(--kt-bg);
+      -webkit-font-smoothing: antialiased;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    body {
+      min-height: 100vh;
+      max-width: 100%;
+      overflow-x: hidden;
+      background: var(--kt-bg);
+    }
+
+    .hero-grid > *, .shop-layout > *, .showroom-grid > *, .trends-grid > *, .booking-b2b-grid > *, .bento-grid > *, .products-grid > * {
+      min-width: 0;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    button, input, select, textarea {
+      font-family: inherit;
+    }
+
+    .mono {
+      font-family: var(--font-mono);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1420px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    /* =====================================================================
+       LEVEL 1: TOP UTILITY & PRICE TELEMETRY BAR (ZERO OVERLAP)
+    ===================================================================== */
+    .topbar {
+      background: #06090F;
+      color: #CBD5E1;
+      font-size: 12px;
+      border-bottom: 1px solid var(--kt-border-dark);
+      padding: 8px 0;
+    }
+    .topbar-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .topbar-left, .topbar-right {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .live-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: rgba(16, 185, 129, 0.14);
+      border: 1px solid rgba(16, 185, 129, 0.42);
+      color: #34D399;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 11px;
+      white-space: nowrap;
+    }
+    .live-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #10B981;
+      box-shadow: 0 0 8px #10B981;
+      animation: pulseLive 1.8s infinite;
+    }
+    @keyframes pulseLive {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.35); opacity: 0.6; }
+    }
+    .topbar-meta {
+      color: #94A3B8;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .topbar-wa {
+      color: #F8FAFC;
+      text-decoration: none;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+    }
+    .topbar-wa:hover {
+      color: var(--kt-yellow);
+    }
+    .price-mode-wrap {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .price-mode-lbl {
+      font-size: 11px;
+      font-weight: 700;
+      color: #94A3B8;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .price-mode-group {
+      display: inline-flex;
+      background: #111827;
+      border: 1px solid #334155;
+      border-radius: 7px;
+      padding: 2px;
+      gap: 2px;
+    }
+    .price-mode-btn {
+      background: transparent;
+      color: #94A3B8;
+      border: none;
+      padding: 5px 10px;
+      font-size: 11.5px;
+      font-weight: 700;
+      border-radius: 5px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+    .price-mode-btn.active {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+    }
+
+    /* =====================================================================
+       LEVEL 2: STICKY MAIN HEADER (SEARCH-FIRST E-COMMERCE, ZERO OVERLAP)
+    ===================================================================== */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 120;
+      background: rgba(11, 15, 23, 0.98);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--kt-border-dark);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    }
+    .main-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 12px 0;
+      min-height: 70px;
+    }
+    .brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      text-decoration: none;
+      color: #FFFFFF;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .brand-logo img {
+      width: 46px;
+      height: 46px;
+      border-radius: 8px;
+      object-fit: cover;
+      border: 1.5px solid var(--kt-yellow);
+      background: #000;
+      flex-shrink: 0;
+    }
+    .brand-wordmark {
+      display: flex;
+      flex-direction: column;
+      white-space: nowrap;
+    }
+    .brand-title {
+      font-family: var(--font-display);
+      font-weight: 900;
+      font-size: 19px;
+      line-height: 1.05;
+      letter-spacing: 0.03em;
+      color: #FFFFFF;
+    }
+    .brand-title span {
+      color: var(--kt-yellow);
+    }
+    .brand-subtitle {
+      font-family: var(--font-mono);
+      font-size: 9.5px;
+      color: #94A3B8;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      margin-top: 3px;
+    }
+
+    /* MEGA SEARCH BAR (MIKEL'S STYLE) */
+    .mega-search {
+      flex: 1;
+      min-width: 240px;
+      max-width: 640px;
+      display: flex;
+      align-items: stretch;
+      background: #FFFFFF;
+      border-radius: 8px;
+      border: 2px solid #334155;
+      overflow: hidden;
+      transition: border-color 0.15s;
+    }
+    .mega-search:focus-within {
+      border-color: var(--kt-yellow);
+    }
+    .mega-search-dept {
+      background: #F1F5F9;
+      border: none;
+      border-right: 1px solid #CBD5E1;
+      color: #0F172A;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 0 12px;
+      cursor: pointer;
+      max-width: 175px;
+    }
+    .mega-search-input {
+      flex: 1;
+      border: none;
+      padding: 10px 14px;
+      font-size: 13.5px;
+      color: #0F172A;
+      min-width: 0;
+    }
+    .mega-search-input:focus {
+      outline: none;
+    }
+    .mega-search-btn {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border: none;
+      padding: 0 18px;
+      font-weight: 800;
+      font-size: 13px;
+      cursor: pointer;
+      white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .mega-search-btn:hover {
+      background: var(--kt-yellow-dark);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-shrink: 0;
+    }
+    .view-mode-switch {
+      display: inline-flex;
+      background: #1E293B;
+      border: 1px solid #334155;
+      border-radius: 8px;
+      padding: 3px;
+      gap: 3px;
+    }
+    .view-mode-btn {
+      border: none;
+      background: transparent;
+      color: #CBD5E1;
+      font-size: 11.5px;
+      font-weight: 700;
+      padding: 6px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .view-mode-btn.active {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+    }
+    .cart-trigger {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border: none;
+      font-weight: 800;
+      font-size: 13px;
+      padding: 9px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      white-space: nowrap;
+    }
+    .cart-trigger:hover {
+      background: var(--kt-yellow-dark);
+    }
+    .cart-count-pill {
+      background: var(--kt-black);
+      color: var(--kt-yellow);
+      font-family: var(--font-mono);
+      font-size: 11.5px;
+      font-weight: 800;
+      padding: 2px 7px;
+      border-radius: 99px;
+    }
+    .mobile-menu-btn {
+      display: none;
+      background: #1E293B;
+      color: #FFFFFF;
+      border: 1px solid #475569;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    /* =====================================================================
+       LEVEL 3: DEPARTMENT NAVIGATION BAR (INDEPENDENT SCROLLABLE ROW)
+    ===================================================================== */
+    .dept-nav-bar {
+      background: #111827;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      border-bottom: 2px solid var(--kt-yellow);
+    }
+    .dept-nav-scroll {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding: 8px 0;
+    }
+    .dept-nav-scroll::-webkit-scrollbar {
+      display: none;
+    }
+    .dept-btn {
+      background: transparent;
+      border: 1px solid transparent;
+      color: #E2E8F0;
+      font-size: 12.5px;
+      font-weight: 700;
+      padding: 7px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+    }
+    .dept-btn:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: #FFFFFF;
+    }
+    .dept-btn.active {
+      background: rgba(255, 199, 44, 0.16);
+      border-color: rgba(255, 199, 44, 0.55);
+      color: var(--kt-yellow);
+    }
+    .dept-badge {
+      font-family: var(--font-mono);
+      font-size: 10.5px;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.1);
+      color: #F8FAFC;
+    }
+    .dept-btn.active .dept-badge {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      font-weight: 800;
+    }
+
+    /* =====================================================================
+       HERO SECTION + GARAGE FITMENT DOCK + FIXED BEFORE/AFTER SLIDER
+    ===================================================================== */
+    .hero-section {
+      background: radial-gradient(circle at 80% 20%, rgba(255, 199, 44, 0.14), transparent 45%),
+                  linear-gradient(180deg, #0B0F17 0%, #131B2B 100%);
+      color: #FFFFFF;
+      padding: 36px 0 44px;
+      border-bottom: 1px solid #1E293B;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.12fr;
+      gap: 32px;
+      align-items: center;
+    }
+    .hero-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255, 199, 44, 0.14);
+      border: 1px solid rgba(255, 199, 44, 0.45);
+      color: var(--kt-yellow);
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 700;
+      padding: 5px 12px;
+      border-radius: 99px;
+      margin-bottom: 14px;
+      letter-spacing: 0.05em;
+    }
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(26px, 3.2vw, 44px);
+      font-weight: 900;
+      line-height: 1.08;
+      letter-spacing: -0.02em;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    .hero-title .accent {
+      color: var(--kt-yellow);
+    }
+    .hero-lead {
+      color: #CBD5E1;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+      max-width: 600px;
+    }
+    .hero-pillars {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+    .pillar-card {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-left: 3px solid var(--kt-yellow);
+      border-radius: 8px;
+      padding: 10px 12px;
+    }
+    .pillar-val {
+      font-family: var(--font-mono);
+      font-size: 16px;
+      font-weight: 800;
+      color: #FFFFFF;
+    }
+    .pillar-txt {
+      font-size: 11.5px;
+      color: #94A3B8;
+      margin-top: 2px;
+    }
+    .hero-ctas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .btn-primary {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border: none;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 13.5px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      transition: transform 0.15s, background 0.15s;
+    }
+    .btn-primary:hover {
+      background: var(--kt-yellow-dark);
+      transform: translateY(-1px);
+    }
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.08);
+      color: #FFFFFF;
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 13px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      transition: all 0.15s;
+    }
+    .btn-secondary:hover {
+      border-color: var(--kt-yellow);
+      background: rgba(255, 255, 255, 0.14);
+    }
+
+    /* BEFORE / AFTER SLIDER — CLIPPED TAGS SO HANDLE NEVER CROSSES TEXT */
+    .ba-card {
+      background: #0B0F17;
+      border: 1px solid #334155;
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: var(--shadow-lg);
+    }
+    .ba-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 11px 16px;
+      background: #06090F;
+      border-bottom: 1px solid #1E293B;
+    }
+    .ba-title {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--kt-yellow);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .ba-hint {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: #94A3B8;
+      background: #1E293B;
+      padding: 3px 8px;
+      border-radius: 5px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .ba-viewport {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 10;
+      overflow: hidden;
+      cursor: ew-resize;
+      user-select: none;
+      background: #000;
+    }
+    .ba-after-layer, .ba-before-layer {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .ba-after-layer {
+      z-index: 2;
+    }
+    .ba-before-layer {
+      z-index: 5;
+      clip-path: inset(0 64% 0 0);
+    }
+    .ba-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      pointer-events: none;
+    }
+    .ba-badge-before {
+      position: absolute;
+      bottom: 12px;
+      left: 12px;
+      background: rgba(11, 15, 23, 0.90);
+      color: #E2E8F0;
+      border: 1px solid #475569;
+      padding: 5px 10px;
+      border-radius: 6px;
+      font-size: 10.5px;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      pointer-events: none;
+    }
+    .ba-badge-after {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      background: rgba(255, 199, 44, 0.96);
+      color: #0B0F17;
+      padding: 5px 10px;
+      border-radius: 6px;
+      font-size: 10.5px;
+      font-weight: 900;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      pointer-events: none;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+    }
+    .ba-handle {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 36%;
+      width: 3px;
+      background: var(--kt-yellow);
+      z-index: 12;
+      pointer-events: none;
+      box-shadow: 0 0 14px rgba(0, 0, 0, 0.9);
+    }
+    .ba-knob {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border: 3px solid #0B0F17;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 900;
+      font-size: 14px;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+    }
+    .ba-hotspot {
+      position: absolute;
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border: 2px solid #0B0F17;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 900;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 4;
+      box-shadow: 0 0 0 4px rgba(255, 199, 44, 0.35);
+      transition: transform 0.15s;
+    }
+    .ba-hotspot:hover {
+      transform: scale(1.18);
+      background: #FFFFFF;
+    }
+    .ba-footer {
+      padding: 11px 16px;
+      background: #111827;
+      border-top: 1px solid #1E293B;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .ba-presets {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .ba-preset-btn {
+      background: #1E293B;
+      color: #CBD5E1;
+      border: 1px solid #334155;
+      padding: 5px 10px;
+      border-radius: 6px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .ba-preset-btn.active, .ba-preset-btn:hover {
+      border-color: var(--kt-yellow);
+      color: var(--kt-yellow);
+    }
+
+    /* VEHICLE GARAGE FITMENT DOCK */
+    .garage-dock {
+      margin-top: 26px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 199, 44, 0.35);
+      border-radius: 12px;
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: auto 1fr 1.2fr auto auto;
+      gap: 12px;
+      align-items: center;
+    }
+    .garage-title {
+      font-size: 12.5px;
+      font-weight: 800;
+      color: var(--kt-yellow);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+    }
+    .garage-select {
+      width: 100%;
+      background: #0B0F17;
+      color: #F8FAFC;
+      border: 1px solid #334155;
+      border-radius: 7px;
+      padding: 10px 12px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .garage-select:focus {
+      outline: none;
+      border-color: var(--kt-yellow);
+    }
+
+    /* =====================================================================
+       BUY BY CATEGORY BENTO GRID (MIKEL'S MERCHANDISING ADAPTED)
+    ===================================================================== */
+    .category-bento-section {
+      padding: 40px 0 24px;
+      background: var(--kt-white);
+      border-bottom: 1px solid var(--kt-border);
+    }
+    .section-header-row {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 22px;
+      flex-wrap: wrap;
+    }
+    .eyebrow {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #B45309;
+      margin-bottom: 4px;
+    }
+    .section-h2 {
+      font-family: var(--font-display);
+      font-size: clamp(20px, 2.2vw, 28px);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: -0.01em;
+      color: var(--kt-text);
+    }
+    .bento-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+    }
+    .bento-card {
+      background: #FFFFFF;
+      border: 1px solid var(--kt-border);
+      border-radius: 12px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.18s, box-shadow 0.18s, border-color 0.18s;
+      display: flex;
+      flex-direction: column;
+      box-shadow: var(--shadow-xs);
+    }
+    .bento-card:hover {
+      transform: translateY(-3px);
+      border-color: var(--kt-yellow-dark);
+      box-shadow: var(--shadow-md);
+    }
+    .bento-img-wrap {
+      position: relative;
+      height: 148px;
+      background: #0B0F17;
+      overflow: hidden;
+    }
+    .bento-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s;
+    }
+    .bento-card:hover .bento-img-wrap img {
+      transform: scale(1.05);
+    }
+    .bento-count {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      background: rgba(11, 15, 23, 0.88);
+      color: var(--kt-yellow);
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 8px;
+      border-radius: 5px;
+      border: 1px solid rgba(255, 199, 44, 0.45);
+    }
+    .bento-body {
+      padding: 12px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      flex: 1;
+      justify-content: space-between;
+    }
+    .bento-title {
+      font-family: var(--font-display);
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--kt-text);
+      line-height: 1.25;
+    }
+    .bento-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 6px;
+      font-size: 11.5px;
+      color: var(--kt-green);
+      font-weight: 800;
+    }
+
+    /* =====================================================================
+       E-COMMERCE SHOP LAYOUT: LEFT FACETED SIDEBAR + PRODUCT GRID
+    ===================================================================== */
+    .shop-section {
+      padding: 36px 0 60px;
+      background: var(--kt-bg);
+    }
+    .shop-layout {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 24px;
+      align-items: start;
+    }
+    .shop-sidebar {
+      position: sticky;
+      top: 130px;
+      background: #FFFFFF;
+      border: 1px solid var(--kt-border);
+      border-radius: 12px;
+      padding: 18px;
+      box-shadow: var(--shadow-xs);
+      max-height: calc(100vh - 150px);
+      overflow-y: auto;
+    }
+    .sidebar-header-mobile {
+      display: none;
+    }
+    .filter-block {
+      padding-bottom: 16px;
+      margin-bottom: 16px;
+      border-bottom: 1px solid var(--kt-border);
+    }
+    .filter-block:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    .filter-title {
+      font-family: var(--font-display);
+      font-size: 12.5px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--kt-text);
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .sidebar-radio-list {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+    .sidebar-filter-btn {
+      width: 100%;
+      background: #F8FAFC;
+      border: 1px solid #E2E8F0;
+      color: #334155;
+      padding: 8px 10px;
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 600;
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.14s;
+    }
+    .sidebar-filter-btn:hover {
+      border-color: #94A3B8;
+      background: #F1F5F9;
+    }
+    .sidebar-filter-btn.active {
+      background: var(--kt-black);
+      color: var(--kt-yellow);
+      border-color: var(--kt-black);
+      font-weight: 700;
+    }
+    .sidebar-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      background: rgba(15, 23, 42, 0.08);
+      padding: 1px 6px;
+      border-radius: 4px;
+    }
+    .sidebar-filter-btn.active .sidebar-count {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+    }
+
+    /* RIGHT SHOP MAIN */
+    .shop-toolbar {
+      background: #FFFFFF;
+      border: 1px solid var(--kt-border);
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      box-shadow: var(--shadow-xs);
+    }
+    .shop-toolbar-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .mobile-filter-trigger {
+      display: none;
+      background: var(--kt-black);
+      color: var(--kt-yellow);
+      border: none;
+      padding: 9px 14px;
+      border-radius: 7px;
+      font-size: 12.5px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .active-chips-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .active-chip {
+      background: #FEF3C7;
+      color: #92400E;
+      border: 1px solid #FDE68A;
+      padding: 4px 10px;
+      border-radius: 99px;
+      font-size: 11.5px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+    }
+    .sort-select {
+      background: #F8FAFC;
+      border: 1px solid #CBD5E1;
+      border-radius: 7px;
+      padding: 8px 12px;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: var(--kt-text);
+    }
+
+    /* UNIFORM E-COMMERCE PRODUCT CARDS */
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 18px;
+    }
+    .product-card {
+      background: #FFFFFF;
+      border: 1px solid var(--kt-border);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      box-shadow: var(--shadow-xs);
+      transition: transform 0.18s, box-shadow 0.18s, border-color 0.18s;
+    }
+    .product-card:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-md);
+      border-color: #94A3B8;
+    }
+    .card-media {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      background: #0F172A;
+      overflow: hidden;
+    }
+    .card-img-main {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+    .card-img-main.contain-mode {
+      object-fit: contain;
+      background: #FFFFFF;
+      padding: 10px;
+    }
+    .product-card:hover .card-img-main {
+      transform: scale(1.03);
+    }
+    .card-top-row {
+      position: absolute;
+      top: 9px;
+      left: 9px;
+      right: 9px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 6px;
+      z-index: 4;
+      pointer-events: none;
+    }
+    .sku-pill {
+      background: var(--kt-black);
+      color: var(--kt-yellow);
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 800;
+      padding: 4px 8px;
+      border-radius: 5px;
+      border: 1px solid rgba(255, 199, 44, 0.45);
+    }
+    .stock-pill {
+      background: rgba(11, 15, 23, 0.88);
+      color: #34D399;
+      font-size: 10px;
+      font-weight: 800;
+      padding: 4px 8px;
+      border-radius: 5px;
+      border: 1px solid rgba(16, 185, 129, 0.4);
+    }
+    .card-bottom-controls {
+      position: absolute;
+      bottom: 8px;
+      left: 8px;
+      right: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      z-index: 4;
+      pointer-events: none;
+    }
+    .card-view-toggle {
+      pointer-events: auto;
+      display: inline-flex;
+      background: rgba(11, 15, 23, 0.90);
+      border: 1px solid rgba(255, 199, 44, 0.55);
+      border-radius: 6px;
+      padding: 2px;
+      gap: 2px;
+    }
+    .card-toggle-btn {
+      border: none;
+      background: transparent;
+      color: #CBD5E1;
+      font-size: 10.5px;
+      font-weight: 800;
+      padding: 4px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .card-toggle-btn.active {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+    }
+    .card-pip {
+      pointer-events: auto;
+      width: 58px;
+      height: 44px;
+      border-radius: 6px;
+      border: 2px solid var(--kt-yellow);
+      background: #FFFFFF;
+      overflow: hidden;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+    }
+    .card-pip img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .card-body {
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .card-cat-lbl {
+      font-size: 10.5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--kt-muted);
+      letter-spacing: 0.03em;
+    }
+    .card-title {
+      font-family: var(--font-display);
+      font-size: 14.5px;
+      font-weight: 800;
+      color: var(--kt-text);
+      line-height: 1.3;
+      margin-top: 3px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: 38px;
+      cursor: pointer;
+    }
+    .card-title:hover {
+      color: #B45309;
+    }
+    .card-compat {
+      font-size: 11.5px;
+      color: #475569;
+      background: #F1F5F9;
+      padding: 5px 8px;
+      border-radius: 5px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .card-specs-mini {
+      display: flex;
+      justify-content: space-between;
+      font-size: 11px;
+      color: var(--kt-muted);
+      border-top: 1px solid #F1F5F9;
+      padding-top: 7px;
+    }
+    .card-price-block {
+      background: #F8FAFC;
+      border: 1px solid #E2E8F0;
+      border-radius: 8px;
+      padding: 9px 11px;
+    }
+    .price-mode-tag {
+      font-size: 10px;
+      font-weight: 800;
+      text-transform: uppercase;
+      color: var(--kt-green);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .price-ref-strike {
+      color: #94A3B8;
+      text-decoration: line-through;
+      font-weight: 600;
+    }
+    .price-main {
+      font-family: var(--font-mono);
+      font-size: 21px;
+      font-weight: 800;
+      color: var(--kt-black);
+      margin: 2px 0;
+    }
+    .price-msi {
+      font-size: 11px;
+      color: #475569;
+      font-weight: 600;
+    }
+    .price-b2b-row {
+      margin-top: 4px;
+      padding-top: 4px;
+      border-top: 1px dashed #CBD5E1;
+      font-size: 11px;
+      color: #059669;
+      font-weight: 700;
+      display: flex;
+      justify-content: space-between;
+    }
+    .card-actions {
+      display: grid;
+      grid-template-columns: 1fr 1.2fr;
+      gap: 7px;
+    }
+    .btn-outline {
+      background: #FFFFFF;
+      color: var(--kt-text);
+      border: 1px solid #CBD5E1;
+      padding: 9px 8px;
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .btn-outline:hover {
+      border-color: var(--kt-black);
+      background: #F8FAFC;
+    }
+    .btn-add {
+      background: var(--kt-black);
+      color: var(--kt-yellow);
+      border: 1px solid var(--kt-black);
+      padding: 9px 8px;
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .btn-add:hover {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border-color: var(--kt-yellow);
+    }
+
+    /* =====================================================================
+       360 / MULTI-PLATFORM SHOWROOM
+    ===================================================================== */
+    .showroom-section {
+      padding: 52px 0;
+      background: #0B0F17;
+      color: #FFFFFF;
+      border-top: 1px solid #1E293B;
+      border-bottom: 1px solid #1E293B;
+    }
+    .showroom-grid {
+      display: grid;
+      grid-template-columns: 280px 1fr 330px;
+      gap: 18px;
+      margin-top: 22px;
+    }
+    .showroom-panel {
+      background: #111827;
+      border: 1px solid #1E293B;
+      border-radius: 12px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .platform-btn {
+      width: 100%;
+      text-align: left;
+      background: #0B0F17;
+      border: 1px solid #1E293B;
+      color: #E2E8F0;
+      padding: 10px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+    .platform-btn.active {
+      border-color: var(--kt-yellow);
+      background: rgba(255, 199, 44, 0.12);
+    }
+    .showroom-stage {
+      background: #06090F;
+      border: 1px solid #1E293B;
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .showroom-canvas-wrap {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #05080E;
+      overflow: hidden;
+    }
+    .showroom-canvas-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .showroom-overlay {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      right: 12px;
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      flex-wrap: wrap;
+      pointer-events: none;
+    }
+    .showroom-badge {
+      background: rgba(11, 15, 23, 0.9);
+      border: 1px solid var(--kt-yellow);
+      color: #FFFFFF;
+      padding: 6px 11px;
+      border-radius: 7px;
+      font-size: 11.5px;
+      font-weight: 700;
+    }
+    .showroom-bar {
+      padding: 12px 14px;
+      background: #0B0F17;
+      border-top: 1px solid #1E293B;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .angle-btns {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .angle-btn {
+      background: #1E293B;
+      color: #CBD5E1;
+      border: 1px solid #334155;
+      padding: 6px 11px;
+      border-radius: 6px;
+      font-size: 11.5px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .angle-btn.active {
+      background: var(--kt-yellow);
+      color: var(--kt-black);
+      border-color: var(--kt-yellow);
+    }
+    .equip-toggle-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 10px;
+      background: #0B0F17;
+      border: 1px solid #1E293B;
+      border-radius: 8px;
+      cursor: pointer;
+      gap: 8px;
+    }
+    .equip-toggle-item.checked {
+      border-color: rgba(16, 185, 129, 0.55);
+      background: rgba(16, 185, 129, 0.1);
+    }
+
+    /* =====================================================================
+       GOOGLE TRENDS & MARKET PRICE BENCHMARK 2026
+    ===================================================================== */
+    .trends-section {
+      padding: 52px 0;
+      background: #F8FAFC;
+      border-bottom: 1px solid var(--kt-border);
+    }
+    .trends-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.3fr;
+      gap: 22px;
+      margin-top: 20px;
+    }
+    .trends-card {
+      background: #FFFFFF;
+      border: 1px solid var(--kt-border);
+      border-radius: 12px;
+      padding: 22px;
+      box-shadow: var(--shadow-xs);
+    }
+    .trend-row {
+      margin-bottom: 13px;
+    }
+    .trend-head {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12.5px;
+      font-weight: 700;
+      margin-bottom: 5px;
+    }
+    .trend-track {
+      height: 9px;
+      background: #E2E8F0;
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .trend-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #0B0F17, #FFC72C);
+      border-radius: 99px;
+    }
+    .market-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+      margin-top: 10px;
+    }
+    .market-table th {
+      text-align: left;
+      padding: 9px 8px;
+      background: #0B0F17;
+      color: var(--kt-yellow);
+      font-family: var(--font-mono);
+      font-size: 11px;
+    }
+    .market-table td {
+      padding: 9px 8px;
+      border-bottom: 1px solid #E2E8F0;
+    }
+
+    /* =====================================================================
+       HANGAR CUAUTITLÁN IZCALLI & B2B PROGRAM
+    ===================================================================== */
+    .hangar-section {
+      padding: 52px 0;
+      background: #FFFFFF;
+    }
+    .hangar-gallery {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+    .hangar-photo-card {
+      position: relative;
+      border-radius: 12px;
+      overflow: hidden;
+      aspect-ratio: 16 / 10;
+      border: 1px solid var(--kt-border);
+      box-shadow: var(--shadow-sm);
+    }
+    .hangar-photo-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .hangar-caption {
+      position: absolute;
+      bottom: 0;
+      inset-inline: 0;
+      padding: 12px 14px;
+      background: linear-gradient(transparent, rgba(11, 15, 23, 0.92));
+      color: #FFFFFF;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .booking-b2b-grid {
+      display: grid;
+      grid-template-columns: 1.05fr 1fr;
+      gap: 22px;
+    }
+    .form-card {
+      background: #F8FAFC;
+      border: 1px solid var(--kt-border);
+      border-radius: 12px;
+      padding: 22px;
+    }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .form-group label {
+      display: block;
+      font-size: 11.5px;
+      font-weight: 700;
+      color: #334155;
+      margin-bottom: 4px;
+    }
+    .form-group input, .form-group select {
+      width: 100%;
+      padding: 9px 11px;
+      border: 1px solid #CBD5E1;
+      border-radius: 7px;
+      font-size: 13px;
+      background: #FFFFFF;
+    }
+
+    /* CLEAN VECTOR CORPORATE CONTACT CARD (NO GEMINI WATERMARK) */
+    .corp-card {
+      background: linear-gradient(135deg, #06090F 0%, #111827 100%);
+      border: 1px solid var(--kt-yellow);
+      border-radius: 10px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin-top: 14px;
+    }
+
+    /* =====================================================================
+       MODALS & DRAWERS (PRODUCT MODAL, CART DRAWER, MOBILE NAV DRAWER)
+    ===================================================================== */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(6, 9, 15, 0.82);
+      backdrop-filter: blur(5px);
+      z-index: 250;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      overflow-y: auto;
+    }
+    .modal-backdrop.open {
+      display: flex;
+    }
+    .detail-modal {
+      background: #FFFFFF;
+      border-radius: 14px;
+      max-width: 1040px;
+      width: 100%;
+      max-height: 92vh;
+      overflow-y: auto;
+      box-shadow: var(--shadow-lg);
+    }
+    .detail-header {
+      background: var(--kt-black);
+      color: #FFFFFF;
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .detail-body {
+      padding: 22px;
+      display: grid;
+      grid-template-columns: 1.15fr 1fr;
+      gap: 24px;
+    }
+    .detail-main-stage {
+      width: 100%;
+      aspect-ratio: 16 / 10;
+      border-radius: 10px;
+      border: 1px solid var(--kt-border);
+      overflow: hidden;
+      background: #0F172A;
+      position: relative;
+    }
+    .detail-main-stage img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .detail-compare-strip {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .detail-compare-box {
+      border: 2px solid var(--kt-border);
+      border-radius: 8px;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .detail-compare-box.active {
+      border-color: var(--kt-yellow-dark);
+    }
+    .detail-compare-box img {
+      width: 100%;
+      height: 100px;
+      object-fit: cover;
+    }
+    .detail-compare-lbl {
+      padding: 6px 8px;
+      background: #0B0F17;
+      color: #FFFFFF;
+      font-size: 11px;
+      font-weight: 800;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .cart-drawer {
+      position: fixed;
+      top: 0;
+      right: -460px;
+      width: 100%;
+      max-width: 440px;
+      height: 100vh;
+      background: #FFFFFF;
+      z-index: 300;
+      box-shadow: -12px 0 40px rgba(0, 0, 0, 0.35);
+      display: flex;
+      flex-direction: column;
+      transition: right 0.24s ease;
+    }
+    .cart-drawer.open {
+      right: 0;
+    }
+
+    .mobile-nav-drawer {
+      position: fixed;
+      top: 0;
+      left: -340px;
+      width: 310px;
+      height: 100vh;
+      background: #0B0F17;
+      color: #FFFFFF;
+      z-index: 320;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: left 0.24s ease;
+      box-shadow: 12px 0 36px rgba(0,0,0,0.45);
+      overflow-y: auto;
+    }
+    .mobile-nav-drawer.open {
+      left: 0;
+    }
+    .drawer-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(6, 9, 15, 0.72);
+      z-index: 290;
+      display: none;
+    }
+    .drawer-overlay.open {
+      display: block;
+    }
+
+    .site-footer {
+      background: #06090F;
+      color: #94A3B8;
+      padding: 44px 0 28px;
+      border-top: 2px solid var(--kt-yellow);
+      font-size: 13px;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr 1fr 1.2fr;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+    .footer-title {
+      color: #FFFFFF;
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 13.5px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .footer-links {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+    }
+    .footer-links a {
+      color: #94A3B8;
+      text-decoration: none;
+    }
+    .footer-links a:hover {
+      color: var(--kt-yellow);
+    }
+
+    @media print {
+      body * { visibility: hidden; }
+      #printArea, #printArea * { visibility: visible; }
+      #printArea {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        background: #FFF;
+        color: #000;
+        padding: 20px;
+      }
+    }
+
+    /* =====================================================================
+       RESPONSIVE BREAKPOINTS (TABLET & MOBILE 390px)
+    ===================================================================== */
+    @media (max-width: 1180px) {
+      .hero-grid, .showroom-grid, .trends-grid, .booking-b2b-grid, .detail-body {
+        grid-template-columns: 1fr;
+      }
+      .bento-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .hangar-gallery {
+        grid-template-columns: 1fr;
+      }
+      .garage-dock {
+        grid-template-columns: 1fr 1fr;
+      }
+      .garage-title {
+        grid-column: 1 / -1;
+      }
+    }
+
+    @media (max-width: 1023px) {
+      .main-header-row {
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+      .mega-search {
+        order: 3;
+        flex: 1 1 100%;
+        max-width: 100%;
+      }
+      .view-mode-switch {
+        display: none;
+      }
+      .mobile-menu-btn {
+        display: inline-flex;
+      }
+      .shop-layout {
+        grid-template-columns: 1fr;
+      }
+      .shop-sidebar {
+        position: fixed;
+        top: 0;
+        left: -340px;
+        width: 310px;
+        height: 100vh;
+        max-height: 100vh;
+        z-index: 310;
+        border-radius: 0;
+        transition: left 0.24s ease;
+      }
+      .shop-sidebar.mobile-open {
+        left: 0;
+      }
+      .sidebar-header-mobile {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 12px;
+        margin-bottom: 14px;
+        border-bottom: 2px solid var(--kt-yellow);
+      }
+      .mobile-filter-trigger {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+      }
+      .footer-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        padding: 0 14px;
+      }
+      .topbar-meta {
+        display: none;
+      }
+      .price-mode-lbl {
+        display: none;
+      }
+      .price-mode-btn {
+        font-size: 10.5px;
+        padding: 4px 7px;
+      }
+      .brand-title {
+        font-size: 16px;
+      }
+      .brand-subtitle {
+        font-size: 8.5px;
+      }
+      .mega-search-dept {
+        display: none;
+      }
+      .garage-dock, .form-row {
+        grid-template-columns: 1fr;
+      }
+      .bento-grid, .hero-pillars, .footer-grid {
+        grid-template-columns: 1fr;
+      }
+      .products-grid {
+        grid-template-columns: 1fr;
+      }
+      .ba-hint {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- BACKDROP FOR MOBILE DRAWERS -->
+  <div class="drawer-overlay" id="globalDrawerOverlay" onclick="closeAllDrawers()"></div>
+
+  <!-- MOBILE NAVIGATION DRAWER -->
+  <aside class="mobile-nav-drawer" id="mobileNavDrawer">
+    <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #1E293B;padding-bottom:12px;">
+      <strong style="font-family:var(--font-display);color:var(--kt-yellow);font-size:16px;">KINGS TRUCKS® MENÚ</strong>
+      <button onclick="closeAllDrawers()" style="background:transparent;border:1px solid #334155;color:#FFF;padding:5px 10px;border-radius:6px;cursor:pointer;">✕</button>
+    </div>
+    <div style="font-size:11px;color:#94A3B8;font-weight:700;text-transform:uppercase;">Vista de Fotos</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;">
+      <button class="view-mode-btn active" id="mobBtnMounted" onclick="setGlobalImageMode('montada');closeAllDrawers()">🔥 Pieza Puesta</button>
+      <button class="view-mode-btn" id="mobBtnCatalog" onclick="setGlobalImageMode('pieza');closeAllDrawers()">📦 Pieza Catálogo</button>
+    </div>
+    <div style="font-size:11px;color:#94A3B8;font-weight:700;text-transform:uppercase;margin-top:8px;">Departamentos</div>
+    <button class="dept-btn active" onclick="switchDivision('all', true);closeAllDrawers()">🏆 Universo Completo (725)</button>
+    <button class="dept-btn" onclick="switchDivision('4x4_heavy_duty', true);closeAllDrawers()">🛡️ Catálogo 4x4 Heavy-Duty (196)</button>
+    <button class="dept-btn" onclick="switchDivision('aero_difusor_lip', true);closeAllDrawers()">🏎️ Difusores & Lips (529)</button>
+    <button class="dept-btn" onclick="scrollToSection('categoryBentoSection');closeAllDrawers()">🗂️ Compra por Categoría</button>
+    <button class="dept-btn" onclick="scrollToSection('showroomSection');closeAllDrawers()">🔄 Estudio 360° Pieza Puesta</button>
+    <button class="dept-btn" onclick="scrollToSection('trendsSection');closeAllDrawers()">📊 Precios & Google Trends</button>
+    <button class="dept-btn" onclick="scrollToSection('hangarSection');closeAllDrawers()">🏁 Hangar Izcalli & B2B</button>
+  </aside>
+
+  <!-- =====================================================================
+       LEVEL 1: TOPBAR (LIVE HANGAR STATUS + WHATSAPP + PRICE MODE)
+  ===================================================================== -->
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <div class="topbar-left">
+        <span class="live-badge"><span class="live-dot"></span> HANGAR IZCALLI: 4 BAHÍAS ACTIVAS</span>
+        <span class="topbar-meta">📍 Av. Chalma La Villa, Cuautitlán Izcalli · Envío Asegurado Nacional</span>
+        <a href="https://wa.me/525641585522" target="_blank" class="topbar-wa mono">💬 WhatsApp Directo: 56 4158 5522</a>
+      </div>
+      <div class="topbar-right">
+        <div class="price-mode-wrap">
+          <span class="price-mode-lbl">Ver Precios:</span>
+          <div class="price-mode-group" id="globalPriceModeGroup">
+            <button class="price-mode-btn active" data-mode="instalado" onclick="setPriceMode('instalado')">🔧 Instalado en Bahía</button>
+            <button class="price-mode-btn" data-mode="base" onclick="setPriceMode('base')">📦 Solo Pieza</button>
+            <button class="price-mode-btn" data-mode="mayoreo" onclick="setPriceMode('mayoreo')">🏢 Mayoreo / Caja</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- =====================================================================
+       LEVEL 2: STICKY MAIN HEADER (SEARCH-FIRST E-COMMERCE)
+  ===================================================================== -->
+  <header class="site-header">
+    <div class="container">
+      <div class="main-header-row">
+        <a class="brand-logo" onclick="scrollToSection('topHero')">
+          <img src="assets/brand/logo_dark.jpg" alt="KINGS TRUCKS México Logo" />
+          <div class="brand-wordmark">
+            <div class="brand-title">KINGS <span>TRUCKS®</span> MÉXICO</div>
+            <div class="brand-subtitle">Realeza Todo Terreno · Soluciones Totales</div>
+          </div>
+        </a>
+
+        <form class="mega-search" onsubmit="event.preventDefault(); executeHeaderSearch();">
+          <select class="mega-search-dept" id="headerDeptSelect" onchange="switchDivision(this.value, false)">
+            <option value="all">Todo (725 SKUs)</option>
+            <option value="4x4_heavy_duty">4x4 Heavy-Duty (196)</option>
+            <option value="aero_difusor_lip">Difusores & Lips (529)</option>
+          </select>
+          <input type="text" class="mega-search-input" id="headerSearchInput" placeholder="Buscar SKU (ej. TO-147, DF-33, LP-168) o vehículo (NP300, Hilux, Jetta, BMW)..." oninput="syncSearchInputs(this.value)" />
+          <button type="submit" class="mega-search-btn">🔍 Buscar</button>
+        </form>
+
+        <div class="header-actions">
+          <div class="view-mode-switch" title="Alternar todas las fotos entre Pieza Puesta en el vehículo y Foto de Catálogo">
+            <button class="view-mode-btn active" id="hdrBtnMounted" onclick="setGlobalImageMode('montada')">🔥 Pieza Puesta</button>
+            <button class="view-mode-btn" id="hdrBtnCatalog" onclick="setGlobalImageMode('pieza')">📦 Pieza Catálogo</button>
+          </div>
+          <button class="cart-trigger" onclick="toggleCartDrawer(true)">
+            <span>🛒 Cotización</span>
+            <span class="cart-count-pill" id="headerCartCount">0</span>
+          </button>
+          <button class="mobile-menu-btn" onclick="openMobileMenu()">☰ Menú</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- LEVEL 3: INDEPENDENT DEPARTMENT NAV ROW (ZERO LOGO OVERLAP) -->
+    <nav class="dept-nav-bar">
+      <div class="container">
+        <div class="dept-nav-scroll" id="deptNavBar">
+          <button class="dept-btn active" data-div="all" onclick="switchDivision('all', true)">🏆 Universo Completo <span class="dept-badge">725</span></button>
+          <button class="dept-btn" data-div="4x4_heavy_duty" onclick="switchDivision('4x4_heavy_duty', true)">🛡️ Catálogo 4x4 & Herrajes <span class="dept-badge">196</span></button>
+          <button class="dept-btn" data-div="aero_difusor_lip" onclick="switchDivision('aero_difusor_lip', true)">🏎️ Difusores & Lips <span class="dept-badge">529</span></button>
+          <button class="dept-btn" onclick="scrollToSection('categoryBentoSection')">🗂️ Compra por Categoría</button>
+          <button class="dept-btn" onclick="scrollToSection('showroomSection')">🔄 Estudio 360° Pieza Puesta</button>
+          <button class="dept-btn" onclick="scrollToSection('trendsSection')">📊 Google Trends & Precios 2026</button>
+          <button class="dept-btn" onclick="scrollToSection('hangarSection')">🏁 Hangar Izcalli & Mayoreo B2B</button>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- =====================================================================
+       HERO SECTION + GARAGE FITMENT DOCK + FIXED BEFORE/AFTER SLIDER
+  ===================================================================== -->
+  <section class="hero-section" id="topHero">
+    <div class="container">
+      <div class="hero-grid">
+        <div>
+          <div class="hero-eyebrow">⚡ INGENIERÍA ESTRUCTURAL CALIBRE 11 + ESTÉTICA DEPORTIVA OEM</div>
+          <h1 class="hero-title">
+            BLINDAJE <span class="accent">PIEZA PUESTA</span> Y EQUIPAMIENTO AUTOMOTRIZ DE VANGUARDIA
+          </h1>
+          <p class="hero-lead">
+            De <strong>Distribuidora María / Carguía Autopartes</strong> nace <strong>KINGS TRUCKS® MÉXICO</strong>: tienda de fábrica e ingeniería con <strong>725+ SKUs en inventario real</strong>. Inspecciona cada pieza <strong>ya instalada en vehículo</strong> y compárala contra su foto técnica de catálogo, precio de 12 MSI y mayoreo B2B.
+          </p>
+
+          <div class="hero-pillars">
+            <div class="pillar-card">
+              <div class="pillar-val">3.18 mm (Cal. 11)</div>
+              <div class="pillar-txt">Acero estructural vs. 1.5 mm genérico comercial</div>
+            </div>
+            <div class="pillar-card">
+              <div class="pillar-val">0 Perforaciones</div>
+              <div class="pillar-txt">Herrajes BO- corte láser directo al chasis OEM</div>
+            </div>
+            <div class="pillar-card">
+              <div class="pillar-val">725+ SKUs Reales</div>
+              <div class="pillar-txt">Pickups 4x4, SUVs, Difusores LED & Splitters</div>
+            </div>
+            <div class="pillar-card">
+              <div class="pillar-val">90 min · 4 Bahías</div>
+              <div class="pillar-txt">Instalación certificada en Hangar Izcalli + Sala VIP</div>
+            </div>
+          </div>
+
+          <div class="hero-ctas">
+            <button class="btn-primary" onclick="switchDivision('4x4_heavy_duty', true)">🛡️ Explorar 4x4 Heavy-Duty (196)</button>
+            <button class="btn-secondary" onclick="switchDivision('aero_difusor_lip', true)">🏎️ Explorar Difusores & Lips (529)</button>
+            <button class="btn-secondary" onclick="scrollToSection('hangarSection')">📍 Cita Hangar Izcalli</button>
+          </div>
+        </div>
+
+        <!-- BEFORE / AFTER INTERACTIVE COMPARATOR -->
+        <div class="ba-card">
+          <div class="ba-header">
+            <span class="ba-title">🔄 COMPARADOR: DE AGENCIA VS. EQUIPADA KINGS TRUCKS</span>
+            <span class="ba-hint">Desliza barra ↔</span>
+          </div>
+
+          <div class="ba-viewport" id="baViewport">
+            <!-- UNDERLYING AFTER LAYER -->
+            <div class="ba-after-layer">
+              <img src="assets/mounted/after_equipped_pickup.jpg" alt="Pickup 4x4 Equipada Kings Trucks" class="ba-img" />
+              <span class="ba-badge-after">DESPUÉS: EQUIPADA KINGS TRUCKS</span>
+              <!-- CLICKABLE HOTSPOTS ON EQUIPPED SIDE -->
+              <button class="ba-hotspot" style="top:54%;left:54%;" title="Defensa Tumbaburros U-Panal + LED (TO-147)" onclick="openProductModalBySku('TO-147')">1</button>
+              <button class="ba-hotspot" style="top:64%;left:26%;" title="Estribos Rock Sliders Calibre 11 (KT-EST-01)" onclick="openProductModalBySku('KT-EST-01')">2</button>
+              <button class="ba-hotspot" style="top:18%;left:48%;" title="Canastilla Expedición + Barra LED 42 (KT-THU-01)" onclick="openProductModalBySku('KT-THU-01')">3</button>
+              <button class="ba-hotspot" style="top:34%;left:23%;" title="Roll Bar + Tapa Rígida Retráctil (KT-ROL-01)" onclick="openProductModalBySku('KT-ROL-01')">4</button>
+            </div>
+
+            <!-- CLIPPED BEFORE LAYER (TAG INSIDE CLIP SO HANDLE NEVER CROSSES IT) -->
+            <div class="ba-before-layer" id="baBeforeWrap">
+              <img src="assets/mounted/before_stock_pickup.jpg" alt="Pickup Stock de Agencia" class="ba-img" />
+              <span class="ba-badge-before">ANTES: STOCK DE AGENCIA</span>
+            </div>
+
+            <div class="ba-handle" id="baHandle">
+              <div class="ba-knob">↔</div>
+            </div>
+          </div>
+
+          <div class="ba-footer">
+            <div class="ba-presets">
+              <button class="ba-preset-btn" onclick="setBaSlider(15)">85% Equipada</button>
+              <button class="ba-preset-btn active" onclick="setBaSlider(50)">Mitad 50 / 50</button>
+              <button class="ba-preset-btn" onclick="setBaSlider(88)">Stock Agencia</button>
+            </div>
+            <button class="btn-primary" style="padding:7px 14px;font-size:12px;" onclick="addFullHeroPackageToCart()">
+              + Cotizar Kit 4 Piezas
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- VEHICLE GARAGE FITMENT DOCK -->
+      <div class="garage-dock">
+        <div class="garage-title">🚘 FILTRAR POR TU VEHÍCULO:</div>
+        <select class="garage-select" id="fitDivisionSelect" onchange="switchDivision(this.value, false)">
+          <option value="all">Todas las Divisiones (4x4, SUVs & Sedanes Deportivos)</option>
+          <option value="4x4_heavy_duty">División 4x4 Heavy-Duty (Pickups & SUVs)</option>
+          <option value="aero_difusor_lip">División Aerodinámica (Difusores, Lips & Esquineros)</option>
+        </select>
+        <select class="garage-select" id="fitVehicleSelect" onchange="applyFitmentVehicle(this.value)">
+          <option value="">Selecciona tu Modelo Exacto...</option>
+          <optgroup label="Pickups 4x4 & Trabajo (Catálogo 4x4)">
+            <option value="NP300">Nissan NP300 / Frontier (2016–2026)</option>
+            <option value="HILUX">Toyota Hilux Doble Cabina / Revo</option>
+            <option value="TACOMA">Toyota Tacoma TRD / SR5</option>
+            <option value="RANGER">Ford Ranger / Raptor</option>
+            <option value="F-150">Ford Lobo F-150 / F-250</option>
+            <option value="L200">Mitsubishi L200 4x4</option>
+            <option value="SILVERADO">Chevrolet Silverado / Cheyenne / S10</option>
+            <option value="RAM">RAM 1500 / 2500 / 700 / 1200</option>
+          </optgroup>
+          <optgroup label="SUVs (Kits Delantero + Trasero y Racks)">
+            <option value="RAV4">Toyota RAV4 / Highlander</option>
+            <option value="CR-V">Honda CR-V / HR-V</option>
+            <option value="X-TRAIL">Nissan X-Trail / Kicks</option>
+            <option value="TUCSON">Hyundai Tucson / Creta</option>
+          </optgroup>
+          <optgroup label="Sedanes & Hatchbacks Deportivos (Catálogo Difusor Lip)">
+            <option value="JETTA">VW Jetta MK6 / MK7 / GLI</option>
+            <option value="GOLF">VW Golf GTI / R-Line / Polo / Vento</option>
+            <option value="SERIE 3">BMW Serie 3 / Serie 1 M-Sport</option>
+            <option value="A3">Audi A3 / A4 / A1 S-Line</option>
+            <option value="LEON">SEAT León FR / Cupra / Ibiza</option>
+            <option value="CIVIC">Honda Civic / Accord</option>
+            <option value="COROLLA">Toyota Corolla / Camry</option>
+            <option value="MAZDA">Mazda 3 / Mazda 2</option>
+            <option value="SENTRA">Nissan Sentra / Altima / Versa</option>
+          </optgroup>
+        </select>
+        <button class="btn-primary" style="padding:10px 18px;font-size:13px;" onclick="scrollToSection('shopSection')">Ver Compatibles</button>
+        <button class="btn-secondary" style="padding:10px 14px;font-size:12px;" onclick="resetAllFilters()">Limpiar</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       MIKEL'S STYLE: COMPRA POR CATEGORÍA (8 BENTO VISUAL CARDS)
+  ===================================================================== -->
+  <section class="category-bento-section" id="categoryBentoSection">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <div class="eyebrow">DEPARTAMENTOS PRINCIPALES DE VENTA</div>
+          <h2 class="section-h2">Compra por Categoría Especializada</h2>
+        </div>
+        <button class="btn-outline" onclick="resetAllFilters(); scrollToSection('shopSection')">Ver los 725 SKUs en Tienda →</button>
+      </div>
+
+      <div class="bento-grid" id="categoryBentoGrid"></div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       E-COMMERCE SHOP: LEFT FACETED SIDEBAR + MAIN CATALOG GRID
+  ===================================================================== -->
+  <section class="shop-section" id="shopSection">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <div class="eyebrow">TIENDA OFICIAL EN LÍNEA Y MAYOREO</div>
+          <h2 class="section-h2">Catálogo Completo 2026: Pieza Puesta & Catálogo Original</h2>
+        </div>
+        <div class="mono" style="font-size:12.5px;font-weight:700;color:#475569;" id="shopTotalCounter">725 productos disponibles</div>
+      </div>
+
+      <div class="shop-layout">
+        <!-- LEFT SIDEBAR (DESKTOP STICKY / MOBILE OFF-CANVAS DRAWER) -->
+        <aside class="shop-sidebar" id="shopSidebar">
+          <div class="sidebar-header-mobile">
+            <strong style="font-family:var(--font-display);font-size:15px;">🌪️ FILTROS DEL CATÁLOGO</strong>
+            <button onclick="closeAllDrawers()" style="background:#0B0F17;color:#FFF;border:none;padding:6px 12px;border-radius:6px;font-weight:700;">Listo ✓</button>
+          </div>
+
+          <div class="filter-block">
+            <div class="filter-title">Modo de Fotografía</div>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;">
+              <button class="sidebar-filter-btn active" id="sbBtnMounted" onclick="setGlobalImageMode('montada')" style="justify-content:center;">🔥 Puesta</button>
+              <button class="sidebar-filter-btn" id="sbBtnCatalog" onclick="setGlobalImageMode('pieza')" style="justify-content:center;">📦 Catálogo</button>
+            </div>
+          </div>
+
+          <div class="filter-block">
+            <div class="filter-title">División de Producto</div>
+            <div class="sidebar-radio-list" id="sidebarDivisions"></div>
+          </div>
+
+          <div class="filter-block">
+            <div class="filter-title">Categoría Exacta</div>
+            <div class="sidebar-radio-list" id="sidebarCategories"></div>
+          </div>
+
+          <div class="filter-block">
+            <div class="filter-title">Vehículo Compatible</div>
+            <select class="sort-select" id="sidebarVehicleSelect" style="width:100%;" onchange="applyFitmentVehicle(this.value)">
+              <option value="">Cualquier Marca / Modelo</option>
+              <option value="NP300">Nissan NP300 / Frontier</option>
+              <option value="HILUX">Toyota Hilux</option>
+              <option value="TACOMA">Toyota Tacoma</option>
+              <option value="RANGER">Ford Ranger / Raptor</option>
+              <option value="F-150">Ford Lobo F-150</option>
+              <option value="L200">Mitsubishi L200</option>
+              <option value="SILVERADO">Chevrolet Silverado / S10</option>
+              <option value="RAM">RAM 1500 / 2500 / 700</option>
+              <option value="RAV4">Toyota RAV4 / SUVs</option>
+              <option value="JETTA">VW Jetta / GLI</option>
+              <option value="GOLF">VW Golf GTI / Vento / Polo</option>
+              <option value="SERIE 3">BMW Serie 1 / 2 / 3</option>
+              <option value="A3">Audi A3 / A4 / A1</option>
+              <option value="LEON">SEAT León FR / Cupra</option>
+              <option value="CIVIC">Honda Civic / Accord</option>
+              <option value="MAZDA">Mazda 2 / Mazda 3</option>
+              <option value="SENTRA">Nissan Sentra / Versa</option>
+              <option value="UNIVERSAL">Ajuste Universal</option>
+            </select>
+          </div>
+
+          <div class="filter-block">
+            <div class="filter-title">Rango de Precio (MXN)</div>
+            <div class="sidebar-radio-list" id="sidebarPriceRanges"></div>
+          </div>
+
+          <button class="btn-primary" style="width:100%;justify-content:center;font-size:12.5px;" onclick="resetAllFilters()">↺ Limpiar Todos los Filtros</button>
+        </aside>
+
+        <!-- RIGHT MAIN PRODUCT AREA -->
+        <div>
+          <div class="shop-toolbar">
+            <div class="shop-toolbar-left">
+              <button class="mobile-filter-trigger" onclick="openMobileFilters()">🌪️ Filtrar (<span id="mobFilterCount">725</span>)</button>
+              <div class="active-chips-row" id="activeFilterChips"></div>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;">
+              <span class="mono" style="font-size:12px;color:#475569;font-weight:700;" id="catalogVisibleCount">Mostrando 36</span>
+              <select class="sort-select" id="shopSortSelect" onchange="renderShop(true)">
+                <option value="featured">Ordenar: Destacados & Trends</option>
+                <option value="price_asc">Precio: Menor a Mayor</option>
+                <option value="price_desc">Precio: Mayor a Menor</option>
+                <option value="sku_asc">Código SKU (A–Z)</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="products-grid" id="catalogProductsGrid"></div>
+
+          <div style="text-align:center;margin-top:28px;" id="loadMoreWrap">
+            <button class="btn-primary" id="btnLoadMore" onclick="loadMoreProducts()" style="padding:13px 30px;font-size:13.5px;">
+              Cargar Más Productos
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       COHERENT MULTI-PLATFORM 360° & PIEZA PUESTA SHOWROOM
+  ===================================================================== -->
+  <section class="showroom-section" id="showroomSection">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <div class="eyebrow" style="color:var(--kt-yellow);">ESTUDIO VISUAL DE PLATAFORMAS 2026</div>
+          <h2 class="section-h2" style="color:#FFFFFF;">Configurador de Camionetas y Sedanes: Ángulos Pieza Puesta</h2>
+        </div>
+        <span class="live-badge">✓ Fotografías Coherentes Sin Marcas de Agua</span>
+      </div>
+
+      <div class="showroom-grid">
+        <div class="showroom-panel">
+          <div style="font-size:11.5px;font-weight:800;color:var(--kt-yellow);text-transform:uppercase;">1. Elige Vehículo / Línea</div>
+          <div id="platformSelectorList" style="display:flex;flex-direction:column;gap:7px;"></div>
+        </div>
+
+        <div class="showroom-stage">
+          <div class="showroom-canvas-wrap">
+            <img id="showroomMainImg" src="assets/mounted/mounted_u_panal_led.jpg" alt="Estudio Pieza Puesta" />
+            <div class="showroom-overlay">
+              <div class="showroom-badge" id="showroomTitleBadge">Nissan NP300 Frontier Pro-4X</div>
+              <div class="showroom-badge mono" style="border-color:#10B981;color:#34D399;">Calibre 11 (3.18mm) · Bolt-On</div>
+            </div>
+          </div>
+          <div class="showroom-bar">
+            <div class="angle-btns" id="showroomAngleBtns"></div>
+            <button class="btn-primary" style="padding:7px 14px;font-size:12px;" onclick="openProductModalBySku(SHOWROOM_PLATFORMS[state.activePlatformIdx].primarySku)">🔍 Ficha SKU</button>
+          </div>
+        </div>
+
+        <div class="showroom-panel">
+          <div style="font-size:11.5px;font-weight:800;color:var(--kt-yellow);text-transform:uppercase;">2. Arma tu Paquete</div>
+          <div id="showroomModulesList" style="display:flex;flex-direction:column;gap:7px;flex:1;"></div>
+          <div style="background:#06090F;border:1px solid #1E293B;border-radius:9px;padding:12px;">
+            <div style="display:flex;justify-content:space-between;font-size:11.5px;color:#94A3B8;margin-bottom:4px;">
+              <span>Peso Acero Total:</span><span class="mono" id="showroomTotalWeight">34.5 kg</span>
+            </div>
+            <div style="display:flex;justify-content:space-between;font-size:11.5px;color:#94A3B8;margin-bottom:8px;">
+              <span>Tiempo de Bahía:</span><span class="mono" id="showroomTotalTime">60 min</span>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid #1E293B;padding-top:8px;">
+              <span style="font-size:11.5px;font-weight:800;" id="showroomPriceModeLbl">TOTAL:</span>
+              <span class="mono" style="font-size:21px;font-weight:900;color:var(--kt-yellow);" id="showroomTotalPrice">$6,840 MXN</span>
+            </div>
+            <button class="btn-primary" style="width:100%;justify-content:center;margin-top:10px;font-size:12.5px;" onclick="addShowroomBuildToCart()">+ Agregar Paquete a Cotización</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       GOOGLE TRENDS MÉXICO & MARKET PRICE BENCHMARK 2026
+  ===================================================================== -->
+  <section class="trends-section" id="trendsSection">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <div class="eyebrow">INTELIGENCIA DE MERCADO EN MÉXICO 2026</div>
+          <h2 class="section-h2">Google Trends & Comparativa Real de Precios vs. Mercado Libre</h2>
+        </div>
+        <span style="font-size:12px;font-weight:700;color:#059669;background:#DCFCE7;padding:6px 12px;border-radius:99px;">✓ Precios Directos de Fábrica e Importador</span>
+      </div>
+
+      <div class="trends-grid">
+        <div class="trends-card">
+          <h3 style="font-family:var(--font-display);font-size:17px;font-weight:800;margin-bottom:4px;">🔥 Índice Google Trends México 2026</h3>
+          <p style="font-size:12px;color:var(--kt-muted);margin-bottom:16px;">Modelos con mayor volumen de búsqueda para equipamiento de protección, tumbaburros y kits aerodinámicos.</p>
+          <div class="trend-row"><div class="trend-head"><span>1. Nissan NP300 / Frontier (Líder Nacional)</span><span class="mono">98 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:98%"></div></div></div>
+          <div class="trend-row"><div class="trend-head"><span>2. VW Jetta GLI / Golf GTI (Difusores & Lips)</span><span class="mono">94 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:94%"></div></div></div>
+          <div class="trend-row"><div class="trend-head"><span>3. Toyota Hilux Doble Cabina / Revo</span><span class="mono">91 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:91%"></div></div></div>
+          <div class="trend-row"><div class="trend-head"><span>4. Toyota Tacoma TRD Off-Road</span><span class="mono">87 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:87%"></div></div></div>
+          <div class="trend-row"><div class="trend-head"><span>5. Ford Ranger & Lobo F-150</span><span class="mono">83 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:83%"></div></div></div>
+          <div class="trend-row"><div class="trend-head"><span>6. BMW Serie 3 / Audi A3 / SEAT León FR</span><span class="mono">80 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:80%"></div></div></div>
+          <div class="trend-row" style="margin-bottom:0;"><div class="trend-head"><span>7. Mitsubishi L200, RAM 1500 & Silverado</span><span class="mono">76 / 100</span></div><div class="trend-track"><div class="trend-fill" style="width:76%"></div></div></div>
+        </div>
+
+        <div class="trends-card">
+          <h3 style="font-family:var(--font-display);font-size:17px;font-weight:800;margin-bottom:4px;">💰 Tabla Comparativa de Precios 2026 (MXN)</h3>
+          <p style="font-size:12px;color:var(--kt-muted);margin-bottom:8px;">Compara nuestro precio por caja/mayoreo, pieza individual e instalado en Izcalli frente a portales en línea.</p>
+          <div style="overflow-x:auto;">
+            <table class="market-table">
+              <thead>
+                <tr><th>Familia de Equipamiento</th><th>Mayoreo B2B</th><th>Solo Pieza</th><th>Instalado Izcalli</th><th>Ref. Mercado Libre</th></tr>
+              </thead>
+              <tbody>
+                <tr><td><strong>Tumbaburros U-Panal + LED</strong></td><td class="mono" style="color:#059669;font-weight:700;">$4,360</td><td class="mono">$5,890</td><td class="mono" style="font-weight:800;">$6,840</td><td class="mono price-ref-strike">$7,200 – $8,900</td></tr>
+                <tr><td><strong>Defensa Heavy-Duty TYX2.0 / Hamer</strong></td><td class="mono" style="color:#059669;font-weight:700;">$5,910</td><td class="mono">$7,990</td><td class="mono" style="font-weight:800;">$9,190</td><td class="mono price-ref-strike">$10,500 – $14,200</td></tr>
+                <tr><td><strong>Herrajes de Chasis Bolt-On (BO)</strong></td><td class="mono" style="color:#059669;font-weight:700;">$660</td><td class="mono">$890</td><td class="mono" style="font-weight:800;">$1,240</td><td class="mono price-ref-strike">$1,350 – $1,690</td></tr>
+                <tr><td><strong>Estribos Uso Rudo / Rock Sliders</strong></td><td class="mono" style="color:#059669;font-weight:700;">$4,060</td><td class="mono">$5,490</td><td class="mono" style="font-weight:800;">$6,280</td><td class="mono price-ref-strike">$6,800 – $8,500</td></tr>
+                <tr><td><strong>Tapa Rígida Retráctil Aluminio</strong></td><td class="mono" style="color:#059669;font-weight:700;">$13,990</td><td class="mono">$18,900</td><td class="mono" style="font-weight:800;">$20,400</td><td class="mono price-ref-strike">$22,500 – $26,900</td></tr>
+                <tr><td><strong>Difusores Traseros Deportivos LED</strong></td><td class="mono" style="color:#059669;font-weight:700;">$215 – $655</td><td class="mono">$820 – $1,540</td><td class="mono" style="font-weight:800;">$1,370 – $2,090</td><td class="mono price-ref-strike">$1,490 – $2,890</td></tr>
+                <tr><td><strong>Lips Delanteros Carbono / Black</strong></td><td class="mono" style="color:#059669;font-weight:700;">$132 – $688</td><td class="mono">$690 – $1,620</td><td class="mono" style="font-weight:800;">$1,140 – $2,070</td><td class="mono price-ref-strike">$1,190 – $2,450</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       HANGAR FLAGSHIP CUAUTITLÁN IZCALLI, CITAS Y B2B
+  ===================================================================== -->
+  <section class="hangar-section" id="hangarSection">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <div class="eyebrow">SEDE CENTRAL & CENTRO DE INSTALACIÓN FLAGSHIP</div>
+          <h2 class="section-h2">Hangar Cuautitlán Izcalli · Flotillas y Mayoreo B2B</h2>
+        </div>
+        <a href="https://maps.google.com/?q=Av.+Chalma+La+Villa+Cuautitlan+Izcalli" target="_blank" class="btn-primary">🗺️ Abrir Ruta en Google Maps</a>
+      </div>
+
+      <div class="hangar-gallery">
+        <div class="hangar-photo-card">
+          <img src="assets/brand/hangar_bahia_1.jpg" alt="Bahía de Instalación Hangar Kings Trucks" />
+          <div class="hangar-caption">🔧 Bahía 1 con Técnicos Especializados + Muro Exhibidor Iluminado</div>
+        </div>
+        <div class="hangar-photo-card">
+          <img src="assets/brand/fachada_izcalli.jpg" alt="Fachada Hangar Flagship Cuautitlán Izcalli" />
+          <div class="hangar-caption">🏢 Fachada Flagship Cuautitlán Izcalli — 4 Bahías Activas de Carga Rápida</div>
+        </div>
+        <div class="hangar-photo-card">
+          <img src="assets/brand/hangar_mezzanine_vip.jpg" alt="Vista Sala VIP Mezzanine Kings Trucks" />
+          <div class="hangar-caption">☕ Vista Panorámica desde Sala Lounge VIP Mezzanine hacia las 4 Bahías</div>
+        </div>
+      </div>
+
+      <div class="booking-b2b-grid">
+        <div class="form-card">
+          <div class="eyebrow">AGENDA EN LÍNEA (INSTALACIÓN EN 90 MINUTOS)</div>
+          <h3 style="font-family:var(--font-display);font-size:19px;font-weight:900;margin-bottom:14px;">🛠️ Reservar Bahía en Cuautitlán Izcalli</h3>
+          <form onsubmit="submitBayBooking(event)">
+            <div class="form-row">
+              <div class="form-group"><label>Nombre / Empresa *</label><input type="text" id="bookName" required placeholder="Ej. Ing. Carlos Mendoza" /></div>
+              <div class="form-group"><label>WhatsApp *</label><input type="tel" id="bookPhone" required placeholder="Ej. 55 1234 5678" /></div>
+            </div>
+            <div class="form-row">
+              <div class="form-group"><label>Vehículo y Año *</label><input type="text" id="bookVehicle" required placeholder="Ej. Toyota Hilux 2025 / Jetta GLI" /></div>
+              <div class="form-group"><label>Bahía Especializada</label>
+                <select id="bookBay">
+                  <option value="Bahía 1 - Blindaje Pesado & Tumbaburros">Bahía 1 — Tumbaburros & Defensas HD</option>
+                  <option value="Bahía 2 - Tapas Rígidas, Roll Bars & Racks">Bahía 2 — Tapas Retráctiles, Roll Bars & Racks</option>
+                  <option value="Bahía 3 - Iluminación LED CREE">Bahía 3 — Barras LED CREE & Arneses</option>
+                  <option value="Bahía 4 - Estética Deportiva: Difusores & Lips">Bahía 4 — Difusores LED & Lips Carbono</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group"><label>Fecha *</label><input type="date" id="bookDate" required /></div>
+              <div class="form-group"><label>Horario</label>
+                <select id="bookTime">
+                  <option value="09:00 AM">09:00 AM</option>
+                  <option value="11:30 AM">11:30 AM</option>
+                  <option value="02:00 PM">02:00 PM</option>
+                  <option value="04:30 PM">04:30 PM</option>
+                </select>
+              </div>
+            </div>
+            <button type="submit" class="btn-primary" style="width:100%;justify-content:center;margin-top:6px;">📲 Confirmar Cita vía WhatsApp (56 4158 5522)</button>
+          </form>
+        </div>
+
+        <div class="form-card" style="background:#0B0F17;color:#FFFFFF;border-color:#1E293B;">
+          <div class="eyebrow" style="color:var(--kt-yellow);">PROGRAMA FLOTILLAS, MAYORISTAS Y FRANQUICIAS</div>
+          <h3 style="font-family:var(--font-display);font-size:19px;font-weight:900;margin-bottom:10px;">🏢 Catálogos Oficiales PDF & Descuentos B2B</h3>
+          <p style="font-size:12.5px;color:#CBD5E1;line-height:1.55;margin-bottom:14px;">
+            • <strong>Flotillas Corporativas:</strong> Descuento automático en carrito: Bronce -8% (3+ uds), Plata -12% (5+ uds), Oro -15% (10+ uds).<br>
+            • <strong>Mayoristas por Caja Cerrada:</strong> Difusores y Lips desde <strong>$132 MXN/pza</strong> y tarifas preferenciales en Acero Calibre 11.<br>
+            • <strong>Franquicias KINGS TRUCKS® 2026:</strong> Modelos Express ($420k) y Hangar Flagship ($950k).
+          </p>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+            <a href="CatalogoMariV2.pdf-1-80.pdf" target="_blank" class="btn-secondary" style="font-size:11.5px;padding:9px 10px;">📕 Catálogo 4x4 (80 Págs PDF)</a>
+            <a href="DIFUSOR LIP.pdf" target="_blank" class="btn-secondary" style="font-size:11.5px;padding:9px 10px;">📘 Catálogo Difusor Lip (PDF)</a>
+            <a href="Kings_Trucks_Catalogo_Ejecutivo_2026.pdf" target="_blank" class="btn-secondary" style="font-size:11.5px;padding:9px 10px;">📙 Catálogo Ejecutivo 2026</a>
+            <a href="Kings_Trucks_Dossier_B2B_Franquicias.pdf" target="_blank" class="btn-secondary" style="font-size:11.5px;padding:9px 10px;">📗 Dossier B2B & Franquicias</a>
+          </div>
+          <!-- CLEAN VECTOR CORPORATE CONTACT CARD -->
+          <div class="corp-card">
+            <div>
+              <div style="font-family:var(--font-display);font-weight:900;font-size:14px;color:var(--kt-yellow);">KINGS TRUCKS® MÉXICO · ATENCIÓN DIRECTA</div>
+              <div style="font-size:11.5px;color:#CBD5E1;margin-top:2px;">Av. Chalma La Villa, Hda. del Parque, Cuautitlán Izcalli, EdoMéx</div>
+              <div class="mono" style="font-size:12px;color:#FFFFFF;font-weight:700;margin-top:4px;">📞 56 4158 5522 · Facturación CFDI 4.0</div>
+            </div>
+            <img src="assets/brand/logo_dark.jpg" alt="Logo KT" style="width:52px;height:52px;border-radius:8px;border:1px solid var(--kt-yellow);" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- =====================================================================
+       PRODUCT DETAIL MODAL (DUAL PHOTO SWITCHER + 3 TIERS + 12 MSI)
+  ===================================================================== -->
+  <div class="modal-backdrop" id="productModalBackdrop" onclick="if(event.target===this)closeProductModal()">
+    <div class="detail-modal">
+      <div class="detail-header">
+        <div>
+          <span class="sku-pill" id="modalSkuBadge">TO-147</span>
+          <span style="margin-left:10px;font-size:12px;color:#CBD5E1;" id="modalSubfamily">Catálogo 4x4</span>
+        </div>
+        <button onclick="closeProductModal()" style="background:transparent;border:1px solid #475569;color:#FFF;padding:5px 11px;border-radius:6px;cursor:pointer;font-weight:700;">✕ Cerrar</button>
+      </div>
+
+      <div class="detail-body">
+        <div>
+          <div class="detail-main-stage">
+            <img id="modalMainImg" src="assets/mounted/mounted_u_panal_led.jpg" alt="Producto" />
+            <span class="ba-badge-before" id="modalStageLabel" style="top:10px;bottom:auto;left:10px;background:rgba(11,15,23,0.92);color:var(--kt-yellow);border-color:var(--kt-yellow);">🔥 VISTA PIEZA PUESTA</span>
+          </div>
+          <div class="detail-compare-strip">
+            <div class="detail-compare-box active" id="modalBoxMounted" onclick="switchModalImage('montada')">
+              <img id="modalThumbMounted" src="assets/mounted/mounted_u_panal_led.jpg" alt="Vista Pieza Puesta" />
+              <div class="detail-compare-lbl"><span>🔥 1. Pieza Puesta en Vehículo</span><span style="color:var(--kt-yellow);">Ver</span></div>
+            </div>
+            <div class="detail-compare-box" id="modalBoxPiece" onclick="switchModalImage('pieza')">
+              <img id="modalThumbPiece" src="assets/catalog_4x4/TO-147.jpg" alt="Foto Pieza Catálogo" />
+              <div class="detail-compare-lbl"><span>📦 2. Foto Pieza Catálogo</span><span style="color:var(--kt-yellow);">Ver</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div style="display:flex;flex-direction:column;gap:12px;">
+          <h2 id="modalProductTitle" style="font-family:var(--font-display);font-size:20px;font-weight:900;line-height:1.25;"></h2>
+          <div id="modalCompatBadges" style="display:flex;flex-wrap:wrap;gap:6px;"></div>
+
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;background:#F8FAFC;border:1px solid #E2E8F0;padding:10px;border-radius:10px;">
+            <div style="background:#FFF;border:2px solid var(--kt-yellow);padding:9px;border-radius:7px;">
+              <div style="font-size:10px;font-weight:800;color:#B45309;">🔧 INSTALADO</div>
+              <div class="mono" style="font-size:17px;font-weight:900;" id="modalPriceInstalado">$6,840</div>
+              <div style="font-size:10px;color:#64748B;">En Bahía Izcalli</div>
+            </div>
+            <div style="background:#FFF;border:1px solid #CBD5E1;padding:9px;border-radius:7px;">
+              <div style="font-size:10px;font-weight:800;color:#334155;">📦 SOLO PIEZA</div>
+              <div class="mono" style="font-size:17px;font-weight:900;" id="modalPriceBase">$5,890</div>
+              <div style="font-size:10px;color:#64748B;" id="modalMsiText">12x $491 s/i</div>
+            </div>
+            <div style="background:#FFF;border:1px solid #10B981;padding:9px;border-radius:7px;">
+              <div style="font-size:10px;font-weight:800;color:#059669;">🏢 MAYOREO B2B</div>
+              <div class="mono" style="font-size:17px;font-weight:900;color:#059669;" id="modalPriceMayoreo">$4,360</div>
+              <div style="font-size:10px;color:#64748B;">Caja / Distribuidor</div>
+            </div>
+          </div>
+
+          <div style="font-size:11.5px;background:#ECFDF5;color:#065F46;padding:8px 10px;border-radius:6px;display:flex;justify-content:space-between;font-weight:700;">
+            <span>Ref. Mercado Libre: <span class="mono price-ref-strike" id="modalPriceRefMl">$7,200</span></span>
+            <span id="modalSavingsText">✓ Directo de Fábrica</span>
+          </div>
+
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:12px;background:#F8FAFC;border:1px solid #E2E8F0;padding:10px;border-radius:8px;">
+            <div><span style="color:#64748B;display:block;font-size:10.5px;">Calibre / Espesor:</span><strong id="modalCalibre"></strong></div>
+            <div><span style="color:#64748B;display:block;font-size:10.5px;">Acabado:</span><strong id="modalMaterial"></strong></div>
+            <div><span style="color:#64748B;display:block;font-size:10.5px;">Instalación:</span><strong id="modalTime"></strong></div>
+            <div><span style="color:#64748B;display:block;font-size:10.5px;">Garantía:</span><strong id="modalWarranty"></strong></div>
+          </div>
+
+          <div style="font-size:12px;background:#FFFBEB;border:1px solid #FDE68A;padding:10px;border-radius:8px;color:#78350F;">
+            <strong>📋 Incluye:</strong> <span id="modalIncludes"></span>
+          </div>
+
+          <div style="display:flex;gap:10px;margin-top:auto;">
+            <button class="btn-primary" style="flex:1;justify-content:center;" id="modalAddBtn">+ Agregar a Cotización</button>
+            <button class="btn-outline" onclick="printCurrentModalSpec()">🖨️ Ficha PDF</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- =====================================================================
+       QUOTE CART DRAWER
+  ===================================================================== -->
+  <div class="cart-drawer" id="cartDrawer">
+    <div style="background:var(--kt-black);color:#FFF;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+      <div>
+        <div style="font-family:var(--font-display);font-weight:900;font-size:15px;color:var(--kt-yellow);">🛒 COTIZADOR FORMAL KINGS TRUCKS</div>
+        <div style="font-size:11px;color:#94A3B8;">Precios en MXN · Descuento automático flotilla</div>
+      </div>
+      <button onclick="closeAllDrawers()" style="background:transparent;border:1px solid #334155;color:#FFF;padding:5px 10px;border-radius:6px;cursor:pointer;">✕</button>
+    </div>
+    <div id="cartItemsList" style="flex:1;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:8px;"></div>
+    <div style="padding:14px;background:#F8FAFC;border-top:1px solid #E2E8F0;">
+      <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;"><span>Subtotal:</span><span class="mono" id="cartSubtotal">$0 MXN</span></div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#059669;font-weight:700;margin-bottom:8px;"><span id="cartDiscountLbl">Descuento Volumen:</span><span class="mono" id="cartDiscountVal">-$0 MXN</span></div>
+      <div style="display:flex;justify-content:space-between;font-size:17px;font-weight:900;border-top:1px solid #CBD5E1;padding-top:8px;margin-bottom:10px;"><span>TOTAL:</span><span class="mono" id="cartTotal">$0 MXN</span></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+        <button class="btn-primary" style="justify-content:center;font-size:12px;padding:10px;" onclick="printFormalQuote()">🖨️ Imprimir PDF</button>
+        <button class="btn-add" style="font-size:12px;padding:10px;" onclick="sendQuoteWhatsApp()">💬 Enviar WhatsApp</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="printArea" style="display:none;"></div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="brand-title" style="margin-bottom:6px;">KINGS <span>TRUCKS®</span> MÉXICO</div>
+          <p style="line-height:1.55;margin-bottom:10px;">Antes <em>Distribuidora de Autoaccesorios María / Carguía Autopartes</em>. Ingeniería en acero Calibre 11 (3.18 mm), herrajes sin perforar y estética deportiva OEM.</p>
+          <div class="mono" style="color:var(--kt-yellow);font-size:12px;">📞 WhatsApp & Ventas: 56 4158 5522</div>
+        </div>
+        <div>
+          <div class="footer-title">División 4x4 Heavy-Duty</div>
+          <ul class="footer-links">
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('TUMBABURROS')">Tumbaburros Serie TO (93 SKUs)</a></li>
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('HERRAJES')">Herrajes Chasis BO (55 SKUs)</a></li>
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('ESTRIBOS')">Estribos Uso Rudo</a></li>
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('TAPAS_ROLLBARS')">Tapas Retráctiles & Roll Bars</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-title">División Aerodinámica</div>
+          <ul class="footer-links">
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('Difusores Traseros Deportivos (DF)')">Difusores Traseros LED (DF)</a></li>
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('Lips Delanteros & Splitters (LP)')">Lips Delanteros Carbono (LP)</a></li>
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('Lips Laterales & Faldones (LP)')">Lips Laterales & Faldones</a></li>
+            <li><a href="#shopSection" onclick="filterByCategorySidebar('Esquineros & Canards Deportivos (EDS)')">Esquineros Deportivos (EDS)</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-title">Hangar Flagship Izcalli</div>
+          <p style="line-height:1.5;">Av. Chalma La Villa, Col. Hacienda del Parque, Cuautitlán Izcalli, EdoMéx.<br>Lunes a Sábado · Envíos a toda la República.</p>
+        </div>
+      </div>
+      <div style="border-top:1px solid #1E293B;padding-top:14px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:11.5px;">
+        <span>© 2026 KINGS TRUCKS® MÉXICO — Soluciones Totales.</span>
+        <span class="mono">725 SKUs Activos · V3 Vanguardia</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/catalog_data.js"></script>
+  <script>
+    const ALL_PRODUCTS = window.KINGS_ALL_PRODUCTS || [];
+    const PRODUCT_BY_SKU = {};
+    ALL_PRODUCTS.forEach(p => { PRODUCT_BY_SKU[p.sku] = p; });
+
+    const CAT_LABELS = {
+      'TUMBABURROS': 'Tumbaburros y Defensas 4x4 (TO)',
+      'HERRAJES': 'Herrajes de Chasis Sin Perforar (BO)',
+      'ESTRIBOS': 'Estribos Uso Rudo & Rock Sliders',
+      'TAPAS_ROLLBARS': 'Tapas Rígidas & Roll Bars',
+      'ILUMINACION_LED': 'Iluminación LED CREE Off-Road',
+      'RACKS_ESTETICA': 'Canastillas, Racks & Kits SUV'
+    };
+
+    function getCatLabel(raw) {
+      return CAT_LABELS[raw] || raw;
+    }
+
+    let state = {
+      division: 'all',
+      category: 'all',
+      seriesKw: '',
+      search: '',
+      vehicle: '',
+      priceRange: 'all',
+      priceMode: 'instalado',
+      globalImageMode: 'montada',
+      cardImageOverrides: {},
+      visibleLimit: 36,
+      cart: [],
+      activeModalSku: null,
+      activePlatformIdx: 0,
+      activeShowroomAngleIdx: 0,
+      showroomCheckedSkus: {}
+    };
+
+    const BENTO_CATEGORIES = [
+      { title: 'Tumbaburros Serie U-Panal & LED', division: '4x4_heavy_duty', category: 'TUMBABURROS', seriesKw: '', img: 'assets/mounted/mounted_u_panal_led.jpg' },
+      { title: 'Defensas Off-Road TYX2.0, BF & Hamer', division: '4x4_heavy_duty', category: 'TUMBABURROS', seriesKw: 'OFFROAD_SERIES', img: 'assets/mounted/mounted_hamer_offroad.jpg' },
+      { title: 'Herrajes Chasis Sin Perforar (BO)', division: '4x4_heavy_duty', category: 'HERRAJES', seriesKw: '', img: 'assets/mounted/mounted_herraje_bo.jpg' },
+      { title: 'Estribos Uso Rudo & Rock Sliders', division: '4x4_heavy_duty', category: 'ESTRIBOS', seriesKw: '', img: 'assets/mounted/mounted_estribos_rock.jpg' },
+      { title: 'Tapas Retráctiles & Roll Bars', division: '4x4_heavy_duty', category: 'TAPAS_ROLLBARS', seriesKw: '', img: 'assets/mounted/mounted_tapa_rollbar.jpg' },
+      { title: 'Canastillas & Barras LED CREE 42"', division: '4x4_heavy_duty', category: 'ILUMINACION_LED', seriesKw: '', img: 'assets/mounted/mounted_canastilla_led42.jpg' },
+      { title: 'Difusores Traseros Deportivos LED', division: 'aero_difusor_lip', category: 'Difusores Traseros Deportivos (DF)', seriesKw: '', img: 'assets/mounted/mounted_difusor_led.jpg' },
+      { title: 'Lips Delanteros Carbono & Splitters', division: 'aero_difusor_lip', category: 'Lips Delanteros & Splitters (LP)', seriesKw: '', img: 'assets/mounted/mounted_lip_carbono.jpg' }
+    ];
+
+    const SHOWROOM_PLATFORMS = [
+      {
+        name: 'Nissan NP300 Frontier Pro-4X', sub: '#1 Demanda MX · Tumbaburros U-Panal LED', primarySku: 'TO-147',
+        angles: [
+          { label: '🔥 Pieza Puesta Frontal', img: 'assets/mounted/mounted_u_panal_led.jpg' },
+          { label: '🚜 Paquete Full Equipada', img: 'assets/mounted/after_equipped_pickup.jpg' },
+          { label: '🔩 Herraje Chasis BO-X1-2', img: 'assets/mounted/mounted_herraje_bo.jpg' },
+          { label: '📦 Foto Catálogo TO-147', img: 'assets/catalog_4x4/TO-147.jpg' }
+        ],
+        modules: ['TO-147', 'BO-X1-2', 'KT-EST-01', 'KT-THU-01', 'KT-ROL-01']
+      },
+      {
+        name: 'Ford Lobo F-150 / Ranger Hamer', sub: 'Defensa Heavy-Duty + Rack Expedición LED', primarySku: 'TO-184',
+        angles: [
+          { label: '🔥 Defensa Hamer Puesta', img: 'assets/mounted/mounted_hamer_offroad.jpg' },
+          { label: '🏔️ Paquete Rack + LED 42"', img: 'assets/mounted/mounted_f150_raptor_expedition.jpg' },
+          { label: '📦 Foto Catálogo TO-184', img: 'assets/catalog_4x4/TO-184.jpg' }
+        ],
+        modules: ['TO-184', 'KT-THU-01', 'KT-LED-01', 'KT-EST-06']
+      },
+      {
+        name: 'Toyota Tacoma TRD Off-Road', sub: 'Serie U Panal + 4 Faros Cubo LED CREE', primarySku: 'TO-153',
+        angles: [
+          { label: '🔥 4 Cubos LED Puesto', img: 'assets/mounted/mounted_u_panal_4cubos.jpg' },
+          { label: '🪜 Estribos Rock Sliders', img: 'assets/mounted/mounted_estribos_rock.jpg' },
+          { label: '📦 Foto Catálogo TO-153', img: 'assets/catalog_4x4/TO-153.jpg' }
+        ],
+        modules: ['TO-153', 'BO-BFA-01', 'KT-EST-02', 'KT-TAP-01']
+      },
+      {
+        name: 'Toyota Hilux Doble Cabina / Revo', sub: 'Defensa Heavy-Duty TYX2.0 c/ Grilletes', primarySku: 'TO-193',
+        angles: [
+          { label: '🔥 Defensa TYX2.0 Puesta', img: 'assets/mounted/mounted_tyx20_hd.jpg' },
+          { label: '🔩 Herraje Sin Perforar BO-SGX-1', img: 'assets/mounted/mounted_herraje_bo.jpg' },
+          { label: '📦 Foto Catálogo TO-193', img: 'assets/catalog_4x4/TO-193.jpg' }
+        ],
+        modules: ['TO-193', 'BO-SGX-1', 'KT-EST-03', 'KT-LED-01']
+      },
+      {
+        name: 'RAM 1500 / Silverado Z71', sub: 'Serie BF Grilletes & Serie YX Inox 304', primarySku: 'TO-188',
+        angles: [
+          { label: '🔥 Serie BF Grilletes RAM', img: 'assets/mounted/mounted_bf_shackles.jpg' },
+          { label: '✨ Serie YX Inox Silverado', img: 'assets/mounted/mounted_yx_inox.jpg' },
+          { label: '📦 Foto Catálogo TO-188', img: 'assets/catalog_4x4/TO-188.jpg' }
+        ],
+        modules: ['TO-188', 'TO-198', 'KT-EST-04', 'KT-TAP-02']
+      },
+      {
+        name: 'VW Jetta GLI / Golf GTI / BMW M-Sport', sub: 'Catálogo Difusor Lip: Difusores LED & Splitters', primarySku: 'DF-33',
+        angles: [
+          { label: '🔥 Difusor LED Puesto', img: 'assets/mounted/mounted_difusor_led.jpg' },
+          { label: '🏎️ Lip Carbono Puesto', img: 'assets/mounted/mounted_lip_carbono.jpg' },
+          { label: '📦 Foto Catálogo DF-33', img: 'assets/catalog_aero/DF-33.jpg' },
+          { label: '📦 Foto Catálogo LP-168', img: 'assets/catalog_aero/LP-168.jpg' }
+        ],
+        modules: ['DF-33', 'LP-168', 'LP-189']
+      }
+    ];
+
+    function formatMXN(n) { return '$' + Number(n || 0).toLocaleString('es-MX') + ' MXN'; }
+    function getActivePrice(p) {
+      if (state.priceMode === 'instalado') return p.precio_instalado;
+      if (state.priceMode === 'mayoreo') return p.precio_mayoreo;
+      return p.precio_base;
+    }
+    function getPriceModeShort() {
+      if (state.priceMode === 'instalado') return '🔧 Instalado Bahía';
+      if (state.priceMode === 'mayoreo') return '🏢 Mayoreo / Caja B2B';
+      return '📦 Solo Pieza Menudeo';
+    }
+
+    function getCalibreSpec(p) {
+      return String(p && (p.calibre_esp || p.dimensiones) || 'Acero Estructural Calibre 11 (3.18 mm)');
+    }
+    function getCompatList(p) {
+      if (p && Array.isArray(p.compatibilidad)) return p.compatibilidad;
+      if (p && Array.isArray(p.camionetas_compatibles)) return p.camionetas_compatibles;
+      return ['UNIVERSAL 4X4'];
+    }
+    function getSubfamily(p) {
+      return String((p && (p.subfamilia || (p.herraje_compatible ? 'Herraje: ' + p.herraje_compatible : ''))) || 'Línea Oficial 2026');
+    }
+    function getInstallTime(p) {
+      return Number((p && p.tiempo_inst_min) || 45);
+    }
+    function getIncludes(p) {
+      return String((p && p.incluye) || 'Pieza estructural + Tornillería Grado 8 + Garantía por escrito');
+    }
+
+    // HERO BEFORE / AFTER SLIDER
+    function initBeforeAfterSlider() {
+      const vp = document.getElementById('baViewport');
+      if (!vp) return;
+      let dragging = false;
+      function move(e) {
+        const rect = vp.getBoundingClientRect();
+        const x = e.touches ? e.touches[0].clientX : e.clientX;
+        const pct = Math.max(8, Math.min(92, ((x - rect.left) / rect.width) * 100));
+        setBaSlider(pct);
+      }
+      vp.addEventListener('mousedown', e => { if (!e.target.classList.contains('ba-hotspot')) { dragging = true; move(e); } });
+      window.addEventListener('mousemove', e => { if (dragging) move(e); });
+      window.addEventListener('mouseup', () => dragging = false);
+      vp.addEventListener('touchstart', e => { if (!e.target.classList.contains('ba-hotspot')) { dragging = true; move(e); } }, { passive: true });
+      window.addEventListener('touchmove', e => { if (dragging) move(e); }, { passive: true });
+      window.addEventListener('touchend', () => dragging = false);
+      setBaSlider(50);
+    }
+
+    function setBaSlider(pct) {
+      const before = document.getElementById('baBeforeWrap');
+      const handle = document.getElementById('baHandle');
+      if (before && handle) {
+        before.style.clipPath = `inset(0 ${100 - pct}% 0 0)`;
+        handle.style.left = `${pct}%`;
+      }
+      document.querySelectorAll('.ba-preset-btn').forEach(btn => {
+        const oc = btn.getAttribute('onclick') || '';
+        btn.classList.toggle('active', oc.includes(`(${Math.round(pct)})`));
+      });
+    }
+
+    // RENDER CATEGORY BENTO GRID
+    function renderCategoryBento() {
+      const grid = document.getElementById('categoryBentoGrid');
+      if (!grid) return;
+      grid.innerHTML = BENTO_CATEGORIES.map((b, idx) => {
+        const matching = ALL_PRODUCTS.filter(p => {
+          if (b.seriesKw === 'OFFROAD_SERIES') {
+            return p.categoria === 'TUMBABURROS' && /TYX|HAMER|BF-|WINCH/i.test((p.nombre || '') + ' ' + getSubfamily(p));
+          }
+          return p.categoria === b.category;
+        });
+        const minPrice = matching.length ? Math.min(...matching.map(p => getActivePrice(p))) : 890;
+        return `
+          <div class="bento-card" onclick="selectBentoCategory(${idx})">
+            <div class="bento-img-wrap">
+              <img src="${b.img}" alt="${b.title}" loading="lazy" />
+              <span class="bento-count">${matching.length} SKUs</span>
+            </div>
+            <div class="bento-body">
+              <div class="bento-title">${b.title}</div>
+              <div class="bento-meta">
+                <span>Desde $${minPrice.toLocaleString('es-MX')} MXN</span>
+                <span style="color:#0F172A;">Ver →</span>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function selectBentoCategory(idx) {
+      const b = BENTO_CATEGORIES[idx];
+      if (!b) return;
+      state.division = b.division;
+      state.category = b.category;
+      state.seriesKw = b.seriesKw;
+      state.visibleLimit = 36;
+      syncDivisionButtons();
+      renderShop(true);
+      scrollToSection('shopSection');
+    }
+
+    // FILTERING LOGIC
+    function matchPriceRange(price) {
+      if (state.priceRange === '0-1200') return price <= 1200;
+      if (state.priceRange === '1200-4500') return price > 1200 && price <= 4500;
+      if (state.priceRange === '4500-8500') return price > 4500 && price <= 8500;
+      if (state.priceRange === '8500+') return price > 8500;
+      return true;
+    }
+
+    function getFilteredProducts() {
+      return ALL_PRODUCTS.filter(p => {
+        if (state.division !== 'all' && p.catalogo_origen !== state.division) return false;
+        if (state.category !== 'all' && p.categoria !== state.category) return false;
+        if (state.seriesKw === 'OFFROAD_SERIES') {
+          if (!/TYX|HAMER|BF-|WINCH/i.test((p.nombre || '') + ' ' + getSubfamily(p))) return false;
+        }
+        const compat = getCompatList(p);
+        if (state.vehicle) {
+          const hay = ((p.nombre || '') + ' ' + getSubfamily(p) + ' ' + compat.join(' ')).toUpperCase();
+          if (!hay.includes(state.vehicle.toUpperCase())) return false;
+        }
+        if (state.search) {
+          const q = state.search.toUpperCase().trim();
+          const hay = ((p.sku || '') + ' ' + (p.nombre || '') + ' ' + (p.categoria || '') + ' ' + getSubfamily(p) + ' ' + compat.join(' ') + ' ' + (p.material || '')).toUpperCase();
+          if (!hay.includes(q)) return false;
+        }
+        if (!matchPriceRange(getActivePrice(p))) return false;
+        return true;
+      });
+    }
+
+    // RENDER SIDEBAR + PRODUCT GRID
+    function renderSidebar() {
+      const divCounts = {
+        all: ALL_PRODUCTS.length,
+        '4x4_heavy_duty': ALL_PRODUCTS.filter(p => p.catalogo_origen === '4x4_heavy_duty').length,
+        aero_difusor_lip: ALL_PRODUCTS.filter(p => p.catalogo_origen === 'aero_difusor_lip').length
+      };
+      const sbDiv = document.getElementById('sidebarDivisions');
+      if (sbDiv) {
+        sbDiv.innerHTML = [
+          { k: 'all', lbl: 'Universo Completo' },
+          { k: '4x4_heavy_duty', lbl: 'Catálogo 4x4 Heavy-Duty' },
+          { k: 'aero_difusor_lip', lbl: 'Catálogo Difusores & Lips' }
+        ].map(d => `
+          <button class="sidebar-filter-btn ${state.division === d.k ? 'active' : ''}" onclick="switchDivision('${d.k}', false)">
+            <span>${d.lbl}</span><span class="sidebar-count">${divCounts[d.k]}</span>
+          </button>
+        `).join('');
+      }
+
+      const pool = ALL_PRODUCTS.filter(p => state.division === 'all' || p.catalogo_origen === state.division);
+      const catCounts = {};
+      pool.forEach(p => { catCounts[p.categoria] = (catCounts[p.categoria] || 0) + 1; });
+
+      let catHtml = `<button class="sidebar-filter-btn ${state.category === 'all' ? 'active' : ''}" onclick="filterByCategorySidebar('all')"><span>Todas las Categorías</span><span class="sidebar-count">${pool.length}</span></button>`;
+      Object.keys(catCounts).forEach(c => {
+        catHtml += `<button class="sidebar-filter-btn ${state.category === c ? 'active' : ''}" onclick="filterByCategorySidebar('${c.replace(/'/g, "\\'")}')"><span>${getCatLabel(c)}</span><span class="sidebar-count">${catCounts[c]}</span></button>`;
+      });
+      const sbCat = document.getElementById('sidebarCategories');
+      if (sbCat) sbCat.innerHTML = catHtml;
+
+      const ranges = [
+        { k: 'all', lbl: 'Cualquier Precio' },
+        { k: '0-1200', lbl: 'Hasta $1,200 MXN' },
+        { k: '1200-4500', lbl: '$1,200 – $4,500 MXN' },
+        { k: '4500-8500', lbl: '$4,500 – $8,500 MXN' },
+        { k: '8500+', lbl: 'Más de $8,500 MXN' }
+      ];
+      const sbPrice = document.getElementById('sidebarPriceRanges');
+      if (sbPrice) {
+        sbPrice.innerHTML = ranges.map(r => `
+          <button class="sidebar-filter-btn ${state.priceRange === r.k ? 'active' : ''}" onclick="state.priceRange='${r.k}'; renderShop(true);">
+            <span>${r.lbl}</span>
+          </button>
+        `).join('');
+      }
+    }
+
+    function renderActiveChips(filteredLen) {
+      const chips = [];
+      if (state.division !== 'all') chips.push({ lbl: state.division === '4x4_heavy_duty' ? '4x4 Heavy-Duty' : 'Difusores & Lips', fn: "switchDivision('all',false)" });
+      if (state.category !== 'all') chips.push({ lbl: getCatLabel(state.category), fn: "filterByCategorySidebar('all')" });
+      if (state.seriesKw) chips.push({ lbl: 'Series TYX2.0 / BF / Hamer', fn: "state.seriesKw='';renderShop(true)" });
+      if (state.vehicle) chips.push({ lbl: 'Vehículo: ' + state.vehicle, fn: "applyFitmentVehicle('')" });
+      if (state.search) chips.push({ lbl: 'Búsqueda: ' + state.search, fn: "syncSearchInputs('');renderShop(true)" });
+      if (state.priceRange !== 'all') chips.push({ lbl: 'Precio: ' + state.priceRange, fn: "state.priceRange='all';renderShop(true)" });
+
+      const el = document.getElementById('activeFilterChips');
+      if (!el) return;
+      if (chips.length === 0) {
+        el.innerHTML = `<span style="font-size:12px;color:#64748B;font-weight:600;">Mostrando catálogo completo (${filteredLen} SKUs)</span>`;
+      } else {
+        el.innerHTML = chips.map(c => `<span class="active-chip" onclick="${c.fn}">${c.lbl} ✕</span>`).join('') +
+          `<span class="active-chip" style="background:#0B0F17;color:#FFC72C;border-color:#0B0F17;" onclick="resetAllFilters()">Limpiar todo</span>`;
+      }
+    }
+
+    function renderShop(resetLimit = false) {
+      if (resetLimit) state.visibleLimit = 36;
+      renderSidebar();
+
+      let filtered = getFilteredProducts();
+      const sortEl = document.getElementById('shopSortSelect');
+      const sort = sortEl ? sortEl.value : 'featured';
+      if (sort === 'price_asc') filtered.sort((a, b) => getActivePrice(a) - getActivePrice(b));
+      else if (sort === 'price_desc') filtered.sort((a, b) => getActivePrice(b) - getActivePrice(a));
+      else if (sort === 'sku_asc') filtered.sort((a, b) => (a.sku || '').localeCompare(b.sku || ''));
+
+      const cntEl = document.getElementById('shopTotalCounter');
+      if (cntEl) cntEl.textContent = `${filtered.length} SKUs encontrados`;
+      const mobCnt = document.getElementById('mobFilterCount');
+      if (mobCnt) mobCnt.textContent = filtered.length;
+      const visCnt = document.getElementById('catalogVisibleCount');
+      if (visCnt) visCnt.textContent = `Viendo ${Math.min(state.visibleLimit, filtered.length)} de ${filtered.length}`;
+      renderActiveChips(filtered.length);
+
+      const slice = filtered.slice(0, state.visibleLimit);
+      const grid = document.getElementById('catalogProductsGrid');
+      if (!grid) return;
+
+      grid.innerHTML = slice.map(p => {
+        const mode = state.cardImageOverrides[p.sku] || state.globalImageMode;
+        const mainSrc = mode === 'montada' ? p.img_montada : p.img_pieza;
+        const pipSrc = mode === 'montada' ? p.img_pieza : p.img_montada;
+        const price = Number(getActivePrice(p) || 0);
+        const msi = Math.round(price / 12);
+        const refMl = Number(p.precio_ref_ml || Math.round(p.precio_base * 1.18));
+        const savings = Math.max(180, refMl - Number(p.precio_base || 0));
+        const compatList = getCompatList(p);
+        const calText = getCalibreSpec(p).slice(0, 28);
+        const instTime = getInstallTime(p);
+        const mayoreo = Number(p.precio_mayoreo || Math.round(p.precio_base * 0.74));
+
+        return `
+          <article class="product-card">
+            <div class="card-media">
+              <div class="card-top-row">
+                <span class="sku-pill">${p.sku}</span>
+                <span class="stock-pill">● EN STOCK</span>
+              </div>
+              <img src="${mainSrc}" alt="${p.nombre}" class="card-img-main ${mode === 'pieza' ? 'contain-mode' : ''}" loading="lazy" onclick="openProductModalBySku('${p.sku}')" />
+              <div class="card-bottom-controls">
+                <div class="card-view-toggle">
+                  <button class="card-toggle-btn ${mode === 'montada' ? 'active' : ''}" onclick="toggleCardImage('${p.sku}','montada')">🔥 Puesta</button>
+                  <button class="card-toggle-btn ${mode === 'pieza' ? 'active' : ''}" onclick="toggleCardImage('${p.sku}','pieza')">📦 Catálogo</button>
+                </div>
+                <div class="card-pip" title="Alternar entre Pieza Puesta y Catálogo" onclick="toggleCardImage('${p.sku}','${mode === 'montada' ? 'pieza' : 'montada'}')">
+                  <img src="${pipSrc}" alt="Alterna ${p.sku}" loading="lazy" />
+                </div>
+              </div>
+            </div>
+
+            <div class="card-body">
+              <div>
+                <div class="card-cat-lbl">${getCatLabel(p.categoria)}</div>
+                <h3 class="card-title" onclick="openProductModalBySku('${p.sku}')">${p.nombre}</h3>
+                <div class="card-compat" title="${compatList.join(', ')}">🚘 ${compatList.slice(0, 2).join(' · ')}</div>
+              </div>
+
+              <div>
+                <div class="card-specs-mini">
+                  <span><strong>${calText}</strong></span>
+                  <span>⏱️ ${instTime} min Bahía</span>
+                </div>
+
+                <div class="card-price-block" style="margin-top:8px;">
+                  <div class="price-mode-tag">
+                    <span>${getPriceModeShort()}</span>
+                    <span class="mono price-ref-strike">ML: $${refMl.toLocaleString('es-MX')}</span>
+                  </div>
+                  <div class="price-main">$${price.toLocaleString('es-MX')} <span style="font-size:11.5px;font-weight:700;color:#64748B;">MXN</span></div>
+                  <div class="price-msi">Hasta <strong>12 MSI</strong> de $${msi.toLocaleString('es-MX')} · Ahorras $${savings.toLocaleString('es-MX')}</div>
+                  <div class="price-b2b-row">
+                    <span>🏢 Mayoreo / Caja B2B:</span>
+                    <span class="mono">$${mayoreo.toLocaleString('es-MX')} MXN</span>
+                  </div>
+                </div>
+
+                <div class="card-actions" style="margin-top:10px;">
+                  <button class="btn-outline" onclick="openProductModalBySku('${p.sku}')">👁️ 2 Fotos & Ficha</button>
+                  <button class="btn-add" onclick="addToCart('${p.sku}', true)">+ Cotizar SKU</button>
+                </div>
+              </div>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      const lm = document.getElementById('loadMoreWrap');
+      const btnLm = document.getElementById('btnLoadMore');
+      if (lm) {
+        if (state.visibleLimit >= filtered.length) {
+          lm.style.display = 'none';
+        } else {
+          lm.style.display = 'block';
+          if (btnLm) btnLm.textContent = `Cargar Más Productos (${filtered.length - state.visibleLimit} restantes)`;
+        }
+      }
+    }
+
+    function loadMoreProducts() {
+      state.visibleLimit += 48;
+      renderShop(false);
+    }
+
+    function toggleCardImage(sku, mode) {
+      state.cardImageOverrides[sku] = mode;
+      renderShop(false);
+    }
+
+    function setGlobalImageMode(mode) {
+      state.globalImageMode = mode;
+      state.cardImageOverrides = {};
+      ['hdrBtnMounted', 'sbBtnMounted', 'mobBtnMounted'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.classList.toggle('active', mode === 'montada');
+      });
+      ['hdrBtnCatalog', 'sbBtnCatalog', 'mobBtnCatalog'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.classList.toggle('active', mode === 'pieza');
+      });
+      renderShop(false);
+    }
+
+    function setPriceMode(mode) {
+      state.priceMode = mode;
+      document.querySelectorAll('#globalPriceModeGroup .price-mode-btn').forEach(b => b.classList.toggle('active', b.dataset.mode === mode));
+      renderCategoryBento();
+      renderShowroom();
+      renderShop(false);
+      renderCartDrawer();
+    }
+
+    function syncDivisionButtons() {
+      document.querySelectorAll('#deptNavBar .dept-btn[data-div]').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.div === state.division);
+      });
+      const hds = document.getElementById('headerDeptSelect');
+      if (hds) hds.value = state.division;
+      const fds = document.getElementById('fitDivisionSelect');
+      if (fds) fds.value = state.division;
+    }
+
+    function switchDivision(div, scroll = false) {
+      state.division = div;
+      state.category = 'all';
+      state.seriesKw = '';
+      syncDivisionButtons();
+      renderShop(true);
+      if (scroll) scrollToSection('shopSection');
+    }
+
+    function filterByCategorySidebar(cat) {
+      state.category = cat;
+      state.seriesKw = '';
+      renderShop(true);
+    }
+
+    function syncSearchInputs(val) {
+      state.search = val;
+      const hsi = document.getElementById('headerSearchInput');
+      if (hsi) hsi.value = val;
+      renderShop(true);
+    }
+
+    function executeHeaderSearch() {
+      const hsi = document.getElementById('headerSearchInput');
+      state.search = hsi ? hsi.value : '';
+      renderShop(true);
+      scrollToSection('shopSection');
+    }
+
+    function applyFitmentVehicle(veh) {
+      state.vehicle = veh;
+      const fvs = document.getElementById('fitVehicleSelect');
+      if (fvs) fvs.value = veh;
+      const svs = document.getElementById('sidebarVehicleSelect');
+      if (svs) svs.value = veh;
+      renderShop(true);
+    }
+
+    function resetAllFilters() {
+      state.division = 'all';
+      state.category = 'all';
+      state.seriesKw = '';
+      state.search = '';
+      state.vehicle = '';
+      state.priceRange = 'all';
+      const hsi = document.getElementById('headerSearchInput');
+      if (hsi) hsi.value = '';
+      const fvs = document.getElementById('fitVehicleSelect');
+      if (fvs) fvs.value = '';
+      const svs = document.getElementById('sidebarVehicleSelect');
+      if (svs) svs.value = '';
+      syncDivisionButtons();
+      renderShop(true);
+    }
+
+    function scrollToSection(id) {
+      const el = document.getElementById(id);
+      if (el && el.scrollIntoView) el.scrollIntoView({ behavior: 'smooth' });
+    }
+
+    // SHOWROOM RENDERING
+    function renderShowroom() {
+      const psl = document.getElementById('platformSelectorList');
+      if (!psl) return;
+      psl.innerHTML = SHOWROOM_PLATFORMS.map((pl, idx) => `
+        <button class="platform-btn ${idx === state.activePlatformIdx ? 'active' : ''}" onclick="state.activePlatformIdx=${idx};state.activeShowroomAngleIdx=0;renderShowroom();">
+          <div>
+            <div style="font-weight:800;font-size:12.5px;">${pl.name}</div>
+            <div style="font-size:10.5px;color:#94A3B8;margin-top:2px;">${pl.sub}</div>
+          </div>
+          <span class="mono" style="font-size:11px;color:var(--kt-yellow);">${pl.primarySku}</span>
+        </button>
+      `).join('');
+
+      const pl = SHOWROOM_PLATFORMS[state.activePlatformIdx];
+      if (!state.showroomCheckedSkus[state.activePlatformIdx]) {
+        state.showroomCheckedSkus[state.activePlatformIdx] = [...pl.modules];
+      }
+      const angle = pl.angles[state.activeShowroomAngleIdx] || pl.angles[0];
+      const smi = document.getElementById('showroomMainImg');
+      if (smi) smi.src = angle.img;
+      const stb = document.getElementById('showroomTitleBadge');
+      if (stb) stb.textContent = `${pl.name} · ${angle.label}`;
+      const sab = document.getElementById('showroomAngleBtns');
+      if (sab) {
+        sab.innerHTML = pl.angles.map((a, i) => `
+          <button class="angle-btn ${i === state.activeShowroomAngleIdx ? 'active' : ''}" onclick="state.activeShowroomAngleIdx=${i};renderShowroom();">${a.label}</button>
+        `).join('');
+      }
+
+      const checked = state.showroomCheckedSkus[state.activePlatformIdx];
+      let w = 0, t = 0, tot = 0;
+      const sml = document.getElementById('showroomModulesList');
+      if (sml) {
+        sml.innerHTML = pl.modules.map(sku => {
+          const p = PRODUCT_BY_SKU[sku];
+          if (!p) return '';
+          const isOn = checked.includes(sku);
+          const pr = Number(getActivePrice(p) || 0);
+          if (isOn) { w += Number(p.peso_kg || 8); t += getInstallTime(p); tot += pr; }
+          return `
+            <div class="equip-toggle-item ${isOn ? 'checked' : ''}" onclick="toggleShowroomModule('${sku}')">
+              <div style="display:flex;align-items:center;gap:8px;min-width:0;">
+                <input type="checkbox" ${isOn ? 'checked' : ''} style="accent-color:var(--kt-yellow);pointer-events:none;" />
+                <div style="min-width:0;">
+                  <div style="font-size:11.5px;font-weight:700;color:#FFF;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${p.sku} · ${p.nombre.slice(0, 32)}</div>
+                  <div style="font-size:10px;color:#94A3B8;">${getCalibreSpec(p)}</div>
+                </div>
+              </div>
+              <span class="mono" style="font-size:12px;font-weight:800;color:var(--kt-yellow);flex-shrink:0;">$${pr.toLocaleString('es-MX')}</span>
+            </div>
+          `;
+        }).join('');
+      }
+
+      const stw = document.getElementById('showroomTotalWeight');
+      if (stw) stw.textContent = w.toFixed(1) + ' kg';
+      const stt = document.getElementById('showroomTotalTime');
+      if (stt) stt.textContent = t + ' min';
+      const spm = document.getElementById('showroomPriceModeLbl');
+      if (spm) spm.textContent = getPriceModeShort().toUpperCase() + ':';
+      const stp = document.getElementById('showroomTotalPrice');
+      if (stp) stp.textContent = formatMXN(tot);
+    }
+
+    function toggleShowroomModule(sku) {
+      const list = state.showroomCheckedSkus[state.activePlatformIdx] || [];
+      const idx = list.indexOf(sku);
+      if (idx >= 0) list.splice(idx, 1); else list.push(sku);
+      state.showroomCheckedSkus[state.activePlatformIdx] = list;
+      renderShowroom();
+    }
+
+    function addShowroomBuildToCart() {
+      const list = state.showroomCheckedSkus[state.activePlatformIdx] || [];
+      list.forEach(sku => addToCart(sku, false));
+      toggleCartDrawer(true);
+    }
+
+    function addFullHeroPackageToCart() {
+      ['TO-147', 'KT-EST-01', 'KT-THU-01', 'KT-ROL-01'].forEach(sku => addToCart(sku, false));
+      toggleCartDrawer(true);
+    }
+
+    // PRODUCT MODAL
+    function openProductModalBySku(sku) {
+      const p = PRODUCT_BY_SKU[sku];
+      if (!p) return;
+      state.activeModalSku = sku;
+      const compatList = getCompatList(p);
+      document.getElementById('modalSkuBadge').textContent = p.sku;
+      document.getElementById('modalSubfamily').textContent = `${getCatLabel(p.categoria)} · ${getSubfamily(p)}`;
+      document.getElementById('modalProductTitle').textContent = p.nombre;
+      document.getElementById('modalThumbMounted').src = p.img_montada;
+      document.getElementById('modalThumbPiece').src = p.img_pieza;
+      document.getElementById('modalCompatBadges').innerHTML = compatList.map(c => `<span class="active-chip" style="background:#F1F5F9;color:#0F172A;border-color:#CBD5E1;cursor:default;">✓ ${c}</span>`).join('');
+      document.getElementById('modalPriceInstalado').textContent = '$' + Number(p.precio_instalado || 0).toLocaleString('es-MX');
+      document.getElementById('modalPriceBase').textContent = '$' + Number(p.precio_base || 0).toLocaleString('es-MX');
+      document.getElementById('modalMsiText').textContent = `12x $${Math.round(Number(p.precio_base || 0) / 12).toLocaleString('es-MX')} s/i`;
+      document.getElementById('modalPriceMayoreo').textContent = '$' + Number(p.precio_mayoreo || 0).toLocaleString('es-MX');
+      document.getElementById('modalPriceRefMl').textContent = '$' + Number(p.precio_ref_ml || 0).toLocaleString('es-MX') + ' MXN';
+      document.getElementById('modalSavingsText').textContent = `✓ Ahorras $${Math.max(180, Number(p.precio_ref_ml || 0) - Number(p.precio_base || 0)).toLocaleString('es-MX')} MXN vs. ML`;
+      document.getElementById('modalCalibre').textContent = getCalibreSpec(p);
+      document.getElementById('modalMaterial').textContent = p.material || 'Acero / Acabado OEM';
+      document.getElementById('modalTime').textContent = getInstallTime(p) + ' min';
+      document.getElementById('modalWarranty').textContent = p.garantia || '1 Año directa por escrito';
+      document.getElementById('modalIncludes').textContent = getIncludes(p);
+      document.getElementById('modalAddBtn').onclick = () => { addToCart(p.sku, true); closeProductModal(); };
+      switchModalImage('montada');
+      document.getElementById('productModalBackdrop').classList.add('open');
+    }
+
+    function switchModalImage(mode) {
+      const p = PRODUCT_BY_SKU[state.activeModalSku];
+      if (!p) return;
+      const img = document.getElementById('modalMainImg');
+      const lbl = document.getElementById('modalStageLabel');
+      if (mode === 'montada') {
+        img.src = p.img_montada; img.style.objectFit = 'cover'; img.style.background = '#0F172A';
+        lbl.textContent = '🔥 VISTA PIEZA PUESTA EN VEHÍCULO';
+      } else {
+        img.src = p.img_pieza; img.style.objectFit = 'contain'; img.style.background = '#FFFFFF';
+        lbl.textContent = '📦 FOTO PIEZA DE CATÁLOGO';
+      }
+      document.getElementById('modalBoxMounted').classList.toggle('active', mode === 'montada');
+      document.getElementById('modalBoxPiece').classList.toggle('active', mode === 'pieza');
+    }
+
+    function closeProductModal() { document.getElementById('productModalBackdrop').classList.remove('open'); }
+
+    // DRAWERS & CART
+    function openMobileMenu() {
+      closeAllDrawers();
+      document.getElementById('mobileNavDrawer').classList.add('open');
+      document.getElementById('globalDrawerOverlay').classList.add('open');
+    }
+    function openMobileFilters() {
+      closeAllDrawers();
+      document.getElementById('shopSidebar').classList.add('mobile-open');
+      document.getElementById('globalDrawerOverlay').classList.add('open');
+    }
+    function toggleCartDrawer(open) {
+      closeAllDrawers();
+      if (open) {
+        document.getElementById('cartDrawer').classList.add('open');
+        document.getElementById('globalDrawerOverlay').classList.add('open');
+      }
+    }
+    function closeAllDrawers() {
+      document.getElementById('mobileNavDrawer').classList.remove('open');
+      document.getElementById('shopSidebar').classList.remove('mobile-open');
+      document.getElementById('cartDrawer').classList.remove('open');
+      document.getElementById('globalDrawerOverlay').classList.remove('open');
+    }
+
+    function addToCart(sku, open = true) {
+      const ex = state.cart.find(i => i.sku === sku);
+      if (ex) ex.qty++; else state.cart.push({ sku, qty: 1 });
+      renderCartDrawer();
+      if (open) toggleCartDrawer(true);
+    }
+    function updateCartQty(sku, delta) {
+      const idx = state.cart.findIndex(i => i.sku === sku);
+      if (idx === -1) return;
+      state.cart[idx].qty += delta;
+      if (state.cart[idx].qty <= 0) state.cart.splice(idx, 1);
+      renderCartDrawer();
+    }
+    function renderCartDrawer() {
+      const qtyTotal = state.cart.reduce((s, i) => s + i.qty, 0);
+      const hcc = document.getElementById('headerCartCount');
+      if (hcc) hcc.textContent = qtyTotal;
+      const list = document.getElementById('cartItemsList');
+      if (!list) return;
+      if (state.cart.length === 0) {
+        list.innerHTML = `<div style="text-align:center;color:#64748B;padding:36px 12px;font-size:13px;">Tu cotización está vacía. Agrega SKUs de la tienda para calcular tu presupuesto y descuentos por flotilla.</div>`;
+        document.getElementById('cartSubtotal').textContent = '$0 MXN';
+        document.getElementById('cartDiscountVal').textContent = '-$0 MXN';
+        document.getElementById('cartTotal').textContent = '$0 MXN';
+        return;
+      }
+      let sub = 0;
+      list.innerHTML = state.cart.map(i => {
+        const p = PRODUCT_BY_SKU[i.sku];
+        if (!p) return '';
+        const u = Number(getActivePrice(p) || 0);
+        sub += u * i.qty;
+        return `
+          <div style="display:flex;gap:10px;border:1px solid #E2E8F0;padding:9px;border-radius:8px;align-items:center;">
+            <img src="${p.img_pieza}" style="width:52px;height:42px;object-fit:contain;border-radius:5px;border:1px solid #CBD5E1;background:#FFF;" />
+            <div style="flex:1;min-width:0;">
+              <div class="mono" style="font-size:10.5px;font-weight:800;color:#B45309;">${p.sku}</div>
+              <div style="font-size:12px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${p.nombre}</div>
+              <div class="mono" style="font-size:11.5px;color:#475569;">$${u.toLocaleString('es-MX')} × ${i.qty}</div>
+            </div>
+            <div style="display:flex;align-items:center;gap:4px;">
+              <button onclick="updateCartQty('${p.sku}',-1)" style="width:24px;height:24px;border:1px solid #CBD5E1;background:#F8FAFC;border-radius:4px;cursor:pointer;font-weight:800;">-</button>
+              <span class="mono" style="font-size:12px;font-weight:800;">${i.qty}</span>
+              <button onclick="updateCartQty('${p.sku}',1)" style="width:24px;height:24px;border:1px solid #CBD5E1;background:#F8FAFC;border-radius:4px;cursor:pointer;font-weight:800;">+</button>
+            </div>
+          </div>
+        `;
+      }).join('');
+      let pct = 0;
+      if (state.priceMode !== 'mayoreo') {
+        if (qtyTotal >= 10) pct = 0.15; else if (qtyTotal >= 5) pct = 0.12; else if (qtyTotal >= 3) pct = 0.08;
+      }
+      const disc = Math.round(sub * pct);
+      document.getElementById('cartSubtotal').textContent = formatMXN(sub);
+      document.getElementById('cartDiscountLbl').textContent = pct > 0 ? `Descuento Flotilla (${Math.round(pct*100)}%):` : 'Descuento Flotilla (3+ uds):';
+      document.getElementById('cartDiscountVal').textContent = '-$' + disc.toLocaleString('es-MX') + ' MXN';
+      document.getElementById('cartTotal').textContent = formatMXN(sub - disc);
+    }
+
+    function sendQuoteWhatsApp() {
+      if (!state.cart.length) return;
+      const lines = state.cart.map(i => `• ${i.qty}x [${i.sku}] ${(PRODUCT_BY_SKU[i.sku] || {}).nombre || i.sku}`).join('%0A');
+      window.open(`https://wa.me/525641585522?text=Hola *KINGS TRUCKS MÉXICO*, solicito cotización en *${getPriceModeShort()}*:%0A%0A${lines}%0A%0A*Total:* ${document.getElementById('cartTotal').textContent}`, '_blank');
+    }
+    function submitBayBooking(e) {
+      e.preventDefault();
+      const msg = `Hola *KINGS TRUCKS MÉXICO*, confirmo cita en Hangar Izcalli:%0A• Cliente: ${document.getElementById('bookName').value} (${document.getElementById('bookPhone').value})%0A• Vehículo: ${document.getElementById('bookVehicle').value}%0A• ${document.getElementById('bookBay').value}%0A• ${document.getElementById('bookDate').value} ${document.getElementById('bookTime').value}`;
+      window.open(`https://wa.me/525641585522?text=${msg}`, '_blank');
+    }
+    function printFormalQuote() {
+      if (!state.cart.length) return;
+      const pa = document.getElementById('printArea');
+      pa.style.display = 'block';
+      pa.innerHTML = `<h1>COTIZACIÓN FORMAL KINGS TRUCKS® MÉXICO</h1><p>Modalidad: ${getPriceModeShort()} | Total: ${document.getElementById('cartTotal').textContent}</p><ul>` +
+        state.cart.map(i => `<li><strong>[${i.sku}]</strong> ${(PRODUCT_BY_SKU[i.sku] || {}).nombre || i.sku} × ${i.qty} — $${(getActivePrice(PRODUCT_BY_SKU[i.sku])*i.qty).toLocaleString('es-MX')} MXN</li>`).join('') + '</ul>';
+      window.print();
+      pa.style.display = 'none';
+    }
+    function printCurrentModalSpec() {
+      const p = PRODUCT_BY_SKU[state.activeModalSku];
+      if (!p) return;
+      const pa = document.getElementById('printArea');
+      pa.style.display = 'block';
+      pa.innerHTML = `<h1>FICHA TÉCNICA — KINGS TRUCKS® MÉXICO</h1><h2>[${p.sku}] ${p.nombre}</h2><p>Calibre: ${getCalibreSpec(p)} | Instalado: $${p.precio_instalado} MXN | Solo Pieza: $${p.precio_base} MXN | Mayoreo: $${p.precio_mayoreo} MXN</p>`;
+      window.print();
+      pa.style.display = 'none';
+    }
+
+    // EXPLICIT GLOBAL HANDLER EXPORTS
+    Object.assign(window, {
+      setPriceMode,
+      setGlobalImageMode,
+      switchDivision,
+      filterByCategorySidebar,
+      syncSearchInputs,
+      executeHeaderSearch,
+      applyFitmentVehicle,
+      resetAllFilters,
+      scrollToSection,
+      selectBentoCategory,
+      loadMoreProducts,
+      toggleCardImage,
+      toggleShowroomModule,
+      addShowroomBuildToCart,
+      addFullHeroPackageToCart,
+      openProductModalBySku,
+      switchModalImage,
+      closeProductModal,
+      openMobileMenu,
+      openMobileFilters,
+      toggleCartDrawer,
+      closeAllDrawers,
+      addToCart,
+      updateCartQty,
+      sendQuoteWhatsApp,
+      submitBayBooking,
+      printFormalQuote,
+      printCurrentModalSpec,
+      setBaSlider,
+      renderShop,
+      renderShowroom,
+      renderCategoryBento
+    });
+
+    function initApp() {
+      const steps = [
+        ['initBeforeAfterSlider', initBeforeAfterSlider],
+        ['renderCategoryBento', renderCategoryBento],
+        ['renderShowroom', renderShowroom],
+        ['renderShop', () => renderShop(true)],
+        ['renderCartDrawer', renderCartDrawer],
+        ['bookDateInit', () => {
+          const d = document.getElementById('bookDate');
+          if (d) d.valueAsDate = new Date(Date.now() + 86400000);
+        }]
+      ];
+      steps.forEach(([name, fn]) => {
+        try { fn(); } catch (err) { console.error('[KINGS TRUCKS INIT]', name, err); }
+      });
+    }
+
+    window.addEventListener('keydown', e => { if (e.key === 'Escape') { closeProductModal(); closeAllDrawers(); } });
+    if (document.readyState !== 'loading') {
+      initApp();
+    } else {
+      window.addEventListener('DOMContentLoaded', initApp);
+    }
+  </script>
+</body>
+</html>

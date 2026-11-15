@@ -1,0 +1,4234 @@
+[
+  {
+    "sku": "DF-33",
+    "codigo_original": "DF-33",
+    "page": 1,
+    "descripcion_raw": "DIFUSOR JETTA 19-21 NEGRO BRILLANTE GLI HIGHLINER",
+    "precio_mayoreo": 622,
+    "img_pieza": "assets/catalog_aero/DF-33.jpg"
+  },
+  {
+    "sku": "DF-06",
+    "codigo_original": "DF-06",
+    "page": 1,
+    "descripcion_raw": "DIFUSOR NEGRO",
+    "precio_mayoreo": 217,
+    "img_pieza": "assets/catalog_aero/DF-06.jpg"
+  },
+  {
+    "sku": "DF-07",
+    "codigo_original": "DF-07",
+    "page": 1,
+    "descripcion_raw": "DIFUSOR PLATEADO 128CM",
+    "precio_mayoreo": 227,
+    "img_pieza": "assets/catalog_aero/DF-07.jpg"
+  },
+  {
+    "sku": "DF-08",
+    "codigo_original": "DF-08",
+    "page": 1,
+    "descripcion_raw": "DIFUSOR NEGRO 128CM",
+    "precio_mayoreo": 216,
+    "img_pieza": "assets/catalog_aero/DF-08.jpg"
+  },
+  {
+    "sku": "LP-189",
+    "codigo_original": "LP-189",
+    "page": 1,
+    "descripcion_raw": "LIP LATERAL A3 17-20 SEDAN NEGRO BRILLANTE",
+    "precio_mayoreo": 688,
+    "img_pieza": "assets/catalog_aero/LP-189.jpg"
+  },
+  {
+    "sku": "LP-14",
+    "codigo_original": "LP-14",
+    "page": 2,
+    "descripcion_raw": "LIP LATERAL 2 PIEZAS 220CM NEGRO+ROJO 15",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-14.jpg"
+  },
+  {
+    "sku": "DF-42",
+    "codigo_original": "DF-42",
+    "page": 2,
+    "descripcion_raw": "DIFUSOR 128CM AZUL",
+    "precio_mayoreo": 245,
+    "img_pieza": "assets/catalog_aero/DF-42.jpg"
+  },
+  {
+    "sku": "LP-71",
+    "codigo_original": "LP-71",
+    "page": 2,
+    "descripcion_raw": "LIP LEON 14-20 NEGRO BRILLANTE 10",
+    "precio_mayoreo": 316,
+    "img_pieza": "assets/catalog_aero/LP-71.jpg"
+  },
+  {
+    "sku": "DF-111",
+    "codigo_original": "DF-111",
+    "page": 2,
+    "descripcion_raw": "DIFUSOR IBIZA 13-17 NEGRO BRILLANTE",
+    "precio_mayoreo": 499,
+    "img_pieza": "assets/catalog_aero/DF-111.jpg"
+  },
+  {
+    "sku": "DF-98",
+    "codigo_original": "DF-98",
+    "page": 2,
+    "descripcion_raw": "DIFUSOR TIGUAN 22-23 R-LINE MD NEGRO BRILLANTE",
+    "precio_mayoreo": 522,
+    "img_pieza": "assets/catalog_aero/DF-98.jpg"
+  },
+  {
+    "sku": "LP-16",
+    "codigo_original": "LP-16",
+    "page": 2,
+    "descripcion_raw": "LIP DEL 4 PIEZAS NEGRO 25",
+    "precio_mayoreo": 145,
+    "img_pieza": "assets/catalog_aero/LP-16.jpg"
+  },
+  {
+    "sku": "DF-23",
+    "codigo_original": "DF-23",
+    "page": 3,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 GTI CON LED A NEGRO BRILLANTE",
+    "precio_mayoreo": 699,
+    "img_pieza": "assets/catalog_aero/DF-23.jpg"
+  },
+  {
+    "sku": "LP-306",
+    "codigo_original": "LP-306",
+    "page": 3,
+    "descripcion_raw": "LIP DEL 3 PIEZAS B NEGRO+ROJO",
+    "precio_mayoreo": 179,
+    "img_pieza": "assets/catalog_aero/LP-306.jpg"
+  },
+  {
+    "sku": "LP-19",
+    "codigo_original": "LP-19",
+    "page": 3,
+    "descripcion_raw": "LIP GOLF 15-20 NEGRO BRILLANTE 21",
+    "precio_mayoreo": 287,
+    "img_pieza": "assets/catalog_aero/LP-19.jpg"
+  },
+  {
+    "sku": "LP-69",
+    "codigo_original": "LP-69",
+    "page": 3,
+    "descripcion_raw": "LIP JETTA 15-18 B NEGRO BRILLANTE 10",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-69.jpg"
+  },
+  {
+    "sku": "DF-27",
+    "codigo_original": "DF-27",
+    "page": 3,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 GTI A NEGRO BRILLANTE",
+    "precio_mayoreo": 215,
+    "img_pieza": "assets/catalog_aero/DF-27.jpg"
+  },
+  {
+    "sku": "DF-51",
+    "codigo_original": "DF-51",
+    "page": 4,
+    "descripcion_raw": "DIFUSOR GOLF 11- 13 GTI FILO NEGRO BRILLANTE",
+    "precio_mayoreo": 229,
+    "img_pieza": "assets/catalog_aero/DF-51.jpg"
+  },
+  {
+    "sku": "DF-55",
+    "codigo_original": "DF-55",
+    "page": 4,
+    "descripcion_raw": "DIFUSOR POLO 13- 17 GTI FILO NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/DF-55.jpg"
+  },
+  {
+    "sku": "DF-133",
+    "codigo_original": "DF-133",
+    "page": 4,
+    "descripcion_raw": "DIFUSOR A3 22- Z 23/S3 SEDAN NEGRO BRILLANTE",
+    "precio_mayoreo": 811,
+    "img_pieza": "assets/catalog_aero/DF-133.jpg"
+  },
+  {
+    "sku": "DF-132",
+    "codigo_original": "DF-132",
+    "page": 4,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 PT C CARBONO",
+    "precio_mayoreo": 733,
+    "img_pieza": "assets/catalog_aero/DF-132.jpg"
+  },
+  {
+    "sku": "LP-403",
+    "codigo_original": "LP-403",
+    "page": 4,
+    "descripcion_raw": "LIP GOLF 18-20 GTI CARBONO",
+    "precio_mayoreo": 399,
+    "img_pieza": "assets/catalog_aero/LP-403.jpg"
+  },
+  {
+    "sku": "LP-231",
+    "codigo_original": "LP-231",
+    "page": 5,
+    "descripcion_raw": "LIP 3 PIEZAS POLO 13-19 PT CARBONO NEGRO",
+    "precio_mayoreo": 377,
+    "img_pieza": "assets/catalog_aero/LP-231.jpg"
+  },
+  {
+    "sku": "LP-72",
+    "codigo_original": "LP-72",
+    "page": 5,
+    "descripcion_raw": "LIP LATERAL GOLF 15-20 GTI NEGRO BRILLANTE",
+    "precio_mayoreo": 392,
+    "img_pieza": "assets/catalog_aero/LP-72.jpg"
+  },
+  {
+    "sku": "LP-88",
+    "codigo_original": "LP-88",
+    "page": 5,
+    "descripcion_raw": "LIP LATERAL 192CM NEGRO",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-88.jpg"
+  },
+  {
+    "sku": "LP-125",
+    "codigo_original": "LP-125",
+    "page": 5,
+    "descripcion_raw": "LIP LEON 17-20 A CARBONO",
+    "precio_mayoreo": 383,
+    "img_pieza": "assets/catalog_aero/LP-125.jpg"
+  },
+  {
+    "sku": "DF-41",
+    "codigo_original": "DF-41",
+    "page": 5,
+    "descripcion_raw": "DIFUSOR 128CM ROJO",
+    "precio_mayoreo": 223,
+    "img_pieza": "assets/catalog_aero/DF-41.jpg"
+  },
+  {
+    "sku": "DF-43",
+    "codigo_original": "DF-43",
+    "page": 6,
+    "descripcion_raw": "DIFUSOR 128CM BLANCO",
+    "precio_mayoreo": 223,
+    "img_pieza": "assets/catalog_aero/DF-43.jpg"
+  },
+  {
+    "sku": "LP-149",
+    "codigo_original": "LP-149",
+    "page": 6,
+    "descripcion_raw": "LIP ONIX 21-23 NEGRO BRILLANTE",
+    "precio_mayoreo": 277,
+    "img_pieza": "assets/catalog_aero/LP-149.jpg"
+  },
+  {
+    "sku": "LP-366",
+    "codigo_original": "LP-366",
+    "page": 6,
+    "descripcion_raw": "LIP ONIX 21-23 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 335,
+    "img_pieza": "assets/catalog_aero/LP-366.jpg"
+  },
+  {
+    "sku": "DF-104",
+    "codigo_original": "DF-104",
+    "page": 6,
+    "descripcion_raw": "DIFUSOR F 125CMCARBONO",
+    "precio_mayoreo": 377,
+    "img_pieza": "assets/catalog_aero/DF-104.jpg"
+  },
+  {
+    "sku": "DF-131",
+    "codigo_original": "DF-131",
+    "page": 6,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 PT C NEGRO BRILLANTE",
+    "precio_mayoreo": 525,
+    "img_pieza": "assets/catalog_aero/DF-131.jpg"
+  },
+  {
+    "sku": "LP-114",
+    "codigo_original": "LP-114",
+    "page": 7,
+    "descripcion_raw": "LIP SENTRA 17-19 A CABONO",
+    "precio_mayoreo": 364,
+    "img_pieza": "assets/catalog_aero/LP-114.jpg"
+  },
+  {
+    "sku": "LP-115",
+    "codigo_original": "LP-115",
+    "page": 7,
+    "descripcion_raw": "LIP MAZDA 3 19- 23 A CARBONO",
+    "precio_mayoreo": 366,
+    "img_pieza": "assets/catalog_aero/LP-115.jpg"
+  },
+  {
+    "sku": "LP-116",
+    "codigo_original": "LP-116",
+    "page": 7,
+    "descripcion_raw": "LIP CIVIC 16-21 A CARBONO",
+    "precio_mayoreo": 403,
+    "img_pieza": "assets/catalog_aero/LP-116.jpg"
+  },
+  {
+    "sku": "LP-113",
+    "codigo_original": "LP-113",
+    "page": 7,
+    "descripcion_raw": "LIP SENTRA 20-23 A CARBONO",
+    "precio_mayoreo": 411,
+    "img_pieza": "assets/catalog_aero/LP-113.jpg"
+  },
+  {
+    "sku": "LP-155",
+    "codigo_original": "LP-155",
+    "page": 7,
+    "descripcion_raw": "LIP CIVIC 06-11 NEGRO BRILLANTE",
+    "precio_mayoreo": 322,
+    "img_pieza": "assets/catalog_aero/LP-155.jpg"
+  },
+  {
+    "sku": "LP-412",
+    "codigo_original": "LP-412",
+    "page": 8,
+    "descripcion_raw": "LIP BMW 4 14-20 M SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 535,
+    "img_pieza": "assets/catalog_aero/LP-412.jpg"
+  },
+  {
+    "sku": "LP-414",
+    "codigo_original": "LP-414",
+    "page": 8,
+    "descripcion_raw": "LIP BENZ A 19-23 SEDAN SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 644,
+    "img_pieza": "assets/catalog_aero/LP-414.jpg"
+  },
+  {
+    "sku": "LP-46",
+    "codigo_original": "LP-46",
+    "page": 8,
+    "descripcion_raw": "LIP SENTRA 17-19 A NEGRO BRILLANTE",
+    "precio_mayoreo": 322,
+    "img_pieza": "assets/catalog_aero/LP-46.jpg"
+  },
+  {
+    "sku": "LP-159",
+    "codigo_original": "LP-159",
+    "page": 8,
+    "descripcion_raw": "LIP GT 22-23 NEGRO BRILLANTE",
+    "precio_mayoreo": 311,
+    "img_pieza": "assets/catalog_aero/LP-159.jpg"
+  },
+  {
+    "sku": "EDS-19",
+    "codigo_original": "EDS-19",
+    "page": 8,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO NISMO",
+    "precio_mayoreo": 49,
+    "img_pieza": "assets/catalog_aero/EDS-19.jpg"
+  },
+  {
+    "sku": "EDS-44",
+    "codigo_original": "EDS-44",
+    "page": 9,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NISMO",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-44.jpg"
+  },
+  {
+    "sku": "LP-18",
+    "codigo_original": "LP-18",
+    "page": 9,
+    "descripcion_raw": "LIP DEL 4 PIEZAS BLANCO 25",
+    "precio_mayoreo": 143,
+    "img_pieza": "assets/catalog_aero/LP-18.jpg"
+  },
+  {
+    "sku": "LP-60",
+    "codigo_original": "LP-60",
+    "page": 9,
+    "descripcion_raw": "LIP 4 PIEZAS CARBONO NEGRO",
+    "precio_mayoreo": 277,
+    "img_pieza": "assets/catalog_aero/LP-60.jpg"
+  },
+  {
+    "sku": "EDS-46",
+    "codigo_original": "EDS-46",
+    "page": 9,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO VOLKSWAGEN",
+    "precio_mayoreo": 95,
+    "img_pieza": "assets/catalog_aero/EDS-46.jpg"
+  },
+  {
+    "sku": "EDS-21",
+    "codigo_original": "EDS-21",
+    "page": 9,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO VOLKSWAGEN",
+    "precio_mayoreo": 57,
+    "img_pieza": "assets/catalog_aero/EDS-21.jpg"
+  },
+  {
+    "sku": "EDS-70",
+    "codigo_original": "EDS-70",
+    "page": 10,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA TIBURON CARBONO",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/EDS-70.jpg"
+  },
+  {
+    "sku": "DF-05",
+    "codigo_original": "DF-05",
+    "page": 10,
+    "descripcion_raw": "DIFUSOR PLATA F 125CM",
+    "precio_mayoreo": 227,
+    "img_pieza": "assets/catalog_aero/DF-05.jpg"
+  },
+  {
+    "sku": "LP-211",
+    "codigo_original": "LP-211",
+    "page": 10,
+    "descripcion_raw": "LIP LATERAL TIGUAN 18-24 NEGRO BRILLANTE",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-211.jpg"
+  },
+  {
+    "sku": "DF-17",
+    "codigo_original": "DF-17",
+    "page": 10,
+    "descripcion_raw": "DIFUSOR SENTRA 20-23 A NEGRO BRILLANTE",
+    "precio_mayoreo": 422,
+    "img_pieza": "assets/catalog_aero/DF-17.jpg"
+  },
+  {
+    "sku": "LP-212",
+    "codigo_original": "LP-212",
+    "page": 10,
+    "descripcion_raw": "LIP LATERAL TIGUAN 18-24 CARBONO NEGRO",
+    "precio_mayoreo": 272,
+    "img_pieza": "assets/catalog_aero/LP-212.jpg"
+  },
+  {
+    "sku": "LP-28",
+    "codigo_original": "LP-28",
+    "page": 10,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI NEGRO",
+    "precio_mayoreo": 45,
+    "img_pieza": "assets/catalog_aero/LP-28.jpg"
+  },
+  {
+    "sku": "LP-216",
+    "codigo_original": "LP-216",
+    "page": 11,
+    "descripcion_raw": "LIP 5 PIEZAS C NEGRO+AZUL 20",
+    "precio_mayoreo": 164,
+    "img_pieza": "assets/catalog_aero/LP-216.jpg"
+  },
+  {
+    "sku": "LP-89",
+    "codigo_original": "LP-89",
+    "page": 11,
+    "descripcion_raw": "LIP LATERAL 220CM NEGRO",
+    "precio_mayoreo": 311,
+    "img_pieza": "assets/catalog_aero/LP-89.jpg"
+  },
+  {
+    "sku": "LP-04",
+    "codigo_original": "LP-04",
+    "page": 11,
+    "descripcion_raw": "LIP DEL 3 PIEZAS NEGRO A 25",
+    "precio_mayoreo": 132,
+    "img_pieza": "assets/catalog_aero/LP-04.jpg"
+  },
+  {
+    "sku": "LP-05",
+    "codigo_original": "LP-05",
+    "page": 11,
+    "descripcion_raw": "X LIP DEL 3 PIEZAS NEGRO B 25",
+    "precio_mayoreo": 127,
+    "img_pieza": "assets/catalog_aero/LP-05.jpg"
+  },
+  {
+    "sku": "LP-07",
+    "codigo_original": "LP-07",
+    "page": 12,
+    "descripcion_raw": "LIP TRASERO NEGRO B 30",
+    "precio_mayoreo": 51,
+    "img_pieza": "assets/catalog_aero/LP-07.jpg"
+  },
+  {
+    "sku": "DF-86",
+    "codigo_original": "DF-86",
+    "page": 12,
+    "descripcion_raw": "DIFUSOR SENTRA 20-23 B NEGRO+ROJO",
+    "precio_mayoreo": 399,
+    "img_pieza": "assets/catalog_aero/DF-86.jpg"
+  },
+  {
+    "sku": "LP-02",
+    "codigo_original": "LP-02",
+    "page": 12,
+    "descripcion_raw": "LIP DEL 3 PIEZAS AFILADO NEGRO 35",
+    "precio_mayoreo": 112,
+    "img_pieza": "assets/catalog_aero/LP-02.jpg"
+  },
+  {
+    "sku": "LP-102",
+    "codigo_original": "LP-102",
+    "page": 12,
+    "descripcion_raw": "LIP ESQUINERO GOLF 11-13 GTI NEGRO BRILLANTE",
+    "precio_mayoreo": 268,
+    "img_pieza": "assets/catalog_aero/LP-102.jpg"
+  },
+  {
+    "sku": "LP-76",
+    "codigo_original": "LP-76",
+    "page": 12,
+    "descripcion_raw": "LIP JETTA 15-18 PT ABT BLANCO+ROJO",
+    "precio_mayoreo": 577,
+    "img_pieza": "assets/catalog_aero/LP-76.jpg"
+  },
+  {
+    "sku": "DF-116",
+    "codigo_original": "DF-116",
+    "page": 12,
+    "descripcion_raw": "DIFUSOR DF NEGRO",
+    "precio_mayoreo": 44,
+    "img_pieza": "assets/catalog_aero/DF-116.jpg"
+  },
+  {
+    "sku": "DF-117",
+    "codigo_original": "DF-117",
+    "page": 13,
+    "descripcion_raw": "DIFUSOR DF CARBONO",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/DF-117.jpg"
+  },
+  {
+    "sku": "LP-36",
+    "codigo_original": "LP-36",
+    "page": 13,
+    "descripcion_raw": "LIP TRASERO A CABONO NEGRO",
+    "precio_mayoreo": 63,
+    "img_pieza": "assets/catalog_aero/LP-36.jpg"
+  },
+  {
+    "sku": "LP-23",
+    "codigo_original": "LP-23",
+    "page": 13,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO ROJO+NEGRO",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/LP-23.jpg"
+  },
+  {
+    "sku": "LP-220",
+    "codigo_original": "LP-220",
+    "page": 13,
+    "descripcion_raw": "LIP 5 PIEZAS C CARBONO NEGRO+ROJO 20",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-220.jpg"
+  },
+  {
+    "sku": "LP-258",
+    "codigo_original": "LP-258",
+    "page": 13,
+    "descripcion_raw": "LIP JETTA 19-21 A NEGRO BRI+ROJO",
+    "precio_mayoreo": 378,
+    "img_pieza": "assets/catalog_aero/LP-258.jpg"
+  },
+  {
+    "sku": "LP-318",
+    "codigo_original": "LP-318",
+    "page": 14,
+    "descripcion_raw": "LIP LATERAL CIVIC 22-23 TAI CARBONO",
+    "precio_mayoreo": 689,
+    "img_pieza": "assets/catalog_aero/LP-318.jpg"
+  },
+  {
+    "sku": "LP-104",
+    "codigo_original": "LP-104",
+    "page": 14,
+    "descripcion_raw": "LIP DEL.GOLF 15- 17 GTI NEGRO BRILLANTE",
+    "precio_mayoreo": 358,
+    "img_pieza": "assets/catalog_aero/LP-104.jpg"
+  },
+  {
+    "sku": "LP-160",
+    "codigo_original": "LP-160",
+    "page": 14,
+    "descripcion_raw": "LIP X3 18-21 M40 NEGRO+ROJO",
+    "precio_mayoreo": 466,
+    "img_pieza": "assets/catalog_aero/LP-160.jpg"
+  },
+  {
+    "sku": "LP-144",
+    "codigo_original": "LP-144",
+    "page": 14,
+    "descripcion_raw": "LIP ALTIMA 19-22 A NEGRO BRILLANTE",
+    "precio_mayoreo": 288,
+    "img_pieza": "assets/catalog_aero/LP-144.jpg"
+  },
+  {
+    "sku": "LP-201",
+    "codigo_original": "LP-201",
+    "page": 14,
+    "descripcion_raw": "LIP GOLF 18-20 ABT BLANCO+NEGRO",
+    "precio_mayoreo": 444,
+    "img_pieza": "assets/catalog_aero/LP-201.jpg"
+  },
+  {
+    "sku": "LP-74",
+    "codigo_original": "LP-74",
+    "page": 15,
+    "descripcion_raw": "LIP JETTA 19-21 PT ABT NEGRO BRILLANTE",
+    "precio_mayoreo": 444,
+    "img_pieza": "assets/catalog_aero/LP-74.jpg"
+  },
+  {
+    "sku": "LP-187",
+    "codigo_original": "LP-187",
+    "page": 15,
+    "descripcion_raw": "LIP A3 21-23 35 TFSI NEGRO BRILLANTE",
+    "precio_mayoreo": 377,
+    "img_pieza": "assets/catalog_aero/LP-187.jpg"
+  },
+  {
+    "sku": "LP-81",
+    "codigo_original": "LP-81",
+    "page": 15,
+    "descripcion_raw": "LIP LATERAL 220CM NEGRO+AZUL",
+    "precio_mayoreo": 311,
+    "img_pieza": "assets/catalog_aero/LP-81.jpg"
+  },
+  {
+    "sku": "LP-193",
+    "codigo_original": "LP-193",
+    "page": 15,
+    "descripcion_raw": "LIP A4 13-16 NEGRO BRILLANTE",
+    "precio_mayoreo": 366,
+    "img_pieza": "assets/catalog_aero/LP-193.jpg"
+  },
+  {
+    "sku": "LP-44",
+    "codigo_original": "LP-44",
+    "page": 15,
+    "descripcion_raw": "LIP LATERAL 2 PIEZAS 220CM CABONO ROJO",
+    "precio_mayoreo": 523,
+    "img_pieza": "assets/catalog_aero/LP-44.jpg"
+  },
+  {
+    "sku": "LP-219",
+    "codigo_original": "LP-219",
+    "page": 16,
+    "descripcion_raw": "LIP 5 PIEZAS C NEGRO+BLANCO 20",
+    "precio_mayoreo": 169,
+    "img_pieza": "assets/catalog_aero/LP-219.jpg"
+  },
+  {
+    "sku": "LP-168",
+    "codigo_original": "LP-168",
+    "page": 16,
+    "descripcion_raw": "LIP SERIE 3 13- 18 320/330 M SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 444,
+    "img_pieza": "assets/catalog_aero/LP-168.jpg"
+  },
+  {
+    "sku": "DF-52",
+    "codigo_original": "DF-52",
+    "page": 16,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 GTI C NEGRO BRILLANTE",
+    "precio_mayoreo": 588,
+    "img_pieza": "assets/catalog_aero/DF-52.jpg"
+  },
+  {
+    "sku": "LP-295",
+    "codigo_original": "LP-295",
+    "page": 16,
+    "descripcion_raw": "LIP MUSTANG 18- 22 NEGRO BRILLANTE",
+    "precio_mayoreo": 455,
+    "img_pieza": "assets/catalog_aero/LP-295.jpg"
+  },
+  {
+    "sku": "LP-35",
+    "codigo_original": "LP-35",
+    "page": 16,
+    "descripcion_raw": "LIP DEL 4 PIEZAS CABONO ROJO 25",
+    "precio_mayoreo": 300,
+    "img_pieza": "assets/catalog_aero/LP-35.jpg"
+  },
+  {
+    "sku": "LP-59",
+    "codigo_original": "LP-59",
+    "page": 17,
+    "descripcion_raw": "LIP 4 PIEZAS CARBONO AZUL",
+    "precio_mayoreo": 244,
+    "img_pieza": "assets/catalog_aero/LP-59.jpg"
+  },
+  {
+    "sku": "LP-200",
+    "codigo_original": "LP-200",
+    "page": 17,
+    "descripcion_raw": "LIP POLO 12-14 NEGRO BRILLANTE",
+    "precio_mayoreo": 375,
+    "img_pieza": "assets/catalog_aero/LP-200.jpg"
+  },
+  {
+    "sku": "LP-186",
+    "codigo_original": "LP-186",
+    "page": 17,
+    "descripcion_raw": "LIP A3 21-23 40 TFSI NEGRO BRILLANTE",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-186.jpg"
+  },
+  {
+    "sku": "DF-16",
+    "codigo_original": "DF-16",
+    "page": 17,
+    "descripcion_raw": "DIFUSOR CON LED ESTROBO CABONO NEGRO 30",
+    "precio_mayoreo": 283,
+    "img_pieza": "assets/catalog_aero/DF-16.jpg"
+  },
+  {
+    "sku": "LP-01",
+    "codigo_original": "LP-01",
+    "page": 17,
+    "descripcion_raw": "LIP DEL 3 PIEZAS RONDA NEGRO 35",
+    "precio_mayoreo": 113,
+    "img_pieza": "assets/catalog_aero/LP-01.jpg"
+  },
+  {
+    "sku": "LP-409",
+    "codigo_original": "LP-409",
+    "page": 18,
+    "descripcion_raw": "LIP ESQUINERO BMW 3 09-12 NEGRO BRILLANTE",
+    "precio_mayoreo": 275,
+    "img_pieza": "assets/catalog_aero/LP-409.jpg"
+  },
+  {
+    "sku": "LP-111",
+    "codigo_original": "LP-111",
+    "page": 18,
+    "descripcion_raw": "LIP LATERAL D NEGRO",
+    "precio_mayoreo": 46,
+    "img_pieza": "assets/catalog_aero/LP-111.jpg"
+  },
+  {
+    "sku": "DF-134",
+    "codigo_original": "DF-134",
+    "page": 18,
+    "descripcion_raw": "DIFUSOR BMW 4 14-20 M SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 699,
+    "img_pieza": "assets/catalog_aero/DF-134.jpg"
+  },
+  {
+    "sku": "LP-408",
+    "codigo_original": "LP-408",
+    "page": 18,
+    "descripcion_raw": "LIP ESQUINERO BMW 3 06-08 NEGRO BRILLANTE",
+    "precio_mayoreo": 275,
+    "img_pieza": "assets/catalog_aero/LP-408.jpg"
+  },
+  {
+    "sku": "LP-410",
+    "codigo_original": "LP-410",
+    "page": 18,
+    "descripcion_raw": "LIP ESQUINERO TRA.BMW 3 13-18 NEGRO BRILLANTE",
+    "precio_mayoreo": 242,
+    "img_pieza": "assets/catalog_aero/LP-410.jpg"
+  },
+  {
+    "sku": "LP-11",
+    "codigo_original": "LP-11",
+    "page": 18,
+    "descripcion_raw": "LIP LATERAL 3 PIEZAS 200CM NEGRO 12",
+    "precio_mayoreo": 219,
+    "img_pieza": "assets/catalog_aero/LP-11.jpg"
+  },
+  {
+    "sku": "LP-12",
+    "codigo_original": "LP-12",
+    "page": 19,
+    "descripcion_raw": "LIP LATERAL 3 PIEZAS 220CM NEGRO 12",
+    "precio_mayoreo": 219,
+    "img_pieza": "assets/catalog_aero/LP-12.jpg"
+  },
+  {
+    "sku": "LP-08",
+    "codigo_original": "LP-08",
+    "page": 19,
+    "descripcion_raw": "LIP TRASERO NEGRO C 30",
+    "precio_mayoreo": 70,
+    "img_pieza": "assets/catalog_aero/LP-08.jpg"
+  },
+  {
+    "sku": "LP-78",
+    "codigo_original": "LP-78",
+    "page": 19,
+    "descripcion_raw": "LIP GOLF 15-20 CARBONO",
+    "precio_mayoreo": 379,
+    "img_pieza": "assets/catalog_aero/LP-78.jpg"
+  },
+  {
+    "sku": "LP-68",
+    "codigo_original": "LP-68",
+    "page": 19,
+    "descripcion_raw": "LIP JETTA 19-21 B NEGRO BRILLANTE 10",
+    "precio_mayoreo": 301,
+    "img_pieza": "assets/catalog_aero/LP-68.jpg"
+  },
+  {
+    "sku": "LP-305",
+    "codigo_original": "LP-305",
+    "page": 19,
+    "descripcion_raw": "LIP DEL 3 PIEZAS A NEGRO+VERDE",
+    "precio_mayoreo": 216,
+    "img_pieza": "assets/catalog_aero/LP-305.jpg"
+  },
+  {
+    "sku": "LP-304",
+    "codigo_original": "LP-304",
+    "page": 20,
+    "descripcion_raw": "LIP DEL 3 PIEZAS A NEGRO+AZUL",
+    "precio_mayoreo": 216,
+    "img_pieza": "assets/catalog_aero/LP-304.jpg"
+  },
+  {
+    "sku": "LP-303",
+    "codigo_original": "LP-303",
+    "page": 20,
+    "descripcion_raw": "LIP DEL 3 PIEZAS A NEGRO+ROJO",
+    "precio_mayoreo": 216,
+    "img_pieza": "assets/catalog_aero/LP-303.jpg"
+  },
+  {
+    "sku": "LP-300",
+    "codigo_original": "LP-300",
+    "page": 20,
+    "descripcion_raw": "LIP DEL 3 PIEZAS AFILADO NEGRO+ROJO",
+    "precio_mayoreo": 195,
+    "img_pieza": "assets/catalog_aero/LP-300.jpg"
+  },
+  {
+    "sku": "LP-301",
+    "codigo_original": "LP-301",
+    "page": 20,
+    "descripcion_raw": "LIP DEL 3 PIEZAS AFILADO NEGRO+AZUL",
+    "precio_mayoreo": 195,
+    "img_pieza": "assets/catalog_aero/LP-301.jpg"
+  },
+  {
+    "sku": "LP-302",
+    "codigo_original": "LP-302",
+    "page": 20,
+    "descripcion_raw": "LIP DEL 3 PIEZAS AFILADO NEGRO+VERDE",
+    "precio_mayoreo": 195,
+    "img_pieza": "assets/catalog_aero/LP-302.jpg"
+  },
+  {
+    "sku": "LP-13",
+    "codigo_original": "LP-13",
+    "page": 21,
+    "descripcion_raw": "LIP LATERAL 2 PIEZAS 192CM NEGRO+ROJO 15",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-13.jpg"
+  },
+  {
+    "sku": "LP-298",
+    "codigo_original": "LP-298",
+    "page": 21,
+    "descripcion_raw": "LIP DEL 3 PIEZAS RONDA NEGRO+AZUL",
+    "precio_mayoreo": 197,
+    "img_pieza": "assets/catalog_aero/LP-298.jpg"
+  },
+  {
+    "sku": "LP-299",
+    "codigo_original": "LP-299",
+    "page": 21,
+    "descripcion_raw": "LIP DEL 3 PIEZAS RONDA NEGRO+VERDE",
+    "precio_mayoreo": 197,
+    "img_pieza": "assets/catalog_aero/LP-299.jpg"
+  },
+  {
+    "sku": "LP-157",
+    "codigo_original": "LP-157",
+    "page": 21,
+    "descripcion_raw": "LIP TIGUAN 18-21 NEGRO BRILLANTE",
+    "precio_mayoreo": 305,
+    "img_pieza": "assets/catalog_aero/LP-157.jpg"
+  },
+  {
+    "sku": "LP-370",
+    "codigo_original": "LP-370",
+    "page": 21,
+    "descripcion_raw": "LIP ONIX 21-23 CARBONO",
+    "precio_mayoreo": 433,
+    "img_pieza": "assets/catalog_aero/LP-370.jpg"
+  },
+  {
+    "sku": "LP-400",
+    "codigo_original": "LP-400",
+    "page": 22,
+    "descripcion_raw": "LIP TIGUAN 22-23 CARBONO",
+    "precio_mayoreo": 577,
+    "img_pieza": "assets/catalog_aero/LP-400.jpg"
+  },
+  {
+    "sku": "SP-39",
+    "codigo_original": "SP-39",
+    "page": 22,
+    "descripcion_raw": "SPOILER SENTRA 20-23 LUZ CORRIENTE NEGRO BRILLANTE",
+    "precio_mayoreo": 855,
+    "img_pieza": "assets/catalog_aero/SP-39.jpg"
+  },
+  {
+    "sku": "DF-38",
+    "codigo_original": "DF-38",
+    "page": 22,
+    "descripcion_raw": "DIFUSOR E AZUL",
+    "precio_mayoreo": 223,
+    "img_pieza": "assets/catalog_aero/DF-38.jpg"
+  },
+  {
+    "sku": "DF-40",
+    "codigo_original": "DF-40",
+    "page": 22,
+    "descripcion_raw": "DIFUSOR E AMARILLO",
+    "precio_mayoreo": 223,
+    "img_pieza": "assets/catalog_aero/DF-40.jpg"
+  },
+  {
+    "sku": "LP-85",
+    "codigo_original": "LP-85",
+    "page": 22,
+    "descripcion_raw": "LIP LATERAL 220CM NEGRO+BLANCO",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-85.jpg"
+  },
+  {
+    "sku": "LP-84",
+    "codigo_original": "LP-84",
+    "page": 23,
+    "descripcion_raw": "LIP LATERAL 192CM NEGRO+BLANCO",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-84.jpg"
+  },
+  {
+    "sku": "LP-39",
+    "codigo_original": "LP-39",
+    "page": 23,
+    "descripcion_raw": "LIP LATERAL 75CM CABONO NEGRO 50",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/LP-39.jpg"
+  },
+  {
+    "sku": "LP-40",
+    "codigo_original": "LP-40",
+    "page": 23,
+    "descripcion_raw": "LIP LATERAL 120CM CABONO NEGRO 35",
+    "precio_mayoreo": 266,
+    "img_pieza": "assets/catalog_aero/LP-40.jpg"
+  },
+  {
+    "sku": "DF-82",
+    "codigo_original": "DF-82",
+    "page": 23,
+    "descripcion_raw": "DIFUSOR ELANTRA 22-23 CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 856,
+    "img_pieza": "assets/catalog_aero/DF-82.jpg"
+  },
+  {
+    "sku": "DF-95",
+    "codigo_original": "DF-95",
+    "page": 23,
+    "descripcion_raw": "DIFUSOR POLO 15- 19 PT CARBONO NEGRO",
+    "precio_mayoreo": 388,
+    "img_pieza": "assets/catalog_aero/DF-95.jpg"
+  },
+  {
+    "sku": "LP-308",
+    "codigo_original": "LP-308",
+    "page": 24,
+    "descripcion_raw": "LIP DEL 3 PIEZAS B NEGRO+VERDE",
+    "precio_mayoreo": 133,
+    "img_pieza": "assets/catalog_aero/LP-308.jpg"
+  },
+  {
+    "sku": "LP-307",
+    "codigo_original": "LP-307",
+    "page": 24,
+    "descripcion_raw": "LIP DEL 3 PIEZAS B NEGRO+AZUL",
+    "precio_mayoreo": 123,
+    "img_pieza": "assets/catalog_aero/LP-307.jpg"
+  },
+  {
+    "sku": "LP-196",
+    "codigo_original": "LP-196",
+    "page": 24,
+    "descripcion_raw": "LIP CAVALIER 18- 21 NEGRO BRILLANTE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-196.jpg"
+  },
+  {
+    "sku": "DF-96",
+    "codigo_original": "DF-96",
+    "page": 24,
+    "descripcion_raw": "DIFUSOR JETTA 19-21 CARBONO NEGRO",
+    "precio_mayoreo": 833,
+    "img_pieza": "assets/catalog_aero/DF-96.jpg"
+  },
+  {
+    "sku": "DF-76",
+    "codigo_original": "DF-76",
+    "page": 24,
+    "descripcion_raw": "DIFUSOR SERIE 1 19 5P 118/120IA SPORT LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 568,
+    "img_pieza": "assets/catalog_aero/DF-76.jpg"
+  },
+  {
+    "sku": "DF-22",
+    "codigo_original": "DF-22",
+    "page": 24,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 TCR NEGRO BRILLANTE",
+    "precio_mayoreo": 688,
+    "img_pieza": "assets/catalog_aero/DF-22.jpg"
+  },
+  {
+    "sku": "LP-48",
+    "codigo_original": "LP-48",
+    "page": 25,
+    "descripcion_raw": "LIP CIVIC 16-21 A NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-48.jpg"
+  },
+  {
+    "sku": "DF-37",
+    "codigo_original": "DF-37",
+    "page": 25,
+    "descripcion_raw": "DIFUSOR E ROJO",
+    "precio_mayoreo": 223,
+    "img_pieza": "assets/catalog_aero/DF-37.jpg"
+  },
+  {
+    "sku": "DF-64",
+    "codigo_original": "DF-64",
+    "page": 25,
+    "descripcion_raw": "DIFUSOR COROLLA 20-23 LE/XLE A PLATA",
+    "precio_mayoreo": 499,
+    "img_pieza": "assets/catalog_aero/DF-64.jpg"
+  },
+  {
+    "sku": "LP-173",
+    "codigo_original": "LP-173",
+    "page": 25,
+    "descripcion_raw": "LIP CLASE C 15- 18 250 SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-173.jpg"
+  },
+  {
+    "sku": "LP-316",
+    "codigo_original": "LP-316",
+    "page": 25,
+    "descripcion_raw": "LIP ESQUINERO DEL.CIVIC 22-23 TAI CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-316.jpg"
+  },
+  {
+    "sku": "LP-167",
+    "codigo_original": "LP-167",
+    "page": 25,
+    "descripcion_raw": "LIP SERIE 3 13- 18 320 SPORT LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-167.jpg"
+  },
+  {
+    "sku": "DF-118",
+    "codigo_original": "DF-118",
+    "page": 26,
+    "descripcion_raw": "DIFUSOR CARBONO E",
+    "precio_mayoreo": 449,
+    "img_pieza": "assets/catalog_aero/DF-118.jpg"
+  },
+  {
+    "sku": "DF-60",
+    "codigo_original": "DF-60",
+    "page": 26,
+    "descripcion_raw": "DIFUSOR CIVIC 16-21 C",
+    "precio_mayoreo": 433,
+    "img_pieza": "assets/catalog_aero/DF-60.jpg"
+  },
+  {
+    "sku": "LP-80",
+    "codigo_original": "LP-80",
+    "page": 26,
+    "descripcion_raw": "LIP LATERAL 192CM NEGRO+AZUL",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-80.jpg"
+  },
+  {
+    "sku": "LP-100",
+    "codigo_original": "LP-100",
+    "page": 26,
+    "descripcion_raw": "LIP 4 PIEZAS VERDE",
+    "precio_mayoreo": 133,
+    "img_pieza": "assets/catalog_aero/LP-100.jpg"
+  },
+  {
+    "sku": "LP-179",
+    "codigo_original": "LP-179",
+    "page": 26,
+    "descripcion_raw": "LIP LATERAL ACCORD 18-22 NEGRO BRILLANTE",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-179.jpg"
+  },
+  {
+    "sku": "LP-205",
+    "codigo_original": "LP-205",
+    "page": 27,
+    "descripcion_raw": "LIP LATERAL POLO 15-19 PT CARBONO NEGRO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-205.jpg"
+  },
+  {
+    "sku": "LP-217",
+    "codigo_original": "LP-217",
+    "page": 27,
+    "descripcion_raw": "LIP 5 PIEZAS C NEGRO+AMARILLO 20",
+    "precio_mayoreo": 171,
+    "img_pieza": "assets/catalog_aero/LP-217.jpg"
+  },
+  {
+    "sku": "LP-38",
+    "codigo_original": "LP-38",
+    "page": 27,
+    "descripcion_raw": "LIP TRASERO C CABONO NEGRO 30",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-38.jpg"
+  },
+  {
+    "sku": "LP-218",
+    "codigo_original": "LP-218",
+    "page": 27,
+    "descripcion_raw": "LIP 5 PIEZAS C NEGRO+VERDE",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-218.jpg"
+  },
+  {
+    "sku": "DF-13",
+    "codigo_original": "DF-13",
+    "page": 27,
+    "descripcion_raw": "DIFUSOR 67CM B CABONO NEGRO",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/DF-13.jpg"
+  },
+  {
+    "sku": "LP-310",
+    "codigo_original": "LP-310",
+    "page": 28,
+    "descripcion_raw": "LIP JETTA 11-14 CARBON",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-310.jpg"
+  },
+  {
+    "sku": "LP-204",
+    "codigo_original": "LP-204",
+    "page": 28,
+    "descripcion_raw": "LIP LATERAL GOLF 15-20 GTI CARBONO NEGRO",
+    "precio_mayoreo": 355,
+    "img_pieza": "assets/catalog_aero/LP-204.jpg"
+  },
+  {
+    "sku": "LP-402",
+    "codigo_original": "LP-402",
+    "page": 28,
+    "descripcion_raw": "LIP GOLF 11-13 GTI CARBONO",
+    "precio_mayoreo": 211,
+    "img_pieza": "assets/catalog_aero/LP-402.jpg"
+  },
+  {
+    "sku": "LP-401",
+    "codigo_original": "LP-401",
+    "page": 28,
+    "descripcion_raw": "LIP BORA 06-10 GLI/GOLF 08-10 GTI CARBONO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-401.jpg"
+  },
+  {
+    "sku": "LP-259",
+    "codigo_original": "LP-259",
+    "page": 28,
+    "descripcion_raw": "LIP JETTA 19-21 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-259.jpg"
+  },
+  {
+    "sku": "LP-242",
+    "codigo_original": "LP-242",
+    "page": 28,
+    "descripcion_raw": "LIP SENTRA 17-19 A NEGRO BRI+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-242.jpg"
+  },
+  {
+    "sku": "LP-392",
+    "codigo_original": "LP-392",
+    "page": 29,
+    "descripcion_raw": "LIP GT 22-23 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-392.jpg"
+  },
+  {
+    "sku": "LP-393",
+    "codigo_original": "LP-393",
+    "page": 29,
+    "descripcion_raw": "LIP GT 22-23 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-393.jpg"
+  },
+  {
+    "sku": "LP-394",
+    "codigo_original": "LP-394",
+    "page": 29,
+    "descripcion_raw": "LIP GT 22-23 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-394.jpg"
+  },
+  {
+    "sku": "LP-396",
+    "codigo_original": "LP-396",
+    "page": 29,
+    "descripcion_raw": "LIP TIGUAN 22-23 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-396.jpg"
+  },
+  {
+    "sku": "DF-119",
+    "codigo_original": "DF-119",
+    "page": 29,
+    "descripcion_raw": "DIFUSOR CIVIC 22-23 A CON LED CARBONO",
+    "precio_mayoreo": 1199,
+    "img_pieza": "assets/catalog_aero/DF-119.jpg"
+  },
+  {
+    "sku": "DF-58",
+    "codigo_original": "DF-58",
+    "page": 29,
+    "descripcion_raw": "DIFUSOR CIVIC 16-21 A CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 522,
+    "img_pieza": "assets/catalog_aero/DF-58.jpg"
+  },
+  {
+    "sku": "LP-385",
+    "codigo_original": "LP-385",
+    "page": 30,
+    "descripcion_raw": "LIP TIGUAN 18-21 CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-385.jpg"
+  },
+  {
+    "sku": "LP-381",
+    "codigo_original": "LP-381",
+    "page": 30,
+    "descripcion_raw": "LIP TIGUAN 18-21 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-381.jpg"
+  },
+  {
+    "sku": "LP-391",
+    "codigo_original": "LP-391",
+    "page": 30,
+    "descripcion_raw": "LIP GT 22-23 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-391.jpg"
+  },
+  {
+    "sku": "LP-228",
+    "codigo_original": "LP-228",
+    "page": 30,
+    "descripcion_raw": "LIP LATERAL POLO 13-19 CARBONO NEGRO",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-228.jpg"
+  },
+  {
+    "sku": "LP-229",
+    "codigo_original": "LP-229",
+    "page": 30,
+    "descripcion_raw": "LIP LATERAL LEON 14-20 CARBONO NEGRO",
+    "precio_mayoreo": 122,
+    "img_pieza": "assets/catalog_aero/LP-229.jpg"
+  },
+  {
+    "sku": "LP-230",
+    "codigo_original": "LP-230",
+    "page": 30,
+    "descripcion_raw": "LIP LATERAL GOLF 11-13 PT CARBONO NEGRO",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-230.jpg"
+  },
+  {
+    "sku": "LP-232",
+    "codigo_original": "LP-232",
+    "page": 31,
+    "descripcion_raw": "LIP LEON 14-20 CARBONO NEGRO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-232.jpg"
+  },
+  {
+    "sku": "DF-31",
+    "codigo_original": "DF-31",
+    "page": 31,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 GTI B NEGRO BRILLANTE",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/DF-31.jpg"
+  },
+  {
+    "sku": "DF-112",
+    "codigo_original": "DF-112",
+    "page": 31,
+    "descripcion_raw": "DIFUSOR IBIZA 13-17 CARBONO",
+    "precio_mayoreo": 844,
+    "img_pieza": "assets/catalog_aero/DF-112.jpg"
+  },
+  {
+    "sku": "LP-185",
+    "codigo_original": "LP-185",
+    "page": 31,
+    "descripcion_raw": "LIP Q50 18-21 SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-185.jpg"
+  },
+  {
+    "sku": "LP-221",
+    "codigo_original": "LP-221",
+    "page": 31,
+    "descripcion_raw": "LIP 5 PIEZAS C CARBONO NEGRO+AMARILLO",
+    "precio_mayoreo": 166,
+    "img_pieza": "assets/catalog_aero/LP-221.jpg"
+  },
+  {
+    "sku": "LP-222",
+    "codigo_original": "LP-222",
+    "page": 32,
+    "descripcion_raw": "LIP 5 PIEZAS C CARBONO NEGRO+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-222.jpg"
+  },
+  {
+    "sku": "LP-223",
+    "codigo_original": "LP-223",
+    "page": 32,
+    "descripcion_raw": "LIP 5 PIEZAS C CARBONO NEGRO+BLANCO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-223.jpg"
+  },
+  {
+    "sku": "LP-224",
+    "codigo_original": "LP-224",
+    "page": 32,
+    "descripcion_raw": "LIP 5 PIEZAS C CARBONO NEGRO+VERDE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-224.jpg"
+  },
+  {
+    "sku": "EDS-02",
+    "codigo_original": "EDS-02",
+    "page": 32,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO M POWER",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-02.jpg"
+  },
+  {
+    "sku": "EDS-03",
+    "codigo_original": "EDS-03",
+    "page": 33,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO AMG",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-03.jpg"
+  },
+  {
+    "sku": "EDS-04",
+    "codigo_original": "EDS-04",
+    "page": 33,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO HONDA",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-04.jpg"
+  },
+  {
+    "sku": "EDS-05",
+    "codigo_original": "EDS-05",
+    "page": 33,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO TRD",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-05.jpg"
+  },
+  {
+    "sku": "EDS-07",
+    "codigo_original": "EDS-07",
+    "page": 33,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MOMO",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-07.jpg"
+  },
+  {
+    "sku": "EDS-10",
+    "codigo_original": "EDS-10",
+    "page": 34,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO SPORTS",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-10.jpg"
+  },
+  {
+    "sku": "EDS-11",
+    "codigo_original": "EDS-11",
+    "page": 34,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO M POWER",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-11.jpg"
+  },
+  {
+    "sku": "EDS-12",
+    "codigo_original": "EDS-12",
+    "page": 34,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO AMG",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-12.jpg"
+  },
+  {
+    "sku": "EDS-13",
+    "codigo_original": "EDS-13",
+    "page": 34,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO HONDA",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-13.jpg"
+  },
+  {
+    "sku": "EDS-14",
+    "codigo_original": "EDS-14",
+    "page": 35,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO TRD",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-14.jpg"
+  },
+  {
+    "sku": "EDS-16",
+    "codigo_original": "EDS-16",
+    "page": 35,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO MOMO",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-16.jpg"
+  },
+  {
+    "sku": "EDS-17",
+    "codigo_original": "EDS-17",
+    "page": 35,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO GTI",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-17.jpg"
+  },
+  {
+    "sku": "EDS-08",
+    "codigo_original": "EDS-08",
+    "page": 35,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO GTI",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-08.jpg"
+  },
+  {
+    "sku": "EDS-09",
+    "codigo_original": "EDS-09",
+    "page": 36,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO RALLIART",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-09.jpg"
+  },
+  {
+    "sku": "EDS-06",
+    "codigo_original": "EDS-06",
+    "page": 36,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MUGEN",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-06.jpg"
+  },
+  {
+    "sku": "EDS-08-V2",
+    "codigo_original": "EDS-08",
+    "page": 36,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO GTI",
+    "precio_mayoreo": 58,
+    "img_pieza": "assets/catalog_aero/EDS-08-V2.jpg"
+  },
+  {
+    "sku": "EDS-15",
+    "codigo_original": "EDS-15",
+    "page": 36,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO MUGEN",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-15.jpg"
+  },
+  {
+    "sku": "EDS-18",
+    "codigo_original": "EDS-18",
+    "page": 37,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO RALLIART",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-18.jpg"
+  },
+  {
+    "sku": "EDS-17-V2",
+    "codigo_original": "EDS-17",
+    "page": 37,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NEGRO GTI",
+    "precio_mayoreo": 94,
+    "img_pieza": "assets/catalog_aero/EDS-17-V2.jpg"
+  },
+  {
+    "sku": "LP-112",
+    "codigo_original": "LP-112",
+    "page": 37,
+    "descripcion_raw": "LIP LATERAL D CARBONO",
+    "precio_mayoreo": 90,
+    "img_pieza": "assets/catalog_aero/LP-112.jpg"
+  },
+  {
+    "sku": "LP-169",
+    "codigo_original": "LP-169",
+    "page": 37,
+    "descripcion_raw": "LIP 530 18-20 SPORT LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 211,
+    "img_pieza": "assets/catalog_aero/LP-169.jpg"
+  },
+  {
+    "sku": "LP-174",
+    "codigo_original": "LP-174",
+    "page": 37,
+    "descripcion_raw": "LIP CAMRY 21-23 SE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-174.jpg"
+  },
+  {
+    "sku": "DF-89",
+    "codigo_original": "DF-89",
+    "page": 37,
+    "descripcion_raw": "DIFUSOR CRUZE 09-14 PLATA",
+    "precio_mayoreo": 269,
+    "img_pieza": "assets/catalog_aero/DF-89.jpg"
+  },
+  {
+    "sku": "LP-198",
+    "codigo_original": "LP-198",
+    "page": 38,
+    "descripcion_raw": "LIP FOCUS 15-18 SEDAN NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-198.jpg"
+  },
+  {
+    "sku": "LP-162",
+    "codigo_original": "LP-162",
+    "page": 38,
+    "descripcion_raw": "LIP SERIE 1 19 5p 118/120IA SPORT LINE NEGRO BRILLNATE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-162.jpg"
+  },
+  {
+    "sku": "DF-97",
+    "codigo_original": "DF-97",
+    "page": 38,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 CARBONO NEGRO",
+    "precio_mayoreo": 744,
+    "img_pieza": "assets/catalog_aero/DF-97.jpg"
+  },
+  {
+    "sku": "DF-93",
+    "codigo_original": "DF-93",
+    "page": 38,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 PT A CARBONO NEGRO",
+    "precio_mayoreo": 666,
+    "img_pieza": "assets/catalog_aero/DF-93.jpg"
+  },
+  {
+    "sku": "LP-181",
+    "codigo_original": "LP-181",
+    "page": 38,
+    "descripcion_raw": "LIP ELANTRA 17- 18 NEGRO BRILLANTE",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-181.jpg"
+  },
+  {
+    "sku": "LP-195",
+    "codigo_original": "LP-195",
+    "page": 38,
+    "descripcion_raw": "LIP A5 18-19 S LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-195.jpg"
+  },
+  {
+    "sku": "LP-41",
+    "codigo_original": "LP-41",
+    "page": 39,
+    "descripcion_raw": "LIP LATERAL 3 PIEZAS 200CM CABONO NEGRO",
+    "precio_mayoreo": 255,
+    "img_pieza": "assets/catalog_aero/LP-41.jpg"
+  },
+  {
+    "sku": "LP-42",
+    "codigo_original": "LP-42",
+    "page": 39,
+    "descripcion_raw": "LIP LATERAL 3 PIEZAS 220CM CABONO NEGRO",
+    "precio_mayoreo": 255,
+    "img_pieza": "assets/catalog_aero/LP-42.jpg"
+  },
+  {
+    "sku": "DF-67",
+    "codigo_original": "DF-67",
+    "page": 39,
+    "descripcion_raw": "DIFUSOR H AMARILLO",
+    "precio_mayoreo": 240,
+    "img_pieza": "assets/catalog_aero/DF-67.jpg"
+  },
+  {
+    "sku": "DF-72",
+    "codigo_original": "DF-72",
+    "page": 39,
+    "descripcion_raw": "DIFUSOR G AMARILLO",
+    "precio_mayoreo": 237,
+    "img_pieza": "assets/catalog_aero/DF-72.jpg"
+  },
+  {
+    "sku": "DF-12",
+    "codigo_original": "DF-12",
+    "page": 39,
+    "descripcion_raw": "DIFUSOR 85.5CM A CABONO NEGRO",
+    "precio_mayoreo": 175,
+    "img_pieza": "assets/catalog_aero/DF-12.jpg"
+  },
+  {
+    "sku": "LP-22",
+    "codigo_original": "LP-22",
+    "page": 40,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO BLANCO",
+    "precio_mayoreo": 33,
+    "img_pieza": "assets/catalog_aero/LP-22.jpg"
+  },
+  {
+    "sku": "LP-24",
+    "codigo_original": "LP-24",
+    "page": 40,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO NEGRO+AZUL",
+    "precio_mayoreo": 33,
+    "img_pieza": "assets/catalog_aero/LP-24.jpg"
+  },
+  {
+    "sku": "LP-25",
+    "codigo_original": "LP-25",
+    "page": 40,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO NEGRO+AMARILLO",
+    "precio_mayoreo": 33,
+    "img_pieza": "assets/catalog_aero/LP-25.jpg"
+  },
+  {
+    "sku": "LP-26",
+    "codigo_original": "LP-26",
+    "page": 40,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO NEGRO+BLANCO",
+    "precio_mayoreo": 33,
+    "img_pieza": "assets/catalog_aero/LP-26.jpg"
+  },
+  {
+    "sku": "LP-27",
+    "codigo_original": "LP-27",
+    "page": 41,
+    "descripcion_raw": "LIP UNIVERSAL SAMURA AZUL",
+    "precio_mayoreo": 32,
+    "img_pieza": "assets/catalog_aero/LP-27.jpg"
+  },
+  {
+    "sku": "LP-79",
+    "codigo_original": "LP-79",
+    "page": 41,
+    "descripcion_raw": "LIP UNIVERSAL SAMURA BLANCO",
+    "precio_mayoreo": 35,
+    "img_pieza": "assets/catalog_aero/LP-79.jpg"
+  },
+  {
+    "sku": "DF-15",
+    "codigo_original": "DF-15",
+    "page": 41,
+    "descripcion_raw": "DIFUSOR GRANDE D CABONO NEGRO",
+    "precio_mayoreo": 170,
+    "img_pieza": "assets/catalog_aero/DF-15.jpg"
+  },
+  {
+    "sku": "LP-29",
+    "codigo_original": "LP-29",
+    "page": 41,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI ROJO",
+    "precio_mayoreo": 33,
+    "img_pieza": "assets/catalog_aero/LP-29.jpg"
+  },
+  {
+    "sku": "LP-49",
+    "codigo_original": "LP-49",
+    "page": 41,
+    "descripcion_raw": "LIP ACCORD 18-20 A NEGRO BRILLANTE",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-49.jpg"
+  },
+  {
+    "sku": "LP-51",
+    "codigo_original": "LP-51",
+    "page": 42,
+    "descripcion_raw": "LIP FIT 15-17 A NEGRO BRILLANTE",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-51.jpg"
+  },
+  {
+    "sku": "LP-52",
+    "codigo_original": "LP-52",
+    "page": 42,
+    "descripcion_raw": "LIP FIT 18-20 A NEGRO BRILLANTE",
+    "precio_mayoreo": 189,
+    "img_pieza": "assets/catalog_aero/LP-52.jpg"
+  },
+  {
+    "sku": "LP-53",
+    "codigo_original": "LP-53",
+    "page": 42,
+    "descripcion_raw": "LIP CRV 17-19 A NEGRO BRILLANTE",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-53.jpg"
+  },
+  {
+    "sku": "LP-54",
+    "codigo_original": "LP-54",
+    "page": 42,
+    "descripcion_raw": "LIP CRV 20-22 A NEGRO BRILLANTE",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-54.jpg"
+  },
+  {
+    "sku": "LP-55",
+    "codigo_original": "LP-55",
+    "page": 42,
+    "descripcion_raw": "LIP RAV4 19-23 A NEGRO BRILLANTE",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-55.jpg"
+  },
+  {
+    "sku": "LP-56",
+    "codigo_original": "LP-56",
+    "page": 42,
+    "descripcion_raw": "LIP XTRAIL 18-22 A NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-56.jpg"
+  },
+  {
+    "sku": "LP-33",
+    "codigo_original": "LP-33",
+    "page": 43,
+    "descripcion_raw": "LIP DEL 3 PIEZAS A CABONO NEGRO",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-33.jpg"
+  },
+  {
+    "sku": "LP-32",
+    "codigo_original": "LP-32",
+    "page": 43,
+    "descripcion_raw": "LIP DEL 3 PIEZAS AFILADO CABONO NEGRO 35",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-32.jpg"
+  },
+  {
+    "sku": "DF-77",
+    "codigo_original": "DF-77",
+    "page": 43,
+    "descripcion_raw": "DIFUSOR SERIE 3 19-22 330IA M SPORT CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 844,
+    "img_pieza": "assets/catalog_aero/DF-77.jpg"
+  },
+  {
+    "sku": "DF-78",
+    "codigo_original": "DF-78",
+    "page": 43,
+    "descripcion_raw": "DIFUSOR CAMRY 18-23 SE CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 689,
+    "img_pieza": "assets/catalog_aero/DF-78.jpg"
+  },
+  {
+    "sku": "DF-94",
+    "codigo_original": "DF-94",
+    "page": 43,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 GTI B CARBONO NEGRO",
+    "precio_mayoreo": 655,
+    "img_pieza": "assets/catalog_aero/DF-94.jpg"
+  },
+  {
+    "sku": "DF-84",
+    "codigo_original": "DF-84",
+    "page": 43,
+    "descripcion_raw": "DIFUSOR Q50 18- 21 SPORT CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 603,
+    "img_pieza": "assets/catalog_aero/DF-84.jpg"
+  },
+  {
+    "sku": "LP-94",
+    "codigo_original": "LP-94",
+    "page": 44,
+    "descripcion_raw": "LIP LATERAL 192CM CARBONO NEGRO+BLANCO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-94.jpg"
+  },
+  {
+    "sku": "LP-86",
+    "codigo_original": "LP-86",
+    "page": 44,
+    "descripcion_raw": "LIP LATERAL 192CM NEGRO+VERDE",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-86.jpg"
+  },
+  {
+    "sku": "LP-87",
+    "codigo_original": "LP-87",
+    "page": 44,
+    "descripcion_raw": "LIP LATERAL 220CM NEGRO+VERDE",
+    "precio_mayoreo": 145,
+    "img_pieza": "assets/catalog_aero/LP-87.jpg"
+  },
+  {
+    "sku": "LP-92",
+    "codigo_original": "LP-92",
+    "page": 44,
+    "descripcion_raw": "LIP LATERAL 192CM CARBONO NEGRO+AMARILLO",
+    "precio_mayoreo": 322,
+    "img_pieza": "assets/catalog_aero/LP-92.jpg"
+  },
+  {
+    "sku": "LP-93",
+    "codigo_original": "LP-93",
+    "page": 44,
+    "descripcion_raw": "LIP LATERAL 220CM CARBONO NEGRO+AMARILLO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-93.jpg"
+  },
+  {
+    "sku": "LP-95",
+    "codigo_original": "LP-95",
+    "page": 45,
+    "descripcion_raw": "LIP LATERAL 220CM CARBONO NEGRO+BLANCO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-95.jpg"
+  },
+  {
+    "sku": "LP-98",
+    "codigo_original": "LP-98",
+    "page": 45,
+    "descripcion_raw": "LIP LATERAL 192CM CARBONO NEGRO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-98.jpg"
+  },
+  {
+    "sku": "LP-99",
+    "codigo_original": "LP-99",
+    "page": 45,
+    "descripcion_raw": "LIP LATERAL 220CM CARBONO NEGRO",
+    "precio_mayoreo": 322,
+    "img_pieza": "assets/catalog_aero/LP-99.jpg"
+  },
+  {
+    "sku": "LP-90",
+    "codigo_original": "LP-90",
+    "page": 45,
+    "descripcion_raw": "LIP LATERAL 192CM CARBONO NEGRO+AZUL",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-90.jpg"
+  },
+  {
+    "sku": "LP-291",
+    "codigo_original": "LP-291",
+    "page": 45,
+    "descripcion_raw": "LIP ESQUINERO DEL.MUSTANG 15- 17",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-291.jpg"
+  },
+  {
+    "sku": "LP-91",
+    "codigo_original": "LP-91",
+    "page": 46,
+    "descripcion_raw": "LIP LATERAL 220CM CARBONO NEGRO+AZUL",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-91.jpg"
+  },
+  {
+    "sku": "LP-164",
+    "codigo_original": "LP-164",
+    "page": 46,
+    "descripcion_raw": "LIP SERIE 3 19- 22 320/330IA SPORT LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-164.jpg"
+  },
+  {
+    "sku": "DF-88",
+    "codigo_original": "DF-88",
+    "page": 46,
+    "descripcion_raw": "DIFUSOR CRUZE 17-18 PLATA",
+    "precio_mayoreo": 367,
+    "img_pieza": "assets/catalog_aero/DF-88.jpg"
+  },
+  {
+    "sku": "DF-81",
+    "codigo_original": "DF-81",
+    "page": 46,
+    "descripcion_raw": "DIFUSOR ACCORD 18-22 B CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 635,
+    "img_pieza": "assets/catalog_aero/DF-81.jpg"
+  },
+  {
+    "sku": "LP-96",
+    "codigo_original": "LP-96",
+    "page": 46,
+    "descripcion_raw": "LIP LATERAL 192CM CARBONO NEGRO+VERDE",
+    "precio_mayoreo": 311,
+    "img_pieza": "assets/catalog_aero/LP-96.jpg"
+  },
+  {
+    "sku": "LP-97",
+    "codigo_original": "LP-97",
+    "page": 46,
+    "descripcion_raw": "LIP LATERAL 220CM CARBONO NEGRO+VERDE",
+    "precio_mayoreo": 311,
+    "img_pieza": "assets/catalog_aero/LP-97.jpg"
+  },
+  {
+    "sku": "LP-315",
+    "codigo_original": "LP-315",
+    "page": 47,
+    "descripcion_raw": "LIP CIVIC 22-23 A CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-315.jpg"
+  },
+  {
+    "sku": "LP-317",
+    "codigo_original": "LP-317",
+    "page": 47,
+    "descripcion_raw": "LIP ESQUINERO TRA.CIVIC 22-23 TAI CARBONO",
+    "precio_mayoreo": 133,
+    "img_pieza": "assets/catalog_aero/LP-317.jpg"
+  },
+  {
+    "sku": "DF-120",
+    "codigo_original": "DF-120",
+    "page": 47,
+    "descripcion_raw": "DIFUSOR CIVIC 22-23 TAI CARBONO",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/DF-120.jpg"
+  },
+  {
+    "sku": "LP-319",
+    "codigo_original": "LP-319",
+    "page": 47,
+    "descripcion_raw": "LIP ESQUINERO TRA.CIVIC 16-21 CARBONO",
+    "precio_mayoreo": 122,
+    "img_pieza": "assets/catalog_aero/LP-319.jpg"
+  },
+  {
+    "sku": "LP-320",
+    "codigo_original": "LP-320",
+    "page": 47,
+    "descripcion_raw": "LIP ESQUINERO DEL.CIVIC 19-21 CARBONO",
+    "precio_mayoreo": 133,
+    "img_pieza": "assets/catalog_aero/LP-320.jpg"
+  },
+  {
+    "sku": "DF-121",
+    "codigo_original": "DF-121",
+    "page": 48,
+    "descripcion_raw": "DIFUSOR CIVIC 16-21 A CON LED CARBONO",
+    "precio_mayoreo": 835,
+    "img_pieza": "assets/catalog_aero/DF-121.jpg"
+  },
+  {
+    "sku": "DF-122",
+    "codigo_original": "DF-122",
+    "page": 48,
+    "descripcion_raw": "DIFUSOR CIVIC 16-21 B CARBONO",
+    "precio_mayoreo": 475,
+    "img_pieza": "assets/catalog_aero/DF-122.jpg"
+  },
+  {
+    "sku": "DF-123",
+    "codigo_original": "DF-123",
+    "page": 48,
+    "descripcion_raw": "DIFUSOR CIVIC 16-21 C CARBONO",
+    "precio_mayoreo": 519,
+    "img_pieza": "assets/catalog_aero/DF-123.jpg"
+  },
+  {
+    "sku": "DF-124",
+    "codigo_original": "DF-124",
+    "page": 48,
+    "descripcion_raw": "DIFUSOR FIT 18- 20 RS CARBONO",
+    "precio_mayoreo": 510,
+    "img_pieza": "assets/catalog_aero/DF-124.jpg"
+  },
+  {
+    "sku": "LP-322",
+    "codigo_original": "LP-322",
+    "page": 48,
+    "descripcion_raw": "LIP MODEL 3 18- 23 CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-322.jpg"
+  },
+  {
+    "sku": "LP-327",
+    "codigo_original": "LP-327",
+    "page": 49,
+    "descripcion_raw": "LIP CITY 20-22 SEDAN RS CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-327.jpg"
+  },
+  {
+    "sku": "LP-328",
+    "codigo_original": "LP-328",
+    "page": 49,
+    "descripcion_raw": "LIP LATERAL CITY 20-22 SEDAN RS CARBONO",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/LP-328.jpg"
+  },
+  {
+    "sku": "LP-329",
+    "codigo_original": "LP-329",
+    "page": 49,
+    "descripcion_raw": "LIP ESQUINERO TRA.CITY 20-22 SEDAN NEGRO CARBONO",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-329.jpg"
+  },
+  {
+    "sku": "DF-125",
+    "codigo_original": "DF-125",
+    "page": 49,
+    "descripcion_raw": "DIFUSOR CITY 20- 22 SEDAN CARBONO",
+    "precio_mayoreo": 478,
+    "img_pieza": "assets/catalog_aero/DF-125.jpg"
+  },
+  {
+    "sku": "LP-334",
+    "codigo_original": "LP-334",
+    "page": 49,
+    "descripcion_raw": "LIP CRV 23+ A CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-334.jpg"
+  },
+  {
+    "sku": "LP-339",
+    "codigo_original": "LP-339",
+    "page": 50,
+    "descripcion_raw": "LIP ACCORD 18-20 B CARBONO",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-339.jpg"
+  },
+  {
+    "sku": "LP-340",
+    "codigo_original": "LP-340",
+    "page": 50,
+    "descripcion_raw": "LIP ESQUINERO TRA.ACCORD 18-22 A CARBONO",
+    "precio_mayoreo": 134,
+    "img_pieza": "assets/catalog_aero/LP-340.jpg"
+  },
+  {
+    "sku": "DF-126",
+    "codigo_original": "DF-126",
+    "page": 50,
+    "descripcion_raw": "DIFUSOR ACCORD 18-22 A CARBONO",
+    "precio_mayoreo": 425,
+    "img_pieza": "assets/catalog_aero/DF-126.jpg"
+  },
+  {
+    "sku": "LP-345",
+    "codigo_original": "LP-345",
+    "page": 50,
+    "descripcion_raw": "LIP CAMRY 18-20 LE/XLE A CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-345.jpg"
+  },
+  {
+    "sku": "LP-350",
+    "codigo_original": "LP-350",
+    "page": 50,
+    "descripcion_raw": "LIP COROLLA 20- 23 LE/XLE A CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-350.jpg"
+  },
+  {
+    "sku": "LP-351",
+    "codigo_original": "LP-351",
+    "page": 51,
+    "descripcion_raw": "LIP LATERAL COROLLA 20-23 LE/XLE CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-351.jpg"
+  },
+  {
+    "sku": "LP-357",
+    "codigo_original": "LP-357",
+    "page": 51,
+    "descripcion_raw": "LIP ALTIMA 19-22 A CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-357.jpg"
+  },
+  {
+    "sku": "LP-358",
+    "codigo_original": "LP-358",
+    "page": 51,
+    "descripcion_raw": "LIP A4 17-19 DYNAMIC CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-358.jpg"
+  },
+  {
+    "sku": "LP-359",
+    "codigo_original": "LP-359",
+    "page": 51,
+    "descripcion_raw": "LIP BMW1 20-22 SEDAN SPORT CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-359.jpg"
+  },
+  {
+    "sku": "LP-360",
+    "codigo_original": "LP-360",
+    "page": 51,
+    "descripcion_raw": "LIP BMW SERIE 3 19-22 330IA M SPORT CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-360.jpg"
+  },
+  {
+    "sku": "LP-365",
+    "codigo_original": "LP-365",
+    "page": 52,
+    "descripcion_raw": "LIP MAZDA 6 19- 21 CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-365.jpg"
+  },
+  {
+    "sku": "LP-371",
+    "codigo_original": "LP-371",
+    "page": 52,
+    "descripcion_raw": "LIP CLASE C 300 19-21 SPORT CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-371.jpg"
+  },
+  {
+    "sku": "LP-372",
+    "codigo_original": "LP-372",
+    "page": 52,
+    "descripcion_raw": "LIP CLASE C 22- 23 CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-372.jpg"
+  },
+  {
+    "sku": "LP-373",
+    "codigo_original": "LP-373",
+    "page": 52,
+    "descripcion_raw": "LIP CLASE E 400/450 17-20 SPORT CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-373.jpg"
+  },
+  {
+    "sku": "LP-374",
+    "codigo_original": "LP-374",
+    "page": 52,
+    "descripcion_raw": "LIP CLASE CLA 250 17-19 SPORT CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-374.jpg"
+  },
+  {
+    "sku": "LP-375",
+    "codigo_original": "LP-375",
+    "page": 53,
+    "descripcion_raw": "LIP CLASE CLA 200/250 20-23 CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-375.jpg"
+  },
+  {
+    "sku": "LP-380",
+    "codigo_original": "LP-380",
+    "page": 53,
+    "descripcion_raw": "LIP CIVIC 06-11 CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-380.jpg"
+  },
+  {
+    "sku": "LP-390",
+    "codigo_original": "LP-390",
+    "page": 53,
+    "descripcion_raw": "LIP HRV 19-22 CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-390.jpg"
+  },
+  {
+    "sku": "LP-395",
+    "codigo_original": "LP-395",
+    "page": 53,
+    "descripcion_raw": "LIP GT 22-23 CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-395.jpg"
+  },
+  {
+    "sku": "LP-413",
+    "codigo_original": "LP-413",
+    "page": 53,
+    "descripcion_raw": "LIP BMW 420 21- 24/430 NEGRO BRILLANTE",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-413.jpg"
+  },
+  {
+    "sku": "LP-406",
+    "codigo_original": "LP-406",
+    "page": 54,
+    "descripcion_raw": "LIP BMW 2 14-21 2 PUERTA COUPE NEGRO BRILLANTE",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-406.jpg"
+  },
+  {
+    "sku": "DF-135",
+    "codigo_original": "DF-135",
+    "page": 54,
+    "descripcion_raw": "DIFUSOR J NEGRO",
+    "precio_mayoreo": 110,
+    "img_pieza": "assets/catalog_aero/DF-135.jpg"
+  },
+  {
+    "sku": "DF-136",
+    "codigo_original": "DF-136",
+    "page": 54,
+    "descripcion_raw": "DIFUSOR J CARBONO",
+    "precio_mayoreo": 179,
+    "img_pieza": "assets/catalog_aero/DF-136.jpg"
+  },
+  {
+    "sku": "EDS-20",
+    "codigo_original": "EDS-20",
+    "page": 54,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO GLI",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-20.jpg"
+  },
+  {
+    "sku": "EDS-22",
+    "codigo_original": "EDS-22",
+    "page": 55,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO SEAT",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-22.jpg"
+  },
+  {
+    "sku": "EDS-23",
+    "codigo_original": "EDS-23",
+    "page": 55,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO FR",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-23.jpg"
+  },
+  {
+    "sku": "EDS-24",
+    "codigo_original": "EDS-24",
+    "page": 55,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO CUPRA",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-24.jpg"
+  },
+  {
+    "sku": "EDS-25",
+    "codigo_original": "EDS-25",
+    "page": 55,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO TOYOTA",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-25.jpg"
+  },
+  {
+    "sku": "EDS-26",
+    "codigo_original": "EDS-26",
+    "page": 56,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO HYUNDAI",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-26.jpg"
+  },
+  {
+    "sku": "EDS-27",
+    "codigo_original": "EDS-27",
+    "page": 56,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO KIA",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-27.jpg"
+  },
+  {
+    "sku": "EDS-29",
+    "codigo_original": "EDS-29",
+    "page": 56,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO FORD",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-29.jpg"
+  },
+  {
+    "sku": "EDS-30",
+    "codigo_original": "EDS-30",
+    "page": 56,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO JEEP",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-30.jpg"
+  },
+  {
+    "sku": "EDS-31",
+    "codigo_original": "EDS-31",
+    "page": 57,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MAZDA",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-31.jpg"
+  },
+  {
+    "sku": "EDS-32",
+    "codigo_original": "EDS-32",
+    "page": 57,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO CHEVROLET",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-32.jpg"
+  },
+  {
+    "sku": "EDS-33",
+    "codigo_original": "EDS-33",
+    "page": 57,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO BMW",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-33.jpg"
+  },
+  {
+    "sku": "EDS-34",
+    "codigo_original": "EDS-34",
+    "page": 57,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO AUDI",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-34.jpg"
+  },
+  {
+    "sku": "EDS-35",
+    "codigo_original": "EDS-35",
+    "page": 58,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO RS",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-35.jpg"
+  },
+  {
+    "sku": "EDS-36",
+    "codigo_original": "EDS-36",
+    "page": 58,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MERCEDES BENZ",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-36.jpg"
+  },
+  {
+    "sku": "EDS-37",
+    "codigo_original": "EDS-37",
+    "page": 58,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO DODGE",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-37.jpg"
+  },
+  {
+    "sku": "EDS-38",
+    "codigo_original": "EDS-38",
+    "page": 58,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO GMC",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-38.jpg"
+  },
+  {
+    "sku": "EDS-39",
+    "codigo_original": "EDS-39",
+    "page": 59,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MINI",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-39.jpg"
+  },
+  {
+    "sku": "EDS-40",
+    "codigo_original": "EDS-40",
+    "page": 59,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MG",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-40.jpg"
+  },
+  {
+    "sku": "EDS-41",
+    "codigo_original": "EDS-41",
+    "page": 59,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO MITSUBISHI",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-41.jpg"
+  },
+  {
+    "sku": "EDS-42",
+    "codigo_original": "EDS-42",
+    "page": 59,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO RENAULT",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-42.jpg"
+  },
+  {
+    "sku": "EDS-43",
+    "codigo_original": "EDS-43",
+    "page": 60,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B NEGRO SUZUKI",
+    "precio_mayoreo": 54,
+    "img_pieza": "assets/catalog_aero/EDS-43.jpg"
+  },
+  {
+    "sku": "EDS-45",
+    "codigo_original": "EDS-45",
+    "page": 60,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO GLI",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-45.jpg"
+  },
+  {
+    "sku": "EDS-47",
+    "codigo_original": "EDS-47",
+    "page": 60,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO SEAT",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-47.jpg"
+  },
+  {
+    "sku": "EDS-48",
+    "codigo_original": "EDS-48",
+    "page": 60,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO FR",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-48.jpg"
+  },
+  {
+    "sku": "EDS-49",
+    "codigo_original": "EDS-49",
+    "page": 61,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO CUPRA",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-49.jpg"
+  },
+  {
+    "sku": "EDS-50",
+    "codigo_original": "EDS-50",
+    "page": 61,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO TOYOTA",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-50.jpg"
+  },
+  {
+    "sku": "EDS-51",
+    "codigo_original": "EDS-51",
+    "page": 61,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO HYUNDAI",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-51.jpg"
+  },
+  {
+    "sku": "EDS-52",
+    "codigo_original": "EDS-52",
+    "page": 61,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO KIA",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-52.jpg"
+  },
+  {
+    "sku": "EDS-53",
+    "codigo_original": "EDS-53",
+    "page": 62,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO NISSAN",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-53.jpg"
+  },
+  {
+    "sku": "EDS-54",
+    "codigo_original": "EDS-54",
+    "page": 62,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO FORD",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-54.jpg"
+  },
+  {
+    "sku": "EDS-55",
+    "codigo_original": "EDS-55",
+    "page": 62,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO JEEP",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-55.jpg"
+  },
+  {
+    "sku": "EDS-56",
+    "codigo_original": "EDS-56",
+    "page": 62,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO MAZDA",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-56.jpg"
+  },
+  {
+    "sku": "EDS-57",
+    "codigo_original": "EDS-57",
+    "page": 63,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO CHEVROLET",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-57.jpg"
+  },
+  {
+    "sku": "EDS-58",
+    "codigo_original": "EDS-58",
+    "page": 63,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO BMW",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-58.jpg"
+  },
+  {
+    "sku": "EDS-59",
+    "codigo_original": "EDS-59",
+    "page": 63,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO AUDI",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-59.jpg"
+  },
+  {
+    "sku": "EDS-60",
+    "codigo_original": "EDS-60",
+    "page": 63,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO RS",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-60.jpg"
+  },
+  {
+    "sku": "EDS-61",
+    "codigo_original": "EDS-61",
+    "page": 64,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO MERCEDES BENZ",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-61.jpg"
+  },
+  {
+    "sku": "EDS-62",
+    "codigo_original": "EDS-62",
+    "page": 64,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO DODGE",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-62.jpg"
+  },
+  {
+    "sku": "EDS-63",
+    "codigo_original": "EDS-63",
+    "page": 64,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO GMC",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-63.jpg"
+  },
+  {
+    "sku": "EDS-64",
+    "codigo_original": "EDS-64",
+    "page": 64,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO MINI",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-64.jpg"
+  },
+  {
+    "sku": "EDS-65",
+    "codigo_original": "EDS-65",
+    "page": 65,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO MG",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-65.jpg"
+  },
+  {
+    "sku": "EDS-66",
+    "codigo_original": "EDS-66",
+    "page": 65,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO MITSUBISHI",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-66.jpg"
+  },
+  {
+    "sku": "EDS-67",
+    "codigo_original": "EDS-67",
+    "page": 65,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO RENAULT",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-67.jpg"
+  },
+  {
+    "sku": "EDS-68",
+    "codigo_original": "EDS-68",
+    "page": 65,
+    "descripcion_raw": "ESQUINERO DE SALPICADERA B CARBONO SUZUKI",
+    "precio_mayoreo": 89,
+    "img_pieza": "assets/catalog_aero/EDS-68.jpg"
+  },
+  {
+    "sku": "LP-82",
+    "codigo_original": "LP-82",
+    "page": 66,
+    "descripcion_raw": "LIP LATERAL 192CM NEGRO+AMARILLO",
+    "precio_mayoreo": 304,
+    "img_pieza": "assets/catalog_aero/LP-82.jpg"
+  },
+  {
+    "sku": "LP-404",
+    "codigo_original": "LP-404",
+    "page": 66,
+    "descripcion_raw": "LIP Q7 16-19 S LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/LP-404.jpg"
+  },
+  {
+    "sku": "LP-296",
+    "codigo_original": "LP-296",
+    "page": 66,
+    "descripcion_raw": "LIP MUSTANG 18- 22 CARBONO NEGRO",
+    "precio_mayoreo": 244,
+    "img_pieza": "assets/catalog_aero/LP-296.jpg"
+  },
+  {
+    "sku": "LP-294",
+    "codigo_original": "LP-294",
+    "page": 66,
+    "descripcion_raw": "LIP MUSTANG 15- 17 CARBONO NEGRO",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-294.jpg"
+  },
+  {
+    "sku": "LP-407",
+    "codigo_original": "LP-407",
+    "page": 66,
+    "descripcion_raw": "LIP BMW 2 22-24 M SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-407.jpg"
+  },
+  {
+    "sku": "LP-415",
+    "codigo_original": "LP-415",
+    "page": 66,
+    "descripcion_raw": "LIP LATERAL DE VENTANA TRA.TIGUAN 18-23 CARBONO",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/LP-415.jpg"
+  },
+  {
+    "sku": "LP-416",
+    "codigo_original": "LP-416",
+    "page": 67,
+    "descripcion_raw": "LIP LATERAL DE VENTANA TRA.TIGUAN 09-17 CARBONO",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/LP-416.jpg"
+  },
+  {
+    "sku": "LP-311",
+    "codigo_original": "LP-311",
+    "page": 67,
+    "descripcion_raw": "LIP CIVIC 22-23 A NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-311.jpg"
+  },
+  {
+    "sku": "LP-312",
+    "codigo_original": "LP-312",
+    "page": 67,
+    "descripcion_raw": "LIP CIVIC 22-23 A NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-312.jpg"
+  },
+  {
+    "sku": "LP-313",
+    "codigo_original": "LP-313",
+    "page": 67,
+    "descripcion_raw": "LIP CIVIC 22-23 A NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-313.jpg"
+  },
+  {
+    "sku": "LP-314",
+    "codigo_original": "LP-314",
+    "page": 67,
+    "descripcion_raw": "LIP CIVIC 22-23 A NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-314.jpg"
+  },
+  {
+    "sku": "LP-323",
+    "codigo_original": "LP-323",
+    "page": 67,
+    "descripcion_raw": "LIP CITY 20-22 SEDAN RS NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-323.jpg"
+  },
+  {
+    "sku": "LP-324",
+    "codigo_original": "LP-324",
+    "page": 67,
+    "descripcion_raw": "LIP CITY 20-22 SEDAN RS NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-324.jpg"
+  },
+  {
+    "sku": "LP-325",
+    "codigo_original": "LP-325",
+    "page": 68,
+    "descripcion_raw": "LIP CITY 20-22 SEDAN RS NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-325.jpg"
+  },
+  {
+    "sku": "LP-326",
+    "codigo_original": "LP-326",
+    "page": 68,
+    "descripcion_raw": "LIP CITY 20-22 SEDAN RS NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-326.jpg"
+  },
+  {
+    "sku": "LP-330",
+    "codigo_original": "LP-330",
+    "page": 68,
+    "descripcion_raw": "LIP CRV 23+ A NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-330.jpg"
+  },
+  {
+    "sku": "LP-331",
+    "codigo_original": "LP-331",
+    "page": 68,
+    "descripcion_raw": "LIP CRV 23+ A NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-331.jpg"
+  },
+  {
+    "sku": "LP-332",
+    "codigo_original": "LP-332",
+    "page": 68,
+    "descripcion_raw": "LIP CRV 23+ A NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-332.jpg"
+  },
+  {
+    "sku": "LP-333",
+    "codigo_original": "LP-333",
+    "page": 68,
+    "descripcion_raw": "LIP CRV 23+ A NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-333.jpg"
+  },
+  {
+    "sku": "LP-335",
+    "codigo_original": "LP-335",
+    "page": 68,
+    "descripcion_raw": "LIP ACCORD 18-20 B NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 211,
+    "img_pieza": "assets/catalog_aero/LP-335.jpg"
+  },
+  {
+    "sku": "LP-336",
+    "codigo_original": "LP-336",
+    "page": 69,
+    "descripcion_raw": "LIP ACCORD 18-20 B NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-336.jpg"
+  },
+  {
+    "sku": "LP-337",
+    "codigo_original": "LP-337",
+    "page": 69,
+    "descripcion_raw": "LIP ACCORD 18-20 B NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-337.jpg"
+  },
+  {
+    "sku": "LP-338",
+    "codigo_original": "LP-338",
+    "page": 69,
+    "descripcion_raw": "LIP ACCORD 18-20 B NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-338.jpg"
+  },
+  {
+    "sku": "LP-341",
+    "codigo_original": "LP-341",
+    "page": 69,
+    "descripcion_raw": "LIP CAMRY 18-20 LE/XLE A NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-341.jpg"
+  },
+  {
+    "sku": "LP-342",
+    "codigo_original": "LP-342",
+    "page": 69,
+    "descripcion_raw": "LIP CAMRY 18-20 LE/XLE A NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-342.jpg"
+  },
+  {
+    "sku": "LP-343",
+    "codigo_original": "LP-343",
+    "page": 69,
+    "descripcion_raw": "LIP CAMRY 18-20 LE/XLE A NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-343.jpg"
+  },
+  {
+    "sku": "LP-344",
+    "codigo_original": "LP-344",
+    "page": 69,
+    "descripcion_raw": "LIP CAMRY 18-20 LE/XLE A NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-344.jpg"
+  },
+  {
+    "sku": "LP-346",
+    "codigo_original": "LP-346",
+    "page": 70,
+    "descripcion_raw": "LIP COROLLA 20- 23 LE/XLE A NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-346.jpg"
+  },
+  {
+    "sku": "LP-347",
+    "codigo_original": "LP-347",
+    "page": 70,
+    "descripcion_raw": "LIP COROLLA 20- 23 LE/XLE A NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-347.jpg"
+  },
+  {
+    "sku": "LP-348",
+    "codigo_original": "LP-348",
+    "page": 70,
+    "descripcion_raw": "LIP COROLLA 20- 23 LE/XLE A NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-348.jpg"
+  },
+  {
+    "sku": "LP-349",
+    "codigo_original": "LP-349",
+    "page": 70,
+    "descripcion_raw": "LIP COROLLA 20- 23 LE/XLE A NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-349.jpg"
+  },
+  {
+    "sku": "LP-353",
+    "codigo_original": "LP-353",
+    "page": 70,
+    "descripcion_raw": "LIP ALTIMA 19-22 A NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-353.jpg"
+  },
+  {
+    "sku": "LP-354",
+    "codigo_original": "LP-354",
+    "page": 70,
+    "descripcion_raw": "LIP ALTIMA 19-22 A NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-354.jpg"
+  },
+  {
+    "sku": "LP-355",
+    "codigo_original": "LP-355",
+    "page": 70,
+    "descripcion_raw": "LIP ALTIMA 19-22 A NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-355.jpg"
+  },
+  {
+    "sku": "LP-356",
+    "codigo_original": "LP-356",
+    "page": 71,
+    "descripcion_raw": "LIP ALTIMA 19-22 A NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-356.jpg"
+  },
+  {
+    "sku": "LP-361",
+    "codigo_original": "LP-361",
+    "page": 71,
+    "descripcion_raw": "LIP MAZDA 6 19- 21 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-361.jpg"
+  },
+  {
+    "sku": "LP-362",
+    "codigo_original": "LP-362",
+    "page": 71,
+    "descripcion_raw": "LIP MAZDA 6 19- 21 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-362.jpg"
+  },
+  {
+    "sku": "LP-363",
+    "codigo_original": "LP-363",
+    "page": 71,
+    "descripcion_raw": "LIP MAZDA 6 19- 21 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-363.jpg"
+  },
+  {
+    "sku": "LP-364",
+    "codigo_original": "LP-364",
+    "page": 71,
+    "descripcion_raw": "LIP MAZDA 6 19- 21 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-364.jpg"
+  },
+  {
+    "sku": "LP-367",
+    "codigo_original": "LP-367",
+    "page": 71,
+    "descripcion_raw": "LIP ONIX 21-23 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-367.jpg"
+  },
+  {
+    "sku": "LP-368",
+    "codigo_original": "LP-368",
+    "page": 71,
+    "descripcion_raw": "LIP ONIX 21-23 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-368.jpg"
+  },
+  {
+    "sku": "LP-369",
+    "codigo_original": "LP-369",
+    "page": 72,
+    "descripcion_raw": "LIP ONIX 21-23 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-369.jpg"
+  },
+  {
+    "sku": "LP-376",
+    "codigo_original": "LP-376",
+    "page": 72,
+    "descripcion_raw": "LIP CIVIC 06-11 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-376.jpg"
+  },
+  {
+    "sku": "LP-377",
+    "codigo_original": "LP-377",
+    "page": 72,
+    "descripcion_raw": "LIP CIVIC 06-11 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-377.jpg"
+  },
+  {
+    "sku": "LP-378",
+    "codigo_original": "LP-378",
+    "page": 72,
+    "descripcion_raw": "LIP CIVIC 06-11 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-378.jpg"
+  },
+  {
+    "sku": "LP-379",
+    "codigo_original": "LP-379",
+    "page": 72,
+    "descripcion_raw": "LIP CIVIC 06-11 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-379.jpg"
+  },
+  {
+    "sku": "LP-382",
+    "codigo_original": "LP-382",
+    "page": 72,
+    "descripcion_raw": "LIP TIGUAN 18-21 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-382.jpg"
+  },
+  {
+    "sku": "LP-383",
+    "codigo_original": "LP-383",
+    "page": 72,
+    "descripcion_raw": "LIP TIGUAN 18-21 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-383.jpg"
+  },
+  {
+    "sku": "LP-384",
+    "codigo_original": "LP-384",
+    "page": 73,
+    "descripcion_raw": "LIP TIGUAN 18-21 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-384.jpg"
+  },
+  {
+    "sku": "LP-386",
+    "codigo_original": "LP-386",
+    "page": 73,
+    "descripcion_raw": "LIP HRV 19-22 NEGRO BRILLANTE+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-386.jpg"
+  },
+  {
+    "sku": "LP-387",
+    "codigo_original": "LP-387",
+    "page": 73,
+    "descripcion_raw": "LIP HRV 19-22 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-387.jpg"
+  },
+  {
+    "sku": "LP-388",
+    "codigo_original": "LP-388",
+    "page": 73,
+    "descripcion_raw": "LIP HRV 19-22 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-388.jpg"
+  },
+  {
+    "sku": "LP-389",
+    "codigo_original": "LP-389",
+    "page": 73,
+    "descripcion_raw": "LIP HRV 19-22 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-389.jpg"
+  },
+  {
+    "sku": "LP-397",
+    "codigo_original": "LP-397",
+    "page": 73,
+    "descripcion_raw": "LIP TIGUAN 22-23 NEGRO BRILLANTE+AZUL",
+    "precio_mayoreo": 223,
+    "img_pieza": "assets/catalog_aero/LP-397.jpg"
+  },
+  {
+    "sku": "LP-398",
+    "codigo_original": "LP-398",
+    "page": 73,
+    "descripcion_raw": "LIP TIGUAN 22-23 NEGRO BRILLANTE+AMARIL LO",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-398.jpg"
+  },
+  {
+    "sku": "LP-399",
+    "codigo_original": "LP-399",
+    "page": 74,
+    "descripcion_raw": "LIP TIGUAN 22-23 NEGRO BRILLANTE+VERDE",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-399.jpg"
+  },
+  {
+    "sku": "DF-129",
+    "codigo_original": "DF-129",
+    "page": 74,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 GTI C CARBONO",
+    "precio_mayoreo": 735,
+    "img_pieza": "assets/catalog_aero/DF-129.jpg"
+  },
+  {
+    "sku": "DF-128",
+    "codigo_original": "DF-128",
+    "page": 74,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 GTI C CARBONO",
+    "precio_mayoreo": 730,
+    "img_pieza": "assets/catalog_aero/DF-128.jpg"
+  },
+  {
+    "sku": "DF-130",
+    "codigo_original": "DF-130",
+    "page": 74,
+    "descripcion_raw": "DIFUSOR POLO 15- 19 PT B CARBONO",
+    "precio_mayoreo": 739,
+    "img_pieza": "assets/catalog_aero/DF-130.jpg"
+  },
+  {
+    "sku": "LP-37",
+    "codigo_original": "LP-37",
+    "page": 74,
+    "descripcion_raw": "LIP TRASERO B CABONO NEGRO 30",
+    "precio_mayoreo": 67,
+    "img_pieza": "assets/catalog_aero/LP-37.jpg"
+  },
+  {
+    "sku": "DF-03",
+    "codigo_original": "DF-03",
+    "page": 75,
+    "descripcion_raw": "DIFUSOR CHICO NEGRO C",
+    "precio_mayoreo": 63,
+    "img_pieza": "assets/catalog_aero/DF-03.jpg"
+  },
+  {
+    "sku": "DF-04",
+    "codigo_original": "DF-04",
+    "page": 75,
+    "descripcion_raw": "DIFUSOR GRAN NEGRO D",
+    "precio_mayoreo": 79,
+    "img_pieza": "assets/catalog_aero/DF-04.jpg"
+  },
+  {
+    "sku": "DF-01",
+    "codigo_original": "DF-01",
+    "page": 75,
+    "descripcion_raw": "DIFUSOR 85.5CM NEGRO A",
+    "precio_mayoreo": 96,
+    "img_pieza": "assets/catalog_aero/DF-01.jpg"
+  },
+  {
+    "sku": "DF-14",
+    "codigo_original": "DF-14",
+    "page": 75,
+    "descripcion_raw": "DIFUSOR CHICO C CABONO NEGRO",
+    "precio_mayoreo": 146,
+    "img_pieza": "assets/catalog_aero/DF-14.jpg"
+  },
+  {
+    "sku": "LP-117",
+    "codigo_original": "LP-117",
+    "page": 76,
+    "descripcion_raw": "LIP ACCORD 18-20 A CARBONO",
+    "precio_mayoreo": 166,
+    "img_pieza": "assets/catalog_aero/LP-117.jpg"
+  },
+  {
+    "sku": "LP-119",
+    "codigo_original": "LP-119",
+    "page": 76,
+    "descripcion_raw": "LIP FIT 15-17 A CARBONO",
+    "precio_mayoreo": 167,
+    "img_pieza": "assets/catalog_aero/LP-119.jpg"
+  },
+  {
+    "sku": "LP-123",
+    "codigo_original": "LP-123",
+    "page": 76,
+    "descripcion_raw": "LIP RAV4 19-23 A CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-123.jpg"
+  },
+  {
+    "sku": "LP-124",
+    "codigo_original": "LP-124",
+    "page": 76,
+    "descripcion_raw": "LIP XTRAIL 18-22 A CARBONO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-124.jpg"
+  },
+  {
+    "sku": "DF-36",
+    "codigo_original": "DF-36",
+    "page": 77,
+    "descripcion_raw": "DIFUSOR CARBONO 128CM",
+    "precio_mayoreo": 384,
+    "img_pieza": "assets/catalog_aero/DF-36.jpg"
+  },
+  {
+    "sku": "LP-70",
+    "codigo_original": "LP-70",
+    "page": 77,
+    "descripcion_raw": "LIP LATERAL LEON 14-20 NEGRO BRILLANTE 10",
+    "precio_mayoreo": 133,
+    "img_pieza": "assets/catalog_aero/LP-70.jpg"
+  },
+  {
+    "sku": "LP-134",
+    "codigo_original": "LP-134",
+    "page": 77,
+    "descripcion_raw": "LIP CITY 20-22 SEDAN RS NEGRO BRILLANTE",
+    "precio_mayoreo": 134,
+    "img_pieza": "assets/catalog_aero/LP-134.jpg"
+  },
+  {
+    "sku": "LP-73",
+    "codigo_original": "LP-73",
+    "page": 77,
+    "descripcion_raw": "LIP LATERAL POLO 15-19 PT NEGRO BRILLANTE",
+    "precio_mayoreo": 388,
+    "img_pieza": "assets/catalog_aero/LP-73.jpg"
+  },
+  {
+    "sku": "LP-126",
+    "codigo_original": "LP-126",
+    "page": 77,
+    "descripcion_raw": "LIP CIVIC 22-23 A NEGRO BRILLANTE",
+    "precio_mayoreo": 135,
+    "img_pieza": "assets/catalog_aero/LP-126.jpg"
+  },
+  {
+    "sku": "DF-105",
+    "codigo_original": "DF-105",
+    "page": 78,
+    "descripcion_raw": "DIFUSOR CRV 17- 19 NEGRO BRILLANTE CON LED",
+    "precio_mayoreo": 622,
+    "img_pieza": "assets/catalog_aero/DF-105.jpg"
+  },
+  {
+    "sku": "DF-106",
+    "codigo_original": "DF-106",
+    "page": 78,
+    "descripcion_raw": "DIFUSOR CRV 17- 19 CARBONO CON LED",
+    "precio_mayoreo": 776,
+    "img_pieza": "assets/catalog_aero/DF-106.jpg"
+  },
+  {
+    "sku": "LP-236",
+    "codigo_original": "LP-236",
+    "page": 78,
+    "descripcion_raw": "LIP ERTIGA 19-21 NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-236.jpg"
+  },
+  {
+    "sku": "DF-107",
+    "codigo_original": "DF-107",
+    "page": 78,
+    "descripcion_raw": "DIFUSOR ERTIGA 19-21 PLATA",
+    "precio_mayoreo": 446,
+    "img_pieza": "assets/catalog_aero/DF-107.jpg"
+  },
+  {
+    "sku": "DF-108",
+    "codigo_original": "DF-108",
+    "page": 78,
+    "descripcion_raw": "DIFUSOR ACCENT 18-22 NEGRO BRILLANTE",
+    "precio_mayoreo": 469,
+    "img_pieza": "assets/catalog_aero/DF-108.jpg"
+  },
+  {
+    "sku": "LP-178",
+    "codigo_original": "LP-178",
+    "page": 79,
+    "descripcion_raw": "LIP ACCORD 21-22 NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-178.jpg"
+  },
+  {
+    "sku": "LP-239",
+    "codigo_original": "LP-239",
+    "page": 79,
+    "descripcion_raw": "LIP SENTRA 20-23 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-239.jpg"
+  },
+  {
+    "sku": "LP-240",
+    "codigo_original": "LP-240",
+    "page": 79,
+    "descripcion_raw": "LIP SENTRA 20-23 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-240.jpg"
+  },
+  {
+    "sku": "LP-241",
+    "codigo_original": "LP-241",
+    "page": 79,
+    "descripcion_raw": "LIP SENTRA 20-23 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-241.jpg"
+  },
+  {
+    "sku": "LP-243",
+    "codigo_original": "LP-243",
+    "page": 79,
+    "descripcion_raw": "LIP SENTRA 17-19 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-243.jpg"
+  },
+  {
+    "sku": "LP-244",
+    "codigo_original": "LP-244",
+    "page": 79,
+    "descripcion_raw": "LIP SENTRA 17-19 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-244.jpg"
+  },
+  {
+    "sku": "LP-245",
+    "codigo_original": "LP-245",
+    "page": 79,
+    "descripcion_raw": "LIP SENTRA 17-19 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-245.jpg"
+  },
+  {
+    "sku": "LP-247",
+    "codigo_original": "LP-247",
+    "page": 80,
+    "descripcion_raw": "LIP MAZDA 3 19- 23 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-247.jpg"
+  },
+  {
+    "sku": "LP-248",
+    "codigo_original": "LP-248",
+    "page": 80,
+    "descripcion_raw": "LIP MAZDA 3 19- 23 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-248.jpg"
+  },
+  {
+    "sku": "LP-249",
+    "codigo_original": "LP-249",
+    "page": 80,
+    "descripcion_raw": "LIP MAZDA 3 19- 23 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-249.jpg"
+  },
+  {
+    "sku": "LP-251",
+    "codigo_original": "LP-251",
+    "page": 80,
+    "descripcion_raw": "LIP CIVIC 16-21 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-251.jpg"
+  },
+  {
+    "sku": "LP-252",
+    "codigo_original": "LP-252",
+    "page": 80,
+    "descripcion_raw": "LIP CIVIC 16-21 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-252.jpg"
+  },
+  {
+    "sku": "LP-253",
+    "codigo_original": "LP-253",
+    "page": 80,
+    "descripcion_raw": "LIP CIVIC 16-21 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-253.jpg"
+  },
+  {
+    "sku": "LP-254",
+    "codigo_original": "LP-254",
+    "page": 80,
+    "descripcion_raw": "LIP ACCORD 18-20 A NEGRO BRI+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-254.jpg"
+  },
+  {
+    "sku": "LP-255",
+    "codigo_original": "LP-255",
+    "page": 81,
+    "descripcion_raw": "LIP ACCORD 18-20 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-255.jpg"
+  },
+  {
+    "sku": "LP-256",
+    "codigo_original": "LP-256",
+    "page": 81,
+    "descripcion_raw": "LIP ACCORD 18-20 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-256.jpg"
+  },
+  {
+    "sku": "LP-257",
+    "codigo_original": "LP-257",
+    "page": 81,
+    "descripcion_raw": "LIP ACCORD 18-20 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-257.jpg"
+  },
+  {
+    "sku": "LP-260",
+    "codigo_original": "LP-260",
+    "page": 81,
+    "descripcion_raw": "LIP JETTA 19-21 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-260.jpg"
+  },
+  {
+    "sku": "LP-261",
+    "codigo_original": "LP-261",
+    "page": 81,
+    "descripcion_raw": "LIP JETTA 19-21 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-261.jpg"
+  },
+  {
+    "sku": "LP-262",
+    "codigo_original": "LP-262",
+    "page": 81,
+    "descripcion_raw": "LIP FIT 15-17 A NEGRO BRI+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-262.jpg"
+  },
+  {
+    "sku": "LP-263",
+    "codigo_original": "LP-263",
+    "page": 81,
+    "descripcion_raw": "LIP FIT 15-17 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-263.jpg"
+  },
+  {
+    "sku": "LP-264",
+    "codigo_original": "LP-264",
+    "page": 82,
+    "descripcion_raw": "LIP FIT 15-17 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-264.jpg"
+  },
+  {
+    "sku": "LP-265",
+    "codigo_original": "LP-265",
+    "page": 82,
+    "descripcion_raw": "LIP FIT 15-17 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-265.jpg"
+  },
+  {
+    "sku": "LP-267",
+    "codigo_original": "LP-267",
+    "page": 82,
+    "descripcion_raw": "LIP FIT 18-20 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-267.jpg"
+  },
+  {
+    "sku": "LP-268",
+    "codigo_original": "LP-268",
+    "page": 82,
+    "descripcion_raw": "LIP FIT 18-20 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-268.jpg"
+  },
+  {
+    "sku": "LP-269",
+    "codigo_original": "LP-269",
+    "page": 82,
+    "descripcion_raw": "LIP FIT 18-20 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-269.jpg"
+  },
+  {
+    "sku": "LP-271",
+    "codigo_original": "LP-271",
+    "page": 82,
+    "descripcion_raw": "LIP CRV 17-19 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-271.jpg"
+  },
+  {
+    "sku": "LP-272",
+    "codigo_original": "LP-272",
+    "page": 82,
+    "descripcion_raw": "LIP CRV 17-19 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-272.jpg"
+  },
+  {
+    "sku": "LP-273",
+    "codigo_original": "LP-273",
+    "page": 83,
+    "descripcion_raw": "LIP CRV 17-19 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-273.jpg"
+  },
+  {
+    "sku": "LP-275",
+    "codigo_original": "LP-275",
+    "page": 83,
+    "descripcion_raw": "LIP CRV 20-22 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-275.jpg"
+  },
+  {
+    "sku": "LP-276",
+    "codigo_original": "LP-276",
+    "page": 83,
+    "descripcion_raw": "LIP CRV 20-22 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-276.jpg"
+  },
+  {
+    "sku": "LP-277",
+    "codigo_original": "LP-277",
+    "page": 83,
+    "descripcion_raw": "LIP CRV 20-22 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-277.jpg"
+  },
+  {
+    "sku": "LP-279",
+    "codigo_original": "LP-279",
+    "page": 83,
+    "descripcion_raw": "LIP RAV4 19-23 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-279.jpg"
+  },
+  {
+    "sku": "LP-280",
+    "codigo_original": "LP-280",
+    "page": 83,
+    "descripcion_raw": "LIP RAV4 19-23 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-280.jpg"
+  },
+  {
+    "sku": "LP-281",
+    "codigo_original": "LP-281",
+    "page": 83,
+    "descripcion_raw": "LIP RAV4 19-23 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-281.jpg"
+  },
+  {
+    "sku": "LP-282",
+    "codigo_original": "LP-282",
+    "page": 84,
+    "descripcion_raw": "LIP XTRAIL 18-22 A NEGRO BRI+ROJO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-282.jpg"
+  },
+  {
+    "sku": "LP-283",
+    "codigo_original": "LP-283",
+    "page": 84,
+    "descripcion_raw": "LIP XTRAIL 18-22 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-283.jpg"
+  },
+  {
+    "sku": "LP-284",
+    "codigo_original": "LP-284",
+    "page": 84,
+    "descripcion_raw": "LIP XTRAIL 18-22 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-284.jpg"
+  },
+  {
+    "sku": "LP-285",
+    "codigo_original": "LP-285",
+    "page": 84,
+    "descripcion_raw": "LIP XTRAIL 18-22 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-285.jpg"
+  },
+  {
+    "sku": "LP-287",
+    "codigo_original": "LP-287",
+    "page": 84,
+    "descripcion_raw": "LIP LEON 17-20 A NEGRO BRI+AZUL",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-287.jpg"
+  },
+  {
+    "sku": "LP-288",
+    "codigo_original": "LP-288",
+    "page": 84,
+    "descripcion_raw": "LIP LEON 17-20 A NEGRO BRI+AMARILLO",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-288.jpg"
+  },
+  {
+    "sku": "LP-289",
+    "codigo_original": "LP-289",
+    "page": 84,
+    "descripcion_raw": "LIP LEON 17-20 A NEGRO BRI+VERDE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-289.jpg"
+  },
+  {
+    "sku": "DF-46",
+    "codigo_original": "DF-46",
+    "page": 85,
+    "descripcion_raw": "DIFUSR F 125CM AZUL",
+    "precio_mayoreo": 208,
+    "img_pieza": "assets/catalog_aero/DF-46.jpg"
+  },
+  {
+    "sku": "DF-47",
+    "codigo_original": "DF-47",
+    "page": 85,
+    "descripcion_raw": "DIFUSR F 125CM BLANCO",
+    "precio_mayoreo": 209,
+    "img_pieza": "assets/catalog_aero/DF-47.jpg"
+  },
+  {
+    "sku": "DF-48",
+    "codigo_original": "DF-48",
+    "page": 85,
+    "descripcion_raw": "DIFUSR F 125CM AMARILLO",
+    "precio_mayoreo": 209,
+    "img_pieza": "assets/catalog_aero/DF-48.jpg"
+  },
+  {
+    "sku": "LP-227",
+    "codigo_original": "LP-227",
+    "page": 85,
+    "descripcion_raw": "LIP 4 PIEZAS POLO 13-19 PT CARBONO NEGRO",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/LP-227.jpg"
+  },
+  {
+    "sku": "DF-102",
+    "codigo_original": "DF-102",
+    "page": 85,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 CON LED A CARBONO NEGRO",
+    "precio_mayoreo": 967,
+    "img_pieza": "assets/catalog_aero/DF-102.jpg"
+  },
+  {
+    "sku": "DF-100",
+    "codigo_original": "DF-100",
+    "page": 85,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 TCR CARBONO NEGRO",
+    "precio_mayoreo": 949,
+    "img_pieza": "assets/catalog_aero/DF-100.jpg"
+  },
+  {
+    "sku": "LP-101",
+    "codigo_original": "LP-101",
+    "page": 85,
+    "descripcion_raw": "LIP 4 PIEZAS CARBONO NEGRO+VERDE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-101.jpg"
+  },
+  {
+    "sku": "DF-29",
+    "codigo_original": "DF-29",
+    "page": 86,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 PT A NEGRO BRILLANTE",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/DF-29.jpg"
+  },
+  {
+    "sku": "LP-34",
+    "codigo_original": "LP-34",
+    "page": 86,
+    "descripcion_raw": "LIP DEL 3 PIEZAS B CABONO NEGRO 25",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-34.jpg"
+  },
+  {
+    "sku": "LP-58",
+    "codigo_original": "LP-58",
+    "page": 86,
+    "descripcion_raw": "LIP 4 PIEZAS CARBONO BLANCO",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-58.jpg"
+  },
+  {
+    "sku": "DF-32",
+    "codigo_original": "DF-32",
+    "page": 86,
+    "descripcion_raw": "DIFUSOR POLO 15- 19 PT PLATA",
+    "precio_mayoreo": 266,
+    "img_pieza": "assets/catalog_aero/DF-32.jpg"
+  },
+  {
+    "sku": "LP-175",
+    "codigo_original": "LP-175",
+    "page": 86,
+    "descripcion_raw": "LIP CAMRY 21-23 LE/XLE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-175.jpg"
+  },
+  {
+    "sku": "LP-61",
+    "codigo_original": "LP-61",
+    "page": 86,
+    "descripcion_raw": "LIP 4 PIEZAS CARBONO AMARILLO",
+    "precio_mayoreo": 255,
+    "img_pieza": "assets/catalog_aero/LP-61.jpg"
+  },
+  {
+    "sku": "DF-44",
+    "codigo_original": "DF-44",
+    "page": 87,
+    "descripcion_raw": "DIFUSOR 128CM AMARILLO",
+    "precio_mayoreo": 218,
+    "img_pieza": "assets/catalog_aero/DF-44.jpg"
+  },
+  {
+    "sku": "DF-34",
+    "codigo_original": "DF-34",
+    "page": 87,
+    "descripcion_raw": "DIFUSOR GOLF 15- 17 PT B NEGRO BRILLANTE",
+    "precio_mayoreo": 379,
+    "img_pieza": "assets/catalog_aero/DF-34.jpg"
+  },
+  {
+    "sku": "LP-31",
+    "codigo_original": "LP-31",
+    "page": 87,
+    "descripcion_raw": "LIP DEL 3 PIEZAS RONDA CABONO NEGRO 35",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-31.jpg"
+  },
+  {
+    "sku": "LP-20",
+    "codigo_original": "LP-20",
+    "page": 87,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO ROJO",
+    "precio_mayoreo": 32,
+    "img_pieza": "assets/catalog_aero/LP-20.jpg"
+  },
+  {
+    "sku": "LP-21",
+    "codigo_original": "LP-21",
+    "page": 87,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO AZUL",
+    "precio_mayoreo": 33,
+    "img_pieza": "assets/catalog_aero/LP-21.jpg"
+  },
+  {
+    "sku": "LP-127",
+    "codigo_original": "LP-127",
+    "page": 88,
+    "descripcion_raw": "LIP ESQUINERO DEL.CIVIC 22-23 TAI NEGRO BRILLANTE",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-127.jpg"
+  },
+  {
+    "sku": "DF-57",
+    "codigo_original": "DF-57",
+    "page": 88,
+    "descripcion_raw": "DIFUSOR CIVIC 22-23 TAI NEGRO BRILLANTE",
+    "precio_mayoreo": 386,
+    "img_pieza": "assets/catalog_aero/DF-57.jpg"
+  },
+  {
+    "sku": "LP-130",
+    "codigo_original": "LP-130",
+    "page": 88,
+    "descripcion_raw": "LIP ESQUINERO TRA.CIVIC 16-21 NEGRO BRILLANTE",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-130.jpg"
+  },
+  {
+    "sku": "LP-131",
+    "codigo_original": "LP-131",
+    "page": 88,
+    "descripcion_raw": "LIP ESQUINERO DEL.CIVIC 19-21 NEGRO BRILLANTE",
+    "precio_mayoreo": 122,
+    "img_pieza": "assets/catalog_aero/LP-131.jpg"
+  },
+  {
+    "sku": "LP-133",
+    "codigo_original": "LP-133",
+    "page": 89,
+    "descripcion_raw": "LIP MODEL 3 18- 23 NEGRO BRILLANTE",
+    "precio_mayoreo": 134,
+    "img_pieza": "assets/catalog_aero/LP-133.jpg"
+  },
+  {
+    "sku": "LP-135",
+    "codigo_original": "LP-135",
+    "page": 89,
+    "descripcion_raw": "LIP LATERAL CITY 20-22 SEDAN RS NEGRO BRILLANTE",
+    "precio_mayoreo": 444,
+    "img_pieza": "assets/catalog_aero/LP-135.jpg"
+  },
+  {
+    "sku": "LP-137",
+    "codigo_original": "LP-137",
+    "page": 89,
+    "descripcion_raw": "LIP CRV 23+ A NEGRO BRILLANTE",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-137.jpg"
+  },
+  {
+    "sku": "LP-138",
+    "codigo_original": "LP-138",
+    "page": 89,
+    "descripcion_raw": "LIP ACCORD 18-20 B NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-138.jpg"
+  },
+  {
+    "sku": "DF-63",
+    "codigo_original": "DF-63",
+    "page": 89,
+    "descripcion_raw": "DIFUSOR ACCORD 18-22 A NEGRO BRILLANTE",
+    "precio_mayoreo": 337,
+    "img_pieza": "assets/catalog_aero/DF-63.jpg"
+  },
+  {
+    "sku": "LP-139",
+    "codigo_original": "LP-139",
+    "page": 89,
+    "descripcion_raw": "LIP CAMRY 18-20 SE A NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-139.jpg"
+  },
+  {
+    "sku": "LP-140",
+    "codigo_original": "LP-140",
+    "page": 90,
+    "descripcion_raw": "LIP CAMRY 18-20 LE/XLE A NEGRO BRILLANTE",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-140.jpg"
+  },
+  {
+    "sku": "LP-151",
+    "codigo_original": "LP-151",
+    "page": 90,
+    "descripcion_raw": "LIP CLASE C 22- 23 NEGRO BRILLANTE",
+    "precio_mayoreo": 144,
+    "img_pieza": "assets/catalog_aero/LP-151.jpg"
+  },
+  {
+    "sku": "LP-152",
+    "codigo_original": "LP-152",
+    "page": 90,
+    "descripcion_raw": "LIP CLASE E 400/450 17-20 SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-152.jpg"
+  },
+  {
+    "sku": "LP-153",
+    "codigo_original": "LP-153",
+    "page": 90,
+    "descripcion_raw": "LIP CLASE CLA 250 17-19 SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-153.jpg"
+  },
+  {
+    "sku": "LP-154",
+    "codigo_original": "LP-154",
+    "page": 90,
+    "descripcion_raw": "LIP CLASE CLA 200/250 20-23 NEGRO BRILLANTE",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-154.jpg"
+  },
+  {
+    "sku": "DF-61",
+    "codigo_original": "DF-61",
+    "page": 91,
+    "descripcion_raw": "DIFUSOR FIT 18- 20 RS NEGRO BRILLANTE",
+    "precio_mayoreo": 368,
+    "img_pieza": "assets/catalog_aero/DF-61.jpg"
+  },
+  {
+    "sku": "LP-141",
+    "codigo_original": "LP-141",
+    "page": 91,
+    "descripcion_raw": "LIP COROLLA 20- 23 LE/XLE A NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-141.jpg"
+  },
+  {
+    "sku": "LP-146",
+    "codigo_original": "LP-146",
+    "page": 91,
+    "descripcion_raw": "LIP BMW1 20-22 SEDAN SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 178,
+    "img_pieza": "assets/catalog_aero/LP-146.jpg"
+  },
+  {
+    "sku": "LP-147",
+    "codigo_original": "LP-147",
+    "page": 91,
+    "descripcion_raw": "LIP BMW SERIE 3 19-22 330IA M SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 178,
+    "img_pieza": "assets/catalog_aero/LP-147.jpg"
+  },
+  {
+    "sku": "LP-148",
+    "codigo_original": "LP-148",
+    "page": 91,
+    "descripcion_raw": "LIP MAZDA 6 19- 21 NEGRO BRILLANTE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-148.jpg"
+  },
+  {
+    "sku": "LP-150",
+    "codigo_original": "LP-150",
+    "page": 92,
+    "descripcion_raw": "LIP CLASE C 300 19-21 SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 145,
+    "img_pieza": "assets/catalog_aero/LP-150.jpg"
+  },
+  {
+    "sku": "LP-158",
+    "codigo_original": "LP-158",
+    "page": 92,
+    "descripcion_raw": "LIP HRV 19-22 NEGRO BRILLANTE",
+    "precio_mayoreo": 188,
+    "img_pieza": "assets/catalog_aero/LP-158.jpg"
+  },
+  {
+    "sku": "LP-120",
+    "codigo_original": "LP-120",
+    "page": 92,
+    "descripcion_raw": "LIP FIT 18-20 A CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-120.jpg"
+  },
+  {
+    "sku": "DF-56",
+    "codigo_original": "DF-56",
+    "page": 92,
+    "descripcion_raw": "DIFUSOR SENTRA 20-23 A CARBONO",
+    "precio_mayoreo": 479,
+    "img_pieza": "assets/catalog_aero/DF-56.jpg"
+  },
+  {
+    "sku": "LP-121",
+    "codigo_original": "LP-121",
+    "page": 92,
+    "descripcion_raw": "LIP CRV 17-19 A CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-121.jpg"
+  },
+  {
+    "sku": "LP-122",
+    "codigo_original": "LP-122",
+    "page": 93,
+    "descripcion_raw": "LIP CRV 20-22 A CARBONO",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-122.jpg"
+  },
+  {
+    "sku": "LP-226",
+    "codigo_original": "LP-226",
+    "page": 93,
+    "descripcion_raw": "LIP LATERAL GOLF 15-17 CARBONO NEGRO",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/LP-226.jpg"
+  },
+  {
+    "sku": "LP-234",
+    "codigo_original": "LP-234",
+    "page": 93,
+    "descripcion_raw": "LIP JETTA 19-21 B CARBONO NEGRO",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-234.jpg"
+  },
+  {
+    "sku": "DF-50",
+    "codigo_original": "DF-50",
+    "page": 93,
+    "descripcion_raw": "DIFUSOR CIVIC 22-23 A CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 1099,
+    "img_pieza": "assets/catalog_aero/DF-50.jpg"
+  },
+  {
+    "sku": "LP-128",
+    "codigo_original": "LP-128",
+    "page": 93,
+    "descripcion_raw": "LIP ESQUINERO TRA.CIVIC 22-23 TAI NEGRO BRILLANTE",
+    "precio_mayoreo": 133,
+    "img_pieza": "assets/catalog_aero/LP-128.jpg"
+  },
+  {
+    "sku": "LP-136",
+    "codigo_original": "LP-136",
+    "page": 94,
+    "descripcion_raw": "LIP ESQUINERO TRA.CITY 20-22 SEDAN NEGRO BRILLANTE",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-136.jpg"
+  },
+  {
+    "sku": "DF-62",
+    "codigo_original": "DF-62",
+    "page": 94,
+    "descripcion_raw": "DIFUSOR CITY 20- 22 SEDAN NEGRO BRILLANTE",
+    "precio_mayoreo": 388,
+    "img_pieza": "assets/catalog_aero/DF-62.jpg"
+  },
+  {
+    "sku": "LP-67",
+    "codigo_original": "LP-67",
+    "page": 94,
+    "descripcion_raw": "LIP LATERAL POLO 13-19 NEGRO BRILLANTE 10",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/LP-67.jpg"
+  },
+  {
+    "sku": "LP-62",
+    "codigo_original": "LP-62",
+    "page": 94,
+    "descripcion_raw": "LIP LATERAL GOLF 11-13 PT NEGRO BRILLANTE 9",
+    "precio_mayoreo": 99,
+    "img_pieza": "assets/catalog_aero/LP-62.jpg"
+  },
+  {
+    "sku": "DF-53",
+    "codigo_original": "DF-53",
+    "page": 94,
+    "descripcion_raw": "DIFUSOR GOLF 18- 20 GTI C NEGRO BRILLANTE",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/DF-53.jpg"
+  },
+  {
+    "sku": "LP-66",
+    "codigo_original": "LP-66",
+    "page": 94,
+    "descripcion_raw": "LIP 4 PIEZAS POLO 13-19 PT NEGRO BRILLANTE 10",
+    "precio_mayoreo": 386,
+    "img_pieza": "assets/catalog_aero/LP-66.jpg"
+  },
+  {
+    "sku": "LP-105",
+    "codigo_original": "LP-105",
+    "page": 95,
+    "descripcion_raw": "LIP TRA.GOLF 15- 17 GTI NEGRO BRILLANTE",
+    "precio_mayoreo": 177,
+    "img_pieza": "assets/catalog_aero/LP-105.jpg"
+  },
+  {
+    "sku": "LP-103",
+    "codigo_original": "LP-103",
+    "page": 95,
+    "descripcion_raw": "LIP LATERAL GOLF 15-17 GTI NEGRO BRILLANTE",
+    "precio_mayoreo": 68,
+    "img_pieza": "assets/catalog_aero/LP-103.jpg"
+  },
+  {
+    "sku": "LP-163",
+    "codigo_original": "LP-163",
+    "page": 95,
+    "descripcion_raw": "LIP LATERAL SERIE 1 19-21 SEDAN NEGRO BRILLANTE",
+    "precio_mayoreo": 354,
+    "img_pieza": "assets/catalog_aero/LP-163.jpg"
+  },
+  {
+    "sku": "LP-170",
+    "codigo_original": "LP-170",
+    "page": 95,
+    "descripcion_raw": "LIP CLASE C 12- 14 CGI SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-170.jpg"
+  },
+  {
+    "sku": "LP-171",
+    "codigo_original": "LP-171",
+    "page": 96,
+    "descripcion_raw": "LIP CLASE C 12- 14 180/200 NEGRO BRILLANTE",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-171.jpg"
+  },
+  {
+    "sku": "DF-79",
+    "codigo_original": "DF-79",
+    "page": 96,
+    "descripcion_raw": "DIFUSOR CAMRY 18-23 LE/XLE CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 811,
+    "img_pieza": "assets/catalog_aero/DF-79.jpg"
+  },
+  {
+    "sku": "LP-177",
+    "codigo_original": "LP-177",
+    "page": 96,
+    "descripcion_raw": "LIP COROLLA 20- 23 SE NEGRO BRILLANTE",
+    "precio_mayoreo": 211,
+    "img_pieza": "assets/catalog_aero/LP-177.jpg"
+  },
+  {
+    "sku": "LP-192",
+    "codigo_original": "LP-192",
+    "page": 96,
+    "descripcion_raw": "LIP A4 17-19 TS LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-192.jpg"
+  },
+  {
+    "sku": "LP-194",
+    "codigo_original": "LP-194",
+    "page": 96,
+    "descripcion_raw": "LIP A5 21-23 S LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-194.jpg"
+  },
+  {
+    "sku": "LP-197",
+    "codigo_original": "LP-197",
+    "page": 96,
+    "descripcion_raw": "LIP CRUZE 17-18 NEGRO BRILLANTE",
+    "precio_mayoreo": 211,
+    "img_pieza": "assets/catalog_aero/LP-197.jpg"
+  },
+  {
+    "sku": "DF-75",
+    "codigo_original": "DF-75",
+    "page": 97,
+    "descripcion_raw": "DIFUSOR SERIE 1 20-21 SEDAN 120IA M SPORT AT NEGRO BRILLANTE",
+    "precio_mayoreo": 555,
+    "img_pieza": "assets/catalog_aero/DF-75.jpg"
+  },
+  {
+    "sku": "LP-182",
+    "codigo_original": "LP-182",
+    "page": 97,
+    "descripcion_raw": "LIP MAZDA 6 14- 18 NEGRO BRILLANTE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-182.jpg"
+  },
+  {
+    "sku": "LP-183",
+    "codigo_original": "LP-183",
+    "page": 97,
+    "descripcion_raw": "LIP Q50 15-17 PERFECTION NEGRO BRILLANTE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-183.jpg"
+  },
+  {
+    "sku": "LP-184",
+    "codigo_original": "LP-184",
+    "page": 97,
+    "descripcion_raw": "LIP Q50 15-17 HYBRID/SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 155,
+    "img_pieza": "assets/catalog_aero/LP-184.jpg"
+  },
+  {
+    "sku": "LP-207",
+    "codigo_original": "LP-207",
+    "page": 97,
+    "descripcion_raw": "LIP LATERAL DE VENTANA TRA.TIGUAN 18-23 NEGRO BRILLANTE",
+    "precio_mayoreo": 78,
+    "img_pieza": "assets/catalog_aero/LP-207.jpg"
+  },
+  {
+    "sku": "LP-208",
+    "codigo_original": "LP-208",
+    "page": 97,
+    "descripcion_raw": "LIP LATERAL DE VENTANA TRA.TIGUAN 09-17 NEGRO BRILLANTE",
+    "precio_mayoreo": 78,
+    "img_pieza": "assets/catalog_aero/LP-208.jpg"
+  },
+  {
+    "sku": "LP-210",
+    "codigo_original": "LP-210",
+    "page": 98,
+    "descripcion_raw": "LIP ESQUINERO TRA.ACCORD 18-22 A NEGRO BRILLANTE",
+    "precio_mayoreo": 111,
+    "img_pieza": "assets/catalog_aero/LP-210.jpg"
+  },
+  {
+    "sku": "DF-59",
+    "codigo_original": "DF-59",
+    "page": 98,
+    "descripcion_raw": "DIFUSOR CIVIC 16-21 B NEGRO BRILLANTE",
+    "precio_mayoreo": 377,
+    "img_pieza": "assets/catalog_aero/DF-59.jpg"
+  },
+  {
+    "sku": "DF-66",
+    "codigo_original": "DF-66",
+    "page": 98,
+    "descripcion_raw": "DIFUSOR H AZUL",
+    "precio_mayoreo": 240,
+    "img_pieza": "assets/catalog_aero/DF-66.jpg"
+  },
+  {
+    "sku": "DF-68",
+    "codigo_original": "DF-68",
+    "page": 98,
+    "descripcion_raw": "DIFUSOR H BLANCO",
+    "precio_mayoreo": 240,
+    "img_pieza": "assets/catalog_aero/DF-68.jpg"
+  },
+  {
+    "sku": "DF-80",
+    "codigo_original": "DF-80",
+    "page": 98,
+    "descripcion_raw": "DIFUSOR CIVIC 22-23 C CON LED NEGRO BRILLANTE",
+    "precio_mayoreo": 700,
+    "img_pieza": "assets/catalog_aero/DF-80.jpg"
+  },
+  {
+    "sku": "LP-191",
+    "codigo_original": "LP-191",
+    "page": 98,
+    "descripcion_raw": "LIP A4 21-23 TS LINE NEGRO BRILLANTE",
+    "precio_mayoreo": 156,
+    "img_pieza": "assets/catalog_aero/LP-191.jpg"
+  },
+  {
+    "sku": "DF-85",
+    "codigo_original": "DF-85",
+    "page": 99,
+    "descripcion_raw": "DIFUSOR SENTRA 17-19 NEGRO+PLATA",
+    "precio_mayoreo": 333,
+    "img_pieza": "assets/catalog_aero/DF-85.jpg"
+  },
+  {
+    "sku": "LP-180",
+    "codigo_original": "LP-180",
+    "page": 99,
+    "descripcion_raw": "LIP ELANTRA 22- 23 NEGRO BRILLANTE",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/LP-180.jpg"
+  },
+  {
+    "sku": "LP-417",
+    "codigo_original": "LP-417",
+    "page": 99,
+    "descripcion_raw": "LIP TIGUAN 22-23 RLINE CARBONO",
+    "precio_mayoreo": 233,
+    "img_pieza": "assets/catalog_aero/LP-417.jpg"
+  },
+  {
+    "sku": "DF-109",
+    "codigo_original": "DF-109",
+    "page": 99,
+    "descripcion_raw": "DIFUSOR ACCENT 18-22 CARBONO",
+    "precio_mayoreo": 652,
+    "img_pieza": "assets/catalog_aero/DF-109.jpg"
+  },
+  {
+    "sku": "LP-83",
+    "codigo_original": "LP-83",
+    "page": 99,
+    "descripcion_raw": "LIP LATERAL 220CM NEGRO+AMARILLO",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-83.jpg"
+  },
+  {
+    "sku": "DF-39",
+    "codigo_original": "DF-39",
+    "page": 100,
+    "descripcion_raw": "DIFUSOR E BLANCO",
+    "precio_mayoreo": 220,
+    "img_pieza": "assets/catalog_aero/DF-39.jpg"
+  },
+  {
+    "sku": "DF-127",
+    "codigo_original": "DF-127",
+    "page": 100,
+    "descripcion_raw": "DIFUSOR COROLLA 20-23 LE/XLE A CARBONO",
+    "precio_mayoreo": 568,
+    "img_pieza": "assets/catalog_aero/DF-127.jpg"
+  },
+  {
+    "sku": "LP-405",
+    "codigo_original": "LP-405",
+    "page": 100,
+    "descripcion_raw": "LIP BMW 1 15-19 M SPORT NEGRO BRILLANTE",
+    "precio_mayoreo": 234,
+    "img_pieza": "assets/catalog_aero/LP-405.jpg"
+  },
+  {
+    "sku": "LP-225",
+    "codigo_original": "LP-225",
+    "page": 100,
+    "descripcion_raw": "LIP JETTA 22-23 NEGRO BRILLANTE",
+    "precio_mayoreo": 525,
+    "img_pieza": "assets/catalog_aero/LP-225.jpg"
+  },
+  {
+    "sku": "LP-30",
+    "codigo_original": "LP-30",
+    "page": 100,
+    "descripcion_raw": "LIP UNIVERSAL SAMURAI CARBONO NEGRO",
+    "precio_mayoreo": 44,
+    "img_pieza": "assets/catalog_aero/LP-30.jpg"
+  },
+  {
+    "sku": "DF-45",
+    "codigo_original": "DF-45",
+    "page": 101,
+    "descripcion_raw": "DIFUSR F 125CM ROJO",
+    "precio_mayoreo": 222,
+    "img_pieza": "assets/catalog_aero/DF-45.jpg"
+  },
+  {
+    "sku": "LP-47",
+    "codigo_original": "LP-47",
+    "page": 101,
+    "descripcion_raw": "LIP MAZDA 3 19- 23 A NEGRO BRILLANTE",
+    "precio_mayoreo": 299,
+    "img_pieza": "assets/catalog_aero/LP-47.jpg"
+  },
+  {
+    "sku": "LP-215",
+    "codigo_original": "LP-215",
+    "page": 101,
+    "descripcion_raw": "LIP 5 PIEZAS C NEGRO+ROJO 20",
+    "precio_mayoreo": 167,
+    "img_pieza": "assets/catalog_aero/LP-215.jpg"
+  }
+]
